@@ -1,0 +1,16 @@
+---
+title: Adobe Brand Concierge-Einstellungen
+description: Einstellungen für Adobe Brand Concierge.
+source-git-commit: a64caed2691d208c76299dc54a32874b4fb07c4b
+workflow-type: tm+mt
+source-wordcount: '43'
+ht-degree: 0%
+
+---
+
+
+# Dokumentation zu Brand Concierge
+
+![Brand Concierge](/help/assets/overview/hero.png){align="center"}
+
+Willkommen in der Dokumentation zu Adobe Brand Concierge. Wir haben zwei Bereiche für die Dokumentation, [B2B](./b2b/overview.md) und [B2C](./b2c/overview.md) und mehrere gemeinsame Ressourcen, die unabhängig vom geschäftlichen Anwendungsfall nützlich sein werden.
