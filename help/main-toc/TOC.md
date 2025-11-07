@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge erkunden
-source-git-commit: 3053ecf5faa0c8880413028868078bc27bb2d5dc
+source-git-commit: 56abfd121adda7ccf59a537932a67aedf3861d2b
 workflow-type: tm+mt
-source-wordcount: '26'
-ht-degree: 30%
+source-wordcount: '22'
+ht-degree: 18%
 
 ---
 
@@ -17,7 +17,3 @@ ht-degree: 30%
    + [Ersten Concierge erstellen](../getting-started/create-first-concierge.md)
 + Dokumentation{#documentation}
    + [Überblick](../documentation/overview.md)
-   + B2B{#b2b}
-      + [Überblick](../documentation/b2b/overview.md)
-   + B2C{#b2c}
-      + [Überblick](../documentation/b2c/overview.md)
