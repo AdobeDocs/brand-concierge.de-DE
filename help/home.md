@@ -1,7 +1,7 @@
 ---
 title: Adobe Brand Concierge
 description: Weitere Informationen zu Adobe Brand Concierge.
-source-git-commit: d3a53534682496de3462e16cfb38240127d309d9
+source-git-commit: fbfd0d8849c7889160f7082a985696e93386c488
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
@@ -16,4 +16,3 @@ ht-degree: 0%
 Verwandeln Sie das lässige Surfen Ihrer Kunden in extrem personalisierte, maßgeschneiderte Erlebnisse. Brand Concierge schafft persönliche Momente zwischen Ihnen und Ihren Kunden durch intensive Gespräche, die alle Bedürfnisse antizipieren.
 
 ## Erste Schritte mit Adobe Brand Concierge
-
