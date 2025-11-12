@@ -32,4 +32,4 @@ Erfahren Sie, wie Sie Ihre erste Adobe Brand Concierge einrichten, um Kunden bei
 * Verbinden von Inhaltsquellen für präzise Antworten
 * Anpassen der Markensprache und Testen des Erlebnisses
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476530/?captions=ger&learn=on&enablevpops)
