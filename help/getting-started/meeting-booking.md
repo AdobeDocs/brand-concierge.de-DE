@@ -32,4 +32,4 @@ Erfahren Sie mehr über die Funktion „Buchung einer Besprechung“ in Adobe Br
 * Erfahren Sie, wie schnell und einfach eine Übertragung an einen Live Agent erfolgt
 * Informationen zur Verwaltung und Konfiguration dieser Tools
 
->[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478543?captions=ger&learn=on&enablevpops)
