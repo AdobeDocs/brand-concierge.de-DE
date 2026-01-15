@@ -3,9 +3,9 @@ title: Einrichten und Konfigurieren von Meetings
 description: Erfahren Sie, wie Sie Meetings in Adobe Brand Concierge einrichten und konfigurieren.
 level: Beginner
 role: User,Admin
-source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
+source-git-commit: 9bd739128b25805d8e17b65b2fb9fea65c820526
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '343'
 ht-degree: 2%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 2%
 # Besprechungen {#meetings}
 
 Hier erfahren Sie mehr über Ihre _Meeting_ Einstellungen in Adobe Brand Concierge. Verbinden Sie Ihren Kalender, legen Sie die Verfügbarkeit fest, zeigen Sie Analysen an und vieles mehr.
+
+Ähnliches: [Meeting buchen](../getting-started/meeting-booking.md) video
 
 ## Konfiguration {#configuration}
 
