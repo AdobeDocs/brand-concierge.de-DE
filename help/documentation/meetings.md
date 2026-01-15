@@ -1,10 +1,12 @@
 ---
-title: Konferenzen in Adobe Brand Concierge
+title: Einrichten und Konfigurieren von Meetings
 description: Erfahren Sie, wie Sie Meetings in Adobe Brand Concierge einrichten und konfigurieren.
-source-git-commit: 3994c9557bfed43aef9584324fe6be0f70b974dc
+level: Beginner
+role: User,Admin
+source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 3%
+source-wordcount: '338'
+ht-degree: 2%
 
 ---
 
@@ -24,31 +26,41 @@ Stellen Sie eine Verbindung zu Ihrem Outlook- oder Google-Konto her und bestimme
 
    ![Adobe Experience Platform-Homepage](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
-1. Klicken _unter_ auf **[!UICONTROL Repräsentative Einstellungen]**. Wählen _[!UICONTROL auf der Registerkarte]_ Kalenderkonfiguration“ den gewünschten Kalender aus. In diesem Beispiel wählen wir &quot;**[!UICONTROL &quot;]**.
+1. Klicken _unter_ auf **[!UICONTROL Repräsentative Einstellungen]**.
 
    ![Kalenderkonfigurationsseite](assets/meetings-connect-2.png)
+
+   Wählen _[!UICONTROL auf der Registerkarte]_ Kalenderkonfiguration“ den gewünschten Kalender aus. In diesem Beispiel wählen Sie &quot;**[!UICONTROL &quot;]**.
 
 1. Wählen Sie ein bereits angemeldetes Konto aus oder fügen Sie ein neues hinzu.
 
    ![Microsoft-Modal zur Kontoauswahl](assets/meetings-connect-3.png)
 
-1. Wenn die Verbindung abgeschlossen ist, legen Sie den gewünschten E-Mail-Inhalt fest, der an den Empfänger gesendet wird, wenn er ein Meeting mit Ihnen bucht. Sie können auch einen Link zu einem Microsoft Teams-Meeting einfügen (optional). Klicken Sie abschließend auf **[!UICONTROL Speichern]**.
+1. Geben Sie nach Abschluss der Verbindung den gewünschten E-Mail-Inhalt an.
+
+   Dies ist der Inhalt, der an den Empfänger gesendet wird, wenn er ein Meeting mit Ihnen bucht. Sie können auch einen Link zu einem Microsoft Teams-Meeting einfügen (optional).
 
    ![Details zur Besprechungsbestätigungs-E-Mail](assets/meetings-connect-4.png)
 
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
+
 ### Festlegen der Kalenderverfügbarkeit {#availability}
 
-1. Wählen Sie die **[!UICONTROL Kalenderverfügbarkeit]** aus.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Kalenderverfügbarkeit“.
 
    ![Leere Seite zur Kalenderverfügbarkeit](assets/meetings-availability-1.png)
 
-1. Wählen Sie Ihre gewünschten Einstellungen aus. In diesem Beispiel wählen wir &quot;_[!UICONTROL &quot;]_ 30 Minuten mit einer 15-minütigen _[!UICONTROL Pufferzeit]_ und einer _[!UICONTROL Mindestankündigung]_ von 2 Stunden. Unsere Verfügbarkeit ist auf Montag bis Freitag, 8-17 Uhr PST eingestellt, mit einer einstündigen Pause am Mittag. Klicken Sie abschließend auf **[!UICONTROL Speichern]**.
+1. Wählen Sie Ihre gewünschten Einstellungen aus.
 
->[!NOTE]
->
->Um weitere Zeitoptionen hinzuzufügen, klicken Sie einfach auf das Pluszeichen (![Pluszeichen](assets/icon-plus-sign.png)).
+   In diesem Beispiel wählen Sie **[!UICONTROL Besprechungsdauer]** von 30 Minuten mit einer 15-minütigen **[!UICONTROL Pufferzeit]** und einer **[!UICONTROL Mindestankündigung]** von 2 Stunden. Die Verfügbarkeit ist von Montag bis Freitag, 8:00 bis 17:00 Uhr (PST), mit einer einstündigen Pause am Mittag.
 
-![Seite zur Kalenderverfügbarkeit mit allen ausgefüllten Feldern](assets/meetings-availability-2.png)
+   >[!NOTE]
+   >
+   >Um weitere Zeitoptionen hinzuzufügen, klicken Sie auf das Pluszeichen (![Pluszeichen](assets/icon-plus-sign.png)).
+
+   ![Seite zur Kalenderverfügbarkeit mit allen ausgefüllten Feldern](assets/meetings-availability-2.png)
+
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 ### Repräsentative Geschäftsführung {#representative}
 
@@ -58,16 +70,16 @@ Stellen Sie eine Verbindung zu Ihrem Outlook- oder Google-Konto her und bestimme
 
 ## Aktivitäten {#activities}
 
-### Besprechungsbuchungen {#bookings}
+Klicken Sie **[!UICONTROL Besprechungsbuchungen]**, um gebuchte Besprechungen zu überprüfen, festzustellen, welche Informationen erfasst wurden, zu erfahren, wann das Meeting geplant wurde, und mehr.
 
-Überprüfen Sie gebuchte Meetings, welche Informationen erfasst wurden, wann das Meeting geplant wurde und vieles mehr.
+### Meeting-Seite {#bookings}
 
 ![Besprechungsbuchungsseite](assets/meetings-bookings-1.png){width="800" zoomable="yes"}
 
 ## Analytics {#analytics}
 
-### Meeting-Performance {#performance}
+Klicken Sie **[!UICONTROL Meeting-Leistung]**, um mehrere verschiedene Analytics-Kategorien zu überprüfen, einschließlich der Anzahl der Besucherinnen und Besucher, die die Meetings angefordert haben und der Anzahl der Versäumnisse. Man kann den Trend der Meetings beobachten, wer die Repräsentanten sind, die die Meetings absolvierten und vieles mehr.
 
-Überprüfen Sie _[!UICONTROL Meeting-]_) mehrere verschiedene Analytics-Kategorien, darunter die Anzahl der Besucherinnen und Besucher, die Besprechungen angefordert haben, die Anzahl der Versäumnisse, den Trend der Meetings, die Repräsentanten, die die Meetings durchgeführt haben und vieles mehr.
+### Besprechungsseite {#performance}
 
 ![Meeting-Leistungsseite](assets/meetings-performance-1.png){width="800" zoomable="yes"}

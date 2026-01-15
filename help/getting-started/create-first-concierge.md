@@ -1,5 +1,5 @@
 ---
-title: Erste Schritte mit Brand Concierge
+title: Erstellen eines Concierge-Videos
 description: Erfahren Sie, wie Sie mit der Stimme Ihrer Marke ein Adobe Brand Concierge einrichten, um Ihren Kunden personalisierte, interaktive Erlebnisse zu bieten.
 topic: Personalization,Integrations
 role: User
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 181
 last-substantial-update: 2025-10-31T00:00:00Z
 jira: KT-19504
-source-git-commit: 9ae37f8f5b85e21930ccc0644520f31d65a81829
+source-git-commit: f2006c69fec365551f791a6c94bca6f1c2c6cdc4
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,6 @@ Erfahren Sie, wie Sie Ihre erste Adobe Brand Concierge einrichten, um Kunden bei
 * Verbinden von Inhaltsquellen für präzise Antworten
 * Anpassen der Markensprache und Testen des Erlebnisses
 
->[!VIDEO](https://video.tv.adobe.com/v/3476530/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
+
+Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).

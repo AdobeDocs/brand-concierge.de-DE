@@ -1,9 +1,9 @@
 ---
-title: Adobe Brand Concierge
-description: Weitere Informationen zu Adobe Brand Concierge.
-source-git-commit: 0350baa8ed2e7cd5f8a676c5eb82a165767cbf4f
+title: Dokumentation und Tutorials
+description: Erfahren Sie, wie Sie Ihren KI-Assistenten mit Handbüchern für Einrichtung, Wissensquellen, Markenanpassung, Meetings und Analysen konfigurieren und optimieren können.
+source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---

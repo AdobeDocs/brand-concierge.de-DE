@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 226
 last-substantial-update: 2026-01-06T00:00:00Z
 jira: KT-19622
-source-git-commit: 52eee4c0baf9b4d1b7d2ba57254d4e0e998e5f20
+source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,6 @@ Erfahren Sie mehr über die Funktion „Buchung einer Besprechung“ in Adobe Br
 * Erfahren Sie, wie schnell und einfach eine Übertragung an einen Live Agent erfolgt
 * Informationen zur Verwaltung und Konfiguration dieser Tools
 
->[!VIDEO](https://video.tv.adobe.com/v/3478543?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
+
+Weitere Informationen finden Sie unter [Meetings](../documentation/meetings.md).
