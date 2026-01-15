@@ -33,7 +33,7 @@ Sie können über das Adobe Experience Cloud-Dashboard auf Brand Concierge zugre
 1. [Einen Concierge einrichten](#homepage)
 1. [Hinzufügen von Wissensquellen](#knowledge-sources)
 1. [Configure Skills](#skills-configuration)
-1. [Geben Sie Ihren Markenausdruck ](#brand-expression).
+1. [Geben Sie Ihren Markenausdruck &#x200B;](#brand-expression).
 
 Ein Video-Tutorial finden Sie unter [Erstellen des ersten Concierge](../getting-started/create-first-concierge.md)
 
