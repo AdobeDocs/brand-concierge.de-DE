@@ -1,5 +1,5 @@
 ---
-title: Besprechung buchen
+title: Besprechung buchen - Video
 description: Erfahren Sie, wie Sie ein Meeting buchen. Sehen Sie sich das Erlebnis als Kundin oder Kunde an, konfigurieren Sie Vertreterinnen und Vertreter für die Verwendung ihrer Kalender und zeigen Sie Berichte an
 topic: Artificial Intelligence,Personalization
 role: Admin, User
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 226
 last-substantial-update: 2026-01-06T00:00:00Z
 jira: KT-19622
-source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
+source-git-commit: 1527a37e7ddadcc89e43bdcc0396ee175e3fbdc7
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ Erfahren Sie mehr über die Funktion „Buchung einer Besprechung“ in Adobe Br
 * Erfahren Sie, wie schnell und einfach eine Übertragung an einen Live Agent erfolgt
 * Informationen zur Verwaltung und Konfiguration dieser Tools
 
->[!VIDEO](https://video.tv.adobe.com/v/3478543?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
 
 Weitere Informationen finden Sie unter [Meetings](../documentation/meetings.md).
