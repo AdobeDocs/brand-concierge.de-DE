@@ -3,9 +3,9 @@ title: Häufig gestellte Fragen
 description: Erhalten Sie Antworten auf häufig gestellte Fragen zu Adobe Brand Concierge.
 role: User,Admin
 level: Beginner
-source-git-commit: 0f010472e3f49c5d84e9875a33215d56e020bef8
+source-git-commit: 06911f38d17882cdae8441d5cbdbcdf786d9e6bb
 workflow-type: tm+mt
-source-wordcount: '1091'
+source-wordcount: '1537'
 ht-degree: 1%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 1%
 In diesem Abschnitt finden Sie Antworten auf häufig gestellte Fragen zu Brand Concierge.
 
 ## Allgemein
+
+### Wozu dient Brand Concierge? Welches Problem löst es?
+
+Weitere Untersuchungen finden auf externen KI-Tools (z. B. ChatGPT, Gemini) statt auf Marken-Websites. Besucher wollen zunehmend „zur Sache kommen“ - z. B. „Erzählen Sie mir von X“, „Kann ich Y tun?“ Mit Brand Concierge können Sie diese Konversation auf Ihrer Site fortsetzen: Wenn Besucher auf Ihren Seiten landen (einschließlich über einen KI-Assistenten), können sie die Konversation mit einem auf Ihren Inhalten geschulten Assistenten fortsetzen. Sie können ein konsistentes, markenbezogenes Erlebnis bereitstellen, anstatt sie an allgemeine Antworten an anderer Stelle zu verlieren.
 
 ### Wie unterscheidet sich Brand Concierge von Chatbots?
 
@@ -47,13 +51,29 @@ Sie können die folgenden Arten von Datenquellen mit Brand Concierge verbinden:
 |------------------|---------------------------|
 | **Produkt und Inhalt** | Produktkataloge<br>Inventarsysteme<br>Wissensdatenbanken und Dokumentation<br>Website-Inhalt über CSV-URL-Upload<br>Adobe Experience Manager-Inhalt<br>Adobe Commerce-Daten |
 | **Kundendaten** | Adobe Experience Platform-Profile<br>Adobe Analytics<br>VerhaltensdatenKundenattribute von Erstanbietern<br>APIs von Drittanbietern (konfiguriert) |
-| **CSV-Dateiformat** | Eine Spalte mit Website-URLs<br>Brand Concierge durchsucht URLs und extrahiert Inhalte automatisch<br>Statusaktualisierungen werden in Echtzeit verarbeitet<br>Für verschiedene Inhaltsbereiche können mehrere CSV-Dateien hochgeladen werden |
+| **CSV-Dateiformat** | Eine Spalte mit Website-URLs<br>Brand Concierge crawlen URLs und extrahiert Inhalte automatisch<br>Statusaktualisierungen werden in Echtzeit verarbeitet<br>Für verschiedene Inhaltsbereiche können mehrere CSV-Dateien hochgeladen werden |
 
 Alle Daten entsprechen Ihren Governance-Regeln.
 
 ### Können Kundinnen und Kunden die Personalisierung deaktivieren?
 
 Ja. Kunden, die sich abmelden, erhalten hilfreiche Antworten ohne Verhaltens-Personalisierung. Sie konfigurieren die Handhabung von Opt-outs entsprechend Ihren Datenschutzrichtlinien.
+
+### Gibt es Auswirkungen auf die Zustimmung oder den Datenschutz?
+
+Ja. **Gesprächsdaten:** Wenn das Gespräch personenbezogene oder identifizierbare Informationen enthält, müssen Sammlung, Speicherung und Verwendung Ihren Einwilligungs- und Datenschutzrichtlinien entsprechen (z. B. DSGVO, CCPA). **Analytics:** Wenn der Concierge Ereignisse an Experience Platform oder Analytics sendet, können diese Ereignisse Ihrer bestehenden Zustimmung und Governance unterliegen (z. B. Einverständniszeichenfolgen, Datennutzungskennzeichnungen). Wir empfehlen, Concierge wie jedes andere digitale Erlebnis der ersten Partei zu behandeln: Stellen Sie sicher, dass das Einverständnisbanner und die Voreinstellungen Ihrer Site Gesprächs- und Chat-Daten und Analysen abdecken und Ereignisdaten an Ihre Einverständnisstrategie anpassen. Rechtliche und Compliance-Prüfungen vor der Live-Schaltung durchführen lassen.
+
+## Profile und Personalisierung
+
+### Verwendet der Concierge Kundenprofile (z. B. Real-Time CDP), um die Antworten anzupassen? Was passiert, wenn der Besucher gerade eine Journey durchläuft?
+
+Im aktuellen Umfang konzentriert sich der Concierge auf anonyme Besucher: Er antwortet aus dem Gespräch und Ihrer Wissensdatenbank (Website und Katalog), nicht aus einer Live-Suche nach Identität oder Journey-Status in Real-Time CDP. Zu den Roadmap-Funktionen gehören Lead-Pflege, Übergabe an den Vertrieb und Retargeting, die sich stärker an bekannten Profilen und dem Journey-Kontext ausrichten. Anpassen der Antworten nach „Hat dieser Besucher ein Profil?“ oder „Wo sind sie in einer Journey?“ ist eine zukünftige Verbesserung. Derzeit ist das Erlebnis für anonyme Besucher konsistent.
+
+## Rollout und Zeitleiste
+
+### Wie lange dauert es in der Regel, bis das System live geschaltet wird?
+
+Durch parallele Arbeit und aktive Zusammenarbeit können viele Implementierungen in etwa 6-9 Wochen live gehen. Die Staging-Umgebung kann schnell gestartet werden, sobald Ihre Eingaben (URLs, Katalog, Markenrichtlinien) fertig sind. Nach der Vereinbarungs- und Produktionseinrichtung erfolgen Qualitätsoptimierung und gesteuerter Rollout (z. B. 5 % und anschließende Skalierung auf 100 % innerhalb einer Woche).
 
 ## Konfiguration und Steuerung
 
@@ -109,6 +129,12 @@ Adobe-Berater kümmern sich im Hintergrund um das Prompt Engineering:
 
 Dadurch wird sichergestellt, dass Ihr Concierge Best-Practice-KI-Eingabeaufforderungsmuster verwendet und gleichzeitig Ihre spezifischen Markenanforderungen erfüllt.
 
+## Markenausdruck und -ton
+
+### Wenn ich in Brand Expression „verspielt und begeistert“ festlege, übertreibt dann die KI dies?
+
+Das kann es. Einige Kunden haben berichtet, dass die KI dazu neigt, die Begeisterung zu übertreiben, wenn sie auf „spielerisch und enthusiastisch“ eingestellt ist - zum Beispiel doppelte Ausrufezeichen oder starke Superlative. Für regulierte oder medizinische Zielgruppen (z. B. Pharma, frühe Ernährung) empfehlen wir, Begeisterung und Verspieltheit auszuwählen und dabei den Ton gesprächig und lässig zu halten. Verwenden Sie moderate Einstellungen und richten Sie sich nach dem Feedback. Lehnen Sie sich bei regulierten Branchen eher nach „Gespräch“ als nach „Begeisterung“ ab.
+
 ## Leistung und Analysen
 
 ### Wie kann ich den Erfolg messen?
@@ -118,7 +144,7 @@ Sie können den Erfolg mithilfe des Brand Concierge-Dashboards messen. Verwenden
 | Metrik | Nachverfolgte Inhalte |
 |--------|----------------|
 | **Interaktion** | Gesprächsvolumen, Sitzungslänge |
-| **Zufriedenheit** | Stimmungsbewertungen, Feedback-Bewertungen |
+| **Zufriedenheit** | Sentiment-Bewertungen, Feedback-Bewertungen |
 | **Konversion** | Kaufraten für unterstützte und nicht unterstützte Projekte |
 | **Themen** | Häufigste Fragen und Anfragen |
 | **Übergabe** | Eskalationsraten und -gründe |
@@ -126,9 +152,9 @@ Sie können den Erfolg mithilfe des Brand Concierge-Dashboards messen. Verwenden
 
 Sie können auch eine Integration mit Adobe Analytics vornehmen, um eine tiefere Analyse zu ermöglichen.
 
-### Was sollte ich tun, wenn die Stimmung nachlässt?
+### Was sollte ich tun, wenn Sentiment herunterfällt?
 
-Wenn Sie einen Stimmungsabfall bemerken, untersuchen Sie die zugrunde liegenden Ursachen, indem Sie aktuelle fehlgeschlagene Abfragen durchgehen, nach Inhaltslücken suchen, negatives Feedback analysieren, den richtigen Ton testen und technische Probleme überprüfen. Sobald die Grundursachen erkannt wurden, sollten Sie diese umgehend beheben und die Verbesserung weiterhin überwachen.
+Wenn Sie einen Rückgang beim Sentiment bemerken, untersuchen Sie die zugrunde liegenden Ursachen, indem Sie kürzlich fehlgeschlagene Abfragen durchgehen, nach Inhaltslücken suchen, negatives Feedback analysieren, den richtigen Ton testen und technische Probleme überprüfen. Sobald die Grundursachen erkannt wurden, sollten Sie diese umgehend beheben und die Verbesserung weiterhin überwachen.
 
 ## Integration und technische
 
