@@ -4,10 +4,20 @@ description: Erfahren Sie, wie Sie die wichtigsten Funktionen von Brand Concierg
 role: User,Admin
 level: Beginner
 TQID: https://experienceleague.adobe.com/Ob3NAKyD929Ije-Y7UPO1hMfDYDi-UJ0gINpGlxiYGM
-product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: b5520579-b31f-4df7-9281-f0d9f91e2edcid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: df401a2a-327d-468c-a5e4-b7b7ccd071a0id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
 workflow-type: tm+mt
 source-wordcount: 1793
@@ -38,7 +48,7 @@ Sie können über das Adobe Experience Cloud-Dashboard auf Brand Concierge zugre
 1. [Einen Concierge einrichten](#homepage)
 1. [Hinzufügen von Wissensquellen](#knowledge-sources)
 1. [Configure Skills](#skills-configuration)
-1. [Geben Sie Ihren Markenausdruck ](#brand-expression).
+1. [Geben Sie Ihren Markenausdruck &#x200B;](#brand-expression).
 
 Ein Video-Tutorial finden Sie unter [Erstellen des ersten Concierge](../getting-started/create-first-concierge.md)
 
