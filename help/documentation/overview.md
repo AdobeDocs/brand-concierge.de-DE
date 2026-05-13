@@ -3,9 +3,14 @@ title: Produktdokumentation
 description: Erfahren Sie, wie Sie die wichtigsten Funktionen von Brand Concierge konfigurieren und verwenden.
 role: User,Admin
 level: Beginner
-source-git-commit: 2c3f3d009d8fef3eaf5bf32d73672eeda7ba05c8
+TQID: https://experienceleague.adobe.com/Ob3NAKyD929Ije-Y7UPO1hMfDYDi-UJ0gINpGlxiYGM
+product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5520579-b31f-4df7-9281-f0d9f91e2edcid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: df401a2a-327d-468c-a5e4-b7b7ccd071a0id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
 workflow-type: tm+mt
-source-wordcount: '1768'
+source-wordcount: 1793
 ht-degree: 1%
 
 ---
@@ -24,7 +29,7 @@ Brand Concierge verfügt über eine Reihe wichtiger Funktionen, darunter:
 * **Branding kontrollieren** Passen Sie die Stimme, den Ton und die Reaktionslänge an den Standard und den Ansatz Ihrer jeweiligen Marke an.
 * **Vorschau und Iteration:** Verwenden Sie eine umfassende Vorschau-Oberfläche, um Konversationen zu simulieren und Live-Anpassungen durchzuführen.
 * **Feedback-System:** Verwenden Sie ein Feedback-System, mit dem Benutzer Bewertungen mit dem Daumen nach oben oder unten sowie detaillierte Feedback-Formulare zur Abdeckung von Antworten, zum Ton, zur Qualität und zu Funktionen bereitstellen können.
-* **Analytics-Dashboard** Nutzen Sie ein Analytics-Dashboard, das von Customer Journey Analytics unterstützt wird, für Metriken wie Konversationen, Stimmungen und Interaktionen.
+* **Analytics-Dashboard** Nutzen Sie ein Analytics-Dashboard, das von Customer Journey Analytics unterstützt wird, für Metriken wie Konversationen, Sentiment und Interaktionen.
 
 ## Erste Schritte {#getting-started}
 
@@ -33,7 +38,7 @@ Sie können über das Adobe Experience Cloud-Dashboard auf Brand Concierge zugre
 1. [Einen Concierge einrichten](#homepage)
 1. [Hinzufügen von Wissensquellen](#knowledge-sources)
 1. [Configure Skills](#skills-configuration)
-1. [Geben Sie Ihren Markenausdruck &#x200B;](#brand-expression).
+1. [Geben Sie Ihren Markenausdruck ](#brand-expression).
 
 Ein Video-Tutorial finden Sie unter [Erstellen des ersten Concierge](../getting-started/create-first-concierge.md)
 
@@ -71,7 +76,7 @@ Nach Abschluss des Setups bietet eine Konfigurationsübersicht eine umfassende A
 [!UICONTROL Wissensquellen] helfen Ihnen, die Datenquellen zu verwalten, die die Antworten Ihres Concierge unterstützen. Sie können auf [!UICONTROL Wissensquellen] zugreifen, nachdem Sie Ihre ersten Dateien hochgeladen haben. [!UICONTROL Wissensquellen] muss eine Reihe von Schlüsselelementen berücksichtigen, wie beispielsweise:
 
 * **Source-Liste:** Zeigt alle hochgeladenen Elemente an, z. B. CSV-Dateien mit Website-Links, und gibt deren Status als „Verarbeitet“ oder „Ausstehend“ an.
-* **Upload-Oberfläche:** Ermöglicht es Ihnen, CSV-Dateien mit URLs per Drag-and-Drop abzulegen oder zu suchen, nach denen das System durchsuchen wird, um Wissen zu extrahieren.
+* **Upload-Oberfläche:** Ermöglicht Ihnen, CSV-Dateien mit URLs per Drag-and-Drop abzulegen oder zu suchen, die vom System crawlen werden, um Wissen zu extrahieren.
 * **Verbindungsoptionen:** Sie in die Lage versetzen, bestimmte Wissensquellen mit relevanten Fähigkeiten zu verknüpfen, um sie gezielter einzusetzen.
 
 **So fügen Sie eine Wissensquelle hinzu**
@@ -109,7 +114,7 @@ Verwenden Sie die [!UICONTROL Skills Configuration], um das Know-how Ihres Conci
 1. Wählen Sie eine Qualifikation aus (z. B. Produktberatung).
 1. Beantworten Sie die folgenden Konfigurationsfragen.
 
-   Beispiele für Fragen: _Was sollte der Concierge über Produkte wissen?_: _Welche Geschäftsregeln sollten befolgt werden?_, _Welche Keywords sollten vermieden werden?_
+   Zu den Fragestellungen gehören: _Was sollte der Concierge über Produkte wissen?_, _Welche Geschäftsregeln sollten befolgt werden?_, _Welche Keywords sollten vermieden werden?_
 
 1. Vernetzung relevanter [Wissensquellen](#knowledge-sources).
 1. Aktivieren Sie zusätzliche Funktionen (Meeting-Buchung).
@@ -127,7 +132,7 @@ Mit Markenausdruck können Sie die Stimmen- und Toneinstellungen Ihres Concierge
 2. Konfigurieren Sie als Nächstes die Stimme, den Ton und die bevorzugte Antwortlänge Ihrer Marke.
 3. Wählen Sie **[!UICONTROL Speichern]**, um sicherzustellen, dass die Änderungen in zukünftigen Antworten widergespiegelt werden.
 
-### Vorschau und Test {#preview-and-test}
+### Vorschau und Tests {#preview-and-test}
 
 Testen Sie Ihren Concierge, bevor Sie ihn mit den Modi Vorschau und Testeransicht an Kunden versenden.
 
@@ -166,7 +171,7 @@ Nach dem Testen können Sie auf der Startseite auf der Registerkarte Feedback Fe
 
 Der Abschnitt Feedback enthält mehrere wichtige Funktionen, mit denen Sie die Leistung Ihrer Brand Concierge überwachen und bewerten können. Die folgenden Elemente sind verfügbar:
 
-* **Performance-Momentaufnahme:** Zeigt Karten an, in denen wichtige Metriken zusammengefasst sind, darunter Gesamtunterhaltungen, eindeutige Benutzer, Stimmungstrends und Interaktionsrate.
+* **Performance-Momentaufnahme:** Zeigt Karten an, in denen wichtige Metriken zusammengefasst sind, darunter Gesamtunterhaltungen, Unique Users, Sentiment-Trend und Interaktionsrate.
 * **Schaltfläche „Bericht anzeigen“** Ermöglicht das Öffnen eines von Customer Journey Analytics unterstützten Dashboards für ausführlichen Zugriff auf erweiterte Analysen und Leistungsmetriken.
 * **Feedback-Liste:** Zeigt eine Tabelle mit Feedback-Sitzungen an. Sie können auf einzelne Zeilen klicken, um das vollständige Chat-Transkript für jede Sitzung anzuzeigen.
 * **Feedback-Bedienfeld** Zeigt Bewertungskarten auf der rechten Seite der Benutzeroberfläche an. Wenn Sie den Mauszeiger über diese Karten bewegen oder auf diese klicken, werden die relevanten Teile des Chat-Transkripts hervorgehoben.
@@ -179,7 +184,7 @@ Der Abschnitt Feedback enthält mehrere wichtige Funktionen, mit denen Sie die L
 1. Sie können das Bedienfeld auch auf zusätzliches verbundenes Feedback überprüfen.
 1. Wenn Sie fertig sind, können Sie die Einblicke exportieren, um sie später zu verwenden, und Ihren Workflow verfeinern.
 
-### Konfigurationen  {#configurations}
+### Konfigurationen {#configurations}
 
 Die _[!UICONTROL Konfigurationen]_ ist eine schreibgeschützte Zusammenfassungsansicht, mit der Sie die vollständige Einrichtung Ihres Concierge-Teams überprüfen können. Dies spiegelt die Homepage direkt nach Abschluss der Ersteinrichtung wider und bietet Zusammenfassungen Ihrer Details, Wissensquellen, Fähigkeiten und konfigurierten Markenausdrücke. Sie können diese Funktion als Referenz verwenden, bevor Sie eine Vorschau anzeigen oder Ihren Concierge freigeben.
 
