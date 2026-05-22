@@ -18,9 +18,9 @@ topic_v2:
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 950a34b078c453274cc8ea9b7d236b0871e4a0ad
+source-git-commit: 320bf9530164830eae88075663bdbd6216556b5a
 workflow-type: tm+mt
-source-wordcount: 1995
+source-wordcount: 1999
 ht-degree: 1%
 
 ---
@@ -234,32 +234,32 @@ Brand Concierge unterstützt sowohl B2C- als auch B2B-Anwendungsfälle in versch
 | Reisen und Touristik | Kunden erhalten personalisierte Reisezielempfehlungen, Unterstützung bei der Planung von Reiserouten, Unterstützung während des Buchungsprozesses und Antworten auf Fragen zur Reisepolitik. |
 | Finanz-Services | Brand Concierge bietet Produktvergleiche, um Kunden bei der Auswahl der richtigen Finanzlösungen zu unterstützen, bietet Kontoinformationen, bietet Compliance-orientierte Anleitungen und ermöglicht die Planung von Meetings mit Finanzberatern. |
 
-## Offenlegung von Chatbots {#disclosure}
+## KI-Offenlegung {#disclosure}
 
-Um ein transparentes und vertrauenswürdiges Erlebnis zu bieten, müssen Benutzende von Adobe Brand Concierge für das Hinzufügen einer kurzen Offenlegung innerhalb ihres Chat-Erlebnisses verantwortlich sein. Diese Offenlegung hilft den Endbenutzern zu verstehen, wie der Chat funktioniert und wie ihre Informationen verwendet werden können.
+Um ein transparentes und vertrauenswürdiges Erlebnis zu bieten, müssen Benutzende von Adobe Brand Concierge für das Hinzufügen einer kurzen Offenlegung im Gesprächserlebnis verantwortlich sein. Diese Offenlegung hilft den Endbenutzern zu verstehen, wie die Konversation funktioniert und wie ihre Informationen verwendet werden können.
 
 **Was sollte die Offenlegung abdecken**
 
-Ihre In-Chat-Offenlegung sollte den Endbenutzern drei Dinge klar kommunizieren.
+Ihre im Gespräch befindliche Offenlegung sollte den Endbenutzern drei Dinge klar kommunizieren.
 
-1. _Der Chat verwendet generative KI_
+1. _Die Konversation verwendet generative KI_
 
    Teilen Sie Benutzern mit, dass die Antworten von KI generiert werden, damit sie verstehen, dass sie mit einem automatisierten System interagieren.
 
-1. _Chats können überprüft werden, um das Erlebnis zu verbessern_
+1. _Konversationen können überprüft werden, um das Erlebnis zu verbessern_
 
-   Die Benutzer sollten darüber informiert werden, dass Sie (der Kunde) und Ihre Dienstleister auf Chatgespräche zugreifen können, um die Antworten zu personalisieren und die Qualität und Leistung des Chats zu verbessern.
+   Die Benutzer sollten darüber informiert werden, dass die Konversationen von Ihnen (dem Kunden) und Ihren Dienstleistern aufgerufen werden können, um Antworten zu personalisieren und die Qualität und Leistung der Konversation zu verbessern.
 
-1. _Die Verwendung des Chats bedeutet, dass Sie dieser Verwendung zustimmen_
+1. _Die Verwendung der konversativen KI bedeutet, dieser Verwendung zuzustimmen_
 
-Machen Sie deutlich, dass durch die weitere Nutzung des Chats die Nutzer dieser Verarbeitung ihrer Chat-Daten zustimmen.
+Machen Sie deutlich, dass die Nutzer durch die weitere Nutzung der Konversations-KI mit dieser Verarbeitung ihrer Konversationsdaten einverstanden sind.
 
 **Beispiel (nur zu Referenzzwecken)**
 
-`"This chat uses generative AI to help respond to you. Chats may be recorded by [customer] and/or our service provider and used to help operate and improve services, make your interactions with us better, and provide a more personalized experience. By continuing to chat you agree to this processing of data."`
+`"This conversational AI uses generative AI to help respond to you. Conversations may be recorded by [customer] and/or our service provider and used to help operate and improve services, make your interactions with us better, and provide a more personalized experience. By continuing to conversational AI you agree to this processing of data."`
 
 Es steht Ihnen frei, den Wortlaut an Ihre Markensprache und Ihr Benutzererlebnis anzupassen, solange die oben genannten Hauptpunkte klar kommuniziert werden.
 
 **Warum ist das wichtig**
 
-Sich im Voraus darüber zu informieren, wie der Chat funktioniert, hilft, die richtigen Erwartungen für Benutzer zu setzen und Vertrauen in KI-gestützte Erlebnisse aufzubauen.
+Sich im Voraus darüber zu informieren, wie die konversationelle KI funktioniert, hilft, die richtigen Erwartungen für Benutzende zu setzen, und schafft Vertrauen in KI-gestützte Erlebnisse.
