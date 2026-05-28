@@ -34,6 +34,6 @@ Erfahren Sie, wie die Datenstrom-ID Web-SDK-Ereignisse auf Ihrer Site mit Adobe 
 
 <!-- Replace the video ID in the URL below with your Adobe Media Player asset ID when published. -->
 
->[!VIDEO](https://video.tv.adobe.com/v/3491535?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491542?captions=ger&learn=on)
 
 Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
