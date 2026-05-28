@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Erkunden von Adobe Brand Concierge
-source-git-commit: 39d49289351c4e9a8b733e91daf8692df472031a
+source-git-commit: 5eafcffb1c812ae71326ccde9d2d0440c522db60
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 55%
+source-wordcount: '42'
+ht-degree: 50%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 55%
 + Erste Schritte mit Videos {#getting-started}
    + [Erstellen Sie Ihren ersten Concierge](../getting-started/create-first-concierge.md)
    + [Besprechung buchen](../getting-started/meeting-booking.md)
+   + [Informationen zu Datenstrom-IDs](../getting-started/learn-about-datastream-ids.md)
 + Dokumentation {#documentation}
    + [Hilfe zu Brand Concierge](../documentation/overview.md)
    + [Besprechungen](../documentation/meetings.md)
