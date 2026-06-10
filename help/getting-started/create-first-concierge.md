@@ -1,11 +1,11 @@
 ---
 title: Erstellen eines Concierge-Teams - Video
-description: Erfahren Sie, wie Sie mit der Stimme Ihrer Marke ein Adobe Brand Concierge einrichten, um Ihren Kunden personalisierte, interaktive Erlebnisse zu bieten.
+description: Erfahren Sie, wie Sie mit der Stimme und den Richtlinien Ihrer Marke ein Adobe Brand Concierge einrichten, um personalisierte, interaktive Kundenerlebnisse auf Ihrer Site bereitzustellen.
 topic: Personalization,Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 181
+duration: 213
 last-substantial-update: 2025-10-31T00:00:00.000Z
 jira: KT-19504
 TQID: https://experienceleague.adobe.com/RDjW-BGiusLzV4wcUQpJ7kB6VxE01H-a6iaDlwbGofc
@@ -19,9 +19,9 @@ topic_v2:
   - id: a09a5a04-e30b-4d55-b031-38e6f5ec86db
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
+source-git-commit: 0cf28b049f802f6ce677a62bbd3dc4da2f5ffde4
 workflow-type: tm+mt
-source-wordcount: 133
+source-wordcount: 138
 ht-degree: 0%
 
 ---
@@ -42,6 +42,6 @@ Erfahren Sie, wie Sie Ihr erstes Adobe Brand Concierge einrichten, um Kunden mit
 * Verbinden von Inhaltsquellen für präzise Antworten
 * Anpassen der Markensprache und Testen des Erlebnisses
 
->[!VIDEO](https://video.tv.adobe.com/v/3476530/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476530/?captions=ger&learn=on)
 
 Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
