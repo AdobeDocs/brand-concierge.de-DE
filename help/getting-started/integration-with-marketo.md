@@ -29,6 +29,6 @@ Erfahren Sie, wie Brand Concierge den Kreislauf zwischen Ihrer Website und Marke
 * Der native Aktivitätstyp „Geplantes Meeting im Concierge“ wird im Aktivitätsprotokoll des Leads mit vollem Kontext protokolliert: Besprechungsdauer, Verkaufsschritt, Routing-Typ und Buchungsstatus
 * Verwendung von Brand Concierge-Aktivitätstypen in Marketo Smart Campaign als Trigger, Filter oder Batch-Kampagnendaten
 
->[!VIDEO](https://video.tv.adobe.com/v/3492225?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3492232?captions=ger&learn=on)
 
 Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
