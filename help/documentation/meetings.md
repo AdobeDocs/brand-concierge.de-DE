@@ -11,10 +11,10 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
+source-git-commit: 1b1598dc2c6308ae38a2aeaf14576c9c55be5ba5
 workflow-type: tm+mt
-source-wordcount: 347
-ht-degree: 2%
+source-wordcount: 329
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,9 @@ ht-degree: 2%
 
 Hier erfahren Sie mehr über Ihre _Meeting_ Einstellungen in Adobe Brand Concierge. Verbinden Sie Ihren Kalender, legen Sie die Verfügbarkeit fest, zeigen Sie Analysen an und vieles mehr.
 
-Ähnliches: [Meeting buchen](../getting-started/meeting-booking.md) video
+>[!NOTE]
+>
+>Sie können sich auch ein Video [Besprechung buchen](../getting-started/meeting-booking.md) ansehen.
 
 ## Konfiguration {#configuration}
 
@@ -36,11 +38,9 @@ Stellen Sie eine Verbindung zu Ihrem Outlook- oder Google-Konto her und bestimme
 
    ![Adobe Experience Platform-Homepage](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
-1. Klicken _unter_ auf **[!UICONTROL Repräsentative Einstellungen]**.
+1. Klicken _unter_ auf **Profileinstellungen**. Wählen **[!UICONTROL auf der Registerkarte]** Kalenderkonfiguration“ den gewünschten Kalender aus.
 
    ![Kalenderkonfigurationsseite](assets/meetings-connect-2.png)
-
-   Wählen _[!UICONTROL auf der Registerkarte]_ Kalenderkonfiguration“ den gewünschten Kalender aus. In diesem Beispiel wählen Sie &quot;**[!UICONTROL &quot;]**.
 
 1. Wählen Sie ein bereits angemeldetes Konto aus oder fügen Sie ein neues hinzu.
 
@@ -54,15 +54,13 @@ Stellen Sie eine Verbindung zu Ihrem Outlook- oder Google-Konto her und bestimme
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
-### Festlegen der Kalenderverfügbarkeit {#availability}
+### Festlegen der Kalenderverfügbarkeit {#calendar-availability}
 
 1. Klicken Sie auf **[!UICONTROL Registerkarte]** Kalenderverfügbarkeit“.
 
    ![Leere Seite zur Kalenderverfügbarkeit](assets/meetings-availability-1.png)
 
 1. Wählen Sie Ihre gewünschten Einstellungen aus.
-
-   In diesem Beispiel wählen Sie **[!UICONTROL Besprechungsdauer]** von 30 Minuten mit einer 15-minütigen **[!UICONTROL Pufferzeit]** und einer **[!UICONTROL Mindestankündigung]** von 2 Stunden. Die Verfügbarkeit ist von Montag bis Freitag, 8:00 bis 17:00 Uhr (PST), mit einer einstündigen Pause am Mittag.
 
    >[!NOTE]
    >
@@ -72,11 +70,18 @@ Stellen Sie eine Verbindung zu Ihrem Outlook- oder Google-Konto her und bestimme
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
-### Repräsentative Geschäftsführung {#representative}
+### Live-Chat-Verfügbarkeit festlegen {#chat-availability}
+
+1. Klicken Sie auf **[!UICONTROL Live-Chat-Verfügbarkeit]** und wählen Sie Ihre gewünschten Einstellungen aus. Klicken Sie abschließend auf **Speichern**.
+
+   ![Live-Chat-Verfügbarkeitsseite mit allen Feldern ausgefüllt](assets/meetings-availability-3.png)
+
+
+### Mitglieder verwalten {#manage}
 
 **Nur Administratoren**. Ermitteln Sie, welcher Ihrer Vertreter seinen Kalender erfolgreich verbunden hat.
 
-![Repräsentative Verwaltungsseite](assets/meetings-representative-1.png){width="800" zoomable="yes"}
+![Repräsentative Verwaltungsseite](assets/manage-members-1.png)
 
 ## Aktivitäten {#activities}
 
