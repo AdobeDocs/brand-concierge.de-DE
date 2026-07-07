@@ -19,4 +19,4 @@ Willkommen in der Dokumentation zu Adobe Brand Concierge. Wir haben zwei Bereich
 
 ## Einstellungen
 
-Stellen Sie sicher, dass [ Abschnitt ](./settings.md)Einstellungen“ aufgerufen wurde, um sicherzustellen, dass Ihre Brand Concierge ordnungsgemäß eingerichtet wurde.
+Stellen Sie sicher, dass [&#x200B; Abschnitt &#x200B;](./settings.md)Einstellungen“ aufgerufen wurde, um sicherzustellen, dass Ihre Brand Concierge ordnungsgemäß eingerichtet wurde.
