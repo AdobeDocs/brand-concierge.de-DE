@@ -19,4 +19,4 @@ ht-degree: 0%
 
 In diesem Video wird gezeigt, wie Sie eine Brand Concierge (BC) mithilfe von Eingabeaufforderungen in natürlicher Sprache direkt von Ihren Kollegen erstellen und verwalten können. Es wird der End-to-End-Ablauf angezeigt: Ein Mitarbeiter wird aufgefordert, eine Brand Concierge für eine Website zu erstellen, das Modal „Erstellungsfortschritt in Echtzeit“ wird angezeigt, die BC-Vorschau wird geöffnet und dann wird Conversation Analytics angefordert, um das Brand Concierge-Berichts-Dashboard für eine bestimmte IMS-Organisation und Sandbox zu öffnen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494747)
+>[!VIDEO](https://video.tv.adobe.com/v/3494754?captions=ger)
