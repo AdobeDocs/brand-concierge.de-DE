@@ -32,7 +32,7 @@ Adobe Brand Concierge kann nur Fragen sowie die von Ihnen bereitgestellten Inhal
 * Vorbereiten Ihres Inhalts vor der Freigabe
 * Schreiben einer Journey-Definition für einseitige Besucher
 
->[!VIDEO](https://video.tv.adobe.com/v/3496007/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496014/?captions=ger&learn=on)
 
 ## Verwandte Videos in dieser Reihe
 
