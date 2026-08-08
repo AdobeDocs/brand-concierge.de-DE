@@ -32,6 +32,6 @@ Ihr Concierge sollte nicht wie ein allgemeiner Chatbot klingen - er sollte wie I
 * Visuelle Widget-Optionen: Platzierung, Anzeigemodus, Farbe und Schriftart
 * Benennung des Assistenten, Schreiben der Begrüßung und Auswahl der Eingabeaufforderungen
 
->[!VIDEO](https://video.tv.adobe.com/v/3496942/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496949/?captions=ger&learn=on)
 
 Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
