@@ -32,6 +32,6 @@ Machen Sie sich bereit, mit Adobe Brand Concierge live zu gehen, einem KI-gestü
 * Was Sie bereitstellen oder was Ihr Adobe-Team konfiguriert
 * Der typische Zeitrahmen von sechs bis neun Wochen und was sich darauf auswirkt
 
->[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495876/?captions=ger&learn=on)
 
 Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
