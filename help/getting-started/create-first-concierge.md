@@ -42,7 +42,7 @@ Erfahren Sie, wie Sie Ihr erstes Adobe Brand Concierge in nur wenigen Minuten ei
 * Überprüfen und Anpassen des Markenprofils, der Anweisungen und der Eingabeaufforderungen vor dem Speichern
 * Testen des Concierge mit Beispielfragen zu Desktop und Mobilgerät
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476530?captions=ger&learn=on)
 
 Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
 
