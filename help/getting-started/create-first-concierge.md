@@ -5,8 +5,8 @@ topic: Personalization,Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 213
-last-substantial-update: 2025-10-31
+duration: 372
+last-substantial-update: 2026-08-20
 jira: KT-19504
 TQID: https://experienceleague.adobe.com/RDjW-BGiusLzV4wcUQpJ7kB6VxE01H-a6iaDlwbGofc
 product_v2:
@@ -19,16 +19,16 @@ topic_v2:
   - id: a09a5a04-e30b-4d55-b031-38e6f5ec86db
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
+source-git-commit: 5e6249cc834071ae1f330278a4150fe6140da758
 workflow-type: tm+mt
-source-wordcount: 138
+source-wordcount: 160
 ht-degree: 0%
 
 ---
 
 # Erstellen Sie Ihren ersten Concierge
 
-Erfahren Sie, wie Sie Ihr erstes Adobe Brand Concierge einrichten, um Kunden mit einem personalisierten Gesprächserlebnis auf Ihrer Website zu begleiten. Sie lernen, wie Sie Ihren Concierge benennen, hilfreiche Inhalte hinzufügen, auswählen, wie er reagiert und seine Stimme Ihrer Marke anpassen. Sobald er fertig ist, können Sie ihn testen und sehen, wie er auf Desktop- und Mobilgeräten funktioniert.
+Erfahren Sie, wie Sie Ihr erstes Adobe Brand Concierge in nur wenigen Minuten einrichten. Geben Sie Ihre Website-URL an. Brand Concierge erstellt automatisch ein Startermarkenprofil und Anweisungen aus dem Inhalt Ihrer Site, die Sie vor dem Speichern überprüfen und anpassen können. Sobald Ihr Concierge eingerichtet ist, testen Sie ihn mit Beispielfragen auf Desktop und Mobilgerät, um zu sehen, wie er mit Ihren eigenen Site-Inhalten reagiert.
 
 ## Für wen ist dieses Video bestimmt?
 
@@ -38,11 +38,11 @@ Erfahren Sie, wie Sie Ihr erstes Adobe Brand Concierge einrichten, um Kunden mit
 
 ## Videoinhalt
 
-* Einrichten einer Adobe Brand Concierge
-* Verbinden von Inhaltsquellen für präzise Antworten
-* Anpassen der Markensprache und Testen des Erlebnisses
+* Wie die Eingabe Ihrer Website-URL automatisch Ihr Markenprofil ausfüllt und Anweisungen vorschlägt
+* Überprüfen und Anpassen des Markenprofils, der Anweisungen und der Eingabeaufforderungen vor dem Speichern
+* Testen des Concierge mit Beispielfragen zu Desktop und Mobilgerät
 
->[!VIDEO](https://video.tv.adobe.com/v/3476530/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476530?captions=ger&learn=on)
 
 Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
 
