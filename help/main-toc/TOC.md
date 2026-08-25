@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Erkunden von Adobe Brand Concierge
-source-git-commit: 16136f0d5470a39cbf260f4b1eadc6918d0212b4
+source-git-commit: 9eb6c0edb3712451c6d0d118cf19304e34630737
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 28%
+source-wordcount: '80'
+ht-degree: 26%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 28%
   + [Besprechung buchen](../getting-started/meeting-booking.md)
   + [Informationen zu Datenstrom-IDs](../getting-started/learn-about-datastream-ids.md)
   + [Integration mit Marketo](../getting-started/integration-with-marketo.md)
+  + [Passen Sie den visuellen Stil Ihres Concierge an](../getting-started/customize-visual-style.md)
 + Go-Live-Handbuch {#go-live-guide}
   + [Willkommen auf Ihrer Live-Journey](../go-live/welcome.md)
   + [Vorbereiten von Inhalten und Besuchererlebnis](../go-live/content-and-journey.md)
