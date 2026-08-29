@@ -32,6 +32,6 @@ Ihr Adobe Brand Concierge beginnt mit visuellen Entscheidungen, die Adobe bereit
 * Anleitung zum Bearbeiten der Überschrift und Unterüberschrift der Begrüßungsnachricht, einschließlich Textfarbe, Gewicht und Größe
 * Hinzufügen, Entfernen und Bearbeiten von Starter-Prompt-Karten - einschließlich Kartentext, Bildern und Hintergrundfarbe
 
->[!VIDEO](https://video.tv.adobe.com/v/3502259)
+>[!VIDEO](https://video.tv.adobe.com/v/3502266?captions=ger)
 
 Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
