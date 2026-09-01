@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Erkunden von Adobe Brand Concierge
-source-git-commit: aa3c84f02c1f49c55876248a305bb01ea2a7ec28
+source-git-commit: 2255c486351718718d7f729ae7f870446c955793
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 20%
+source-wordcount: '127'
+ht-degree: 21%
 
 ---
 
@@ -19,6 +19,7 @@ ht-degree: 20%
   + [Informationen zu Datenstrom-IDs](../getting-started/learn-about-datastream-ids.md)
   + [Integration mit Marketo](../getting-started/integration-with-marketo.md)
   + [Passen Sie den visuellen Stil Ihres Concierge an](../getting-started/customize-visual-style.md)
+  + [Informationen zu Auswertungssets](../getting-started/learn-about-evaluation-sets.md)
 + Go-Live-Handbuch {#go-live-guide}
   + [Willkommen auf Ihrer Live-Journey](../go-live/welcome.md)
   + [Vorbereiten von Inhalten und Besuchererlebnis](../go-live/content-and-journey.md)
@@ -35,6 +36,18 @@ ht-degree: 20%
     + {hide-from-toc}[Fügen Sie einen Benutzer zur Organisation hinzu](../documentation/user-and-access-management/add-a-user-to-the-org.md)
     + {hide-from-toc}[Fügen Sie der Rolle einen Benutzer hinzu](../documentation/user-and-access-management/add-a-user-to-the-role.md)
     + {hide-from-toc}[Erstellen einer Rolle](../documentation/user-and-access-management/create-a-role.md)
+  + Wissensquellen {#knowledge-sources}
+    + {hide-from-toc}[ks](../documentation/knowledge-sources/knowledge-sources.md)
+  + Concierge-Management {#concierge-management}
+    + {hide-from-toc}[cm](../documentation/concierge-management/concierge-management.md)
+  + Auswertung {#evaluation}
+    + {hide-from-toc}[E](../documentation/evaluation/evaluation.md)
+  + Bereitstellung {#deployment}
+    + {hide-from-toc}[d](../documentation/deployment/deployment.md)
+  + Go-Live-Checkliste {#go-live-checklist}
+    + {hide-from-toc}[GLC](../documentation/go-live-checklist/go-live-checklist.md)
+  + Analytics {#analytics}
+    + {hide-from-toc}[a](../documentation/analytics/analytics.md)
 + Versionshinweise {#release-notes}
   + [Aktuelle Versionsinformationen](../release-notes/current.md)
 + {hide-from-toc}[Demo für Brand Concierge - Value Video](../demo-videos/demo-for-brand-concierge-value-video.md)
