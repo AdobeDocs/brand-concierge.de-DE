@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Erkunden von Adobe Brand Concierge
-source-git-commit: 2255c486351718718d7f729ae7f870446c955793
+source-git-commit: 498bbea05a689b36dd4b8f88e0867e7440fa1d38
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 21%
+source-wordcount: '130'
+ht-degree: 20%
 
 ---
 
@@ -20,6 +20,7 @@ ht-degree: 21%
   + [Integration mit Marketo](../getting-started/integration-with-marketo.md)
   + [Passen Sie den visuellen Stil Ihres Concierge an](../getting-started/customize-visual-style.md)
   + [Informationen zu Auswertungssets](../getting-started/learn-about-evaluation-sets.md)
+  + [Stellen Sie den Concierge ein](../getting-started/deploy-the-concierge.md)
 + Go-Live-Handbuch {#go-live-guide}
   + [Willkommen auf Ihrer Live-Journey](../go-live/welcome.md)
   + [Vorbereiten von Inhalten und Besuchererlebnis](../go-live/content-and-journey.md)
