@@ -2,9 +2,9 @@
 title: Einen Concierge entsenden
 description: Erfahren Sie, wie Sie eine Brand Concierge bereitstellen, indem Sie einen Datenstrom konfigurieren, das Bereitstellungsskript installieren, Oberflächenregeln definieren und die Bereitstellung überprüfen.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---
@@ -80,17 +80,3 @@ Nachdem das Website-Team das Skript installiert und die Oberflächenregeln gespe
 >[!TIP]
 >
 >Testen Sie sowohl eine eingeschlossene als auch eine ausgeschlossene Seite. Dies bestätigt, dass die Oberflächenregeln wie beabsichtigt funktionieren, bevor der Concierge breit verfügbar gemacht wird.
-
-## Offene Fragen und Hinweise zum Umfang
-
-Das Ausgangsmaterial definiert nicht die folgenden Details:
-
-- Die vollständige, kanonische Liste der Ereignistypen, die an den Datenstrom gesendet werden. Die angegebenen Beispiele umfassen Klicks, Formularübermittlungen, gebuchte Meetings und Live-Chats, aber die vollständige Liste sollte mit Engineering bestätigt werden.
-- Ob sich die Konfiguration des Datenstroms zwischen Testkunden und Paid-Kunden unterscheidet.
-- In welchem spezifischen Analytics-Produkt die Datenstrom-Aktivität angezeigt wird; im Quellmaterial wird dies nur als „Analytics“ bezeichnet.
-
-Diese Fragen können sich mit separaten Telemetrieanforderungen überschneiden und sollten mit dem entsprechenden Engineering- oder Produkt-Team geklärt werden, bevor die Bereitstellungshandbücher als endgültige Referenz veröffentlicht werden.
-
-## Unvollständiger Quellinhalt
-
-Die bereitgestellte Quelle endet abrupt bei Schritt 8, der keinen Inhalt hat.

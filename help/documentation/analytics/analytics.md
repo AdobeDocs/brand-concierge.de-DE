@@ -2,9 +2,9 @@
 title: Analysieren der Concierge-Leistung
 description: Erfahren Sie, wie Sie Concierge-Analysen durchgehen, Gesprächsprotokolle einsehen, Fragen von Besuchern zu Auswertungssets hinzufügen und Customer Journey Analytics-Berichte öffnen können.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
@@ -80,10 +80,6 @@ Das CJA-Dashboard umfasst:
 - Empfehlungen des Concierge während der Gespräche.
 
 Verwenden Sie das Dashboard, um Trends im Zeitverlauf zu untersuchen und Änderungen bei der Besucherinteraktion, beim Feedback, bei der Absichtserklärung und beim Sentiment festzustellen.
-
-## Konversationen exportieren
-
-Das Quellmaterial identifiziert die Konversations-ID als eine Möglichkeit, Transkripte mit Datensätzen in anderen Systemen abzugleichen, es dokumentiert jedoch keinen Exportmechanismus.
 
 >[!IMPORTANT]
 >
