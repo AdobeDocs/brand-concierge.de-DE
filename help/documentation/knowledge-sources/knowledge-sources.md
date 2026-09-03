@@ -2,9 +2,9 @@
 title: Erstellen und Verwalten von Wissensquellen für Brand Concierge
 description: Erfahren Sie, wie Sie AEM Sites-, Website-Links- und Produktkatalog-Wissensquellen für Brand Concierge erstellen, den Verarbeitungsstatus überwachen und crawlen Probleme beheben.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '864'
 ht-degree: 1%
 
 ---
@@ -21,8 +21,6 @@ Ein Concierge beantwortet Fragen nur anhand der konfigurierten Wissensquellen. E
 >Wenn ein Besucher nach Informationen außerhalb der konfigurierten Wissensquellen fragt, ist der Concierge so konzipiert, dass er angibt, dass er die Informationen nicht hat, anstatt eine nicht unterstützte Antwort zu generieren. Verwenden Sie den Bewertungsprozess, um dieses Verhalten zu überprüfen.
 
 ## Wissensquelle auswählen
-
-Das Quellmaterial beschreibt die folgenden Arten von Wissensquellen:
 
 | Wissensquelle | Verwenden Sie sie, wenn | Hauptfunktion |
 | --- | --- | --- |
