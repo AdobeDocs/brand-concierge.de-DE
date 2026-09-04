@@ -2,9 +2,9 @@
 title: Einen Concierge verwalten
 description: Erfahren Sie, wie Sie eine Brand Concierge von einer Website aus erstellen, ihre Integrationen, Fertigkeiten, Anweisungen, den Ton und den visuellen Stil konfigurieren und sie vor der Bereitstellung testen können.
 toc: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '1967'
+source-wordcount: '1804'
 ht-degree: 1%
 
 ---
@@ -74,10 +74,10 @@ Wählen Sie **Integrationen durchsuchen**, um den verfügbaren Integrationskatal
 |---|---|---|
 | Wissensdatenbanksuche | Durchsucht Website-Inhalte | Wird automatisch konfiguriert, wenn der Concierge erstellt wird |
 | Content-KI-Suchen | Durchsucht AEM Sites-Inhalte | Relevant für Kunden von AEM Sites as a Cloud Service |
-| Produktkatalog | Zeigt Produktkarten oder Links aus einer hochgeladenen Produktliste an | Für kleinere, nicht-kommerzielle Kataloge vorgesehen |
+| Entitätsverknüpfung | Löst ein Produkt oder Markenerwähnung in einer Besuchernachricht in bestimmte Katalogentitäten auf. | Unterstützende Integration, die normalerweise zusammen mit einer Suchintegration und nicht allein verwendet wird |
 | COMMERCE MCP | Stellt eine Verbindung zu einem Live-Adobe Commerce-Katalog her, um Produktsuche, Produktdetails und Vergleiche zu ermöglichen | Standardmäßig nicht aktiviert; erfordert Codes oder Schlüssel vom Commerce- oder IT-Team |
-| Meeting-Buchung | Ermöglicht Besuchern die Buchung eines Meetings mit einem Vertriebsmitarbeiter | B2B-Funktion |
-| Live-Chat | Verbindet Besucher mit einem Live-Vertriebsmitarbeiter | B2B-Funktion |
+| Meeting-Buchung | Ermöglicht Besuchern die Buchung eines Meetings mit einem Vertriebsmitarbeiter | Erfordert die Einrichtung mit dem Kalender eines Vertriebsmitarbeiters |
+| Live-Chat | Verbindet Besucher mit einem Live-Vertriebsmitarbeiter | Erfordert die Einrichtung mit der Verfügbarkeit eines Vertriebsmitarbeiters |
 
 ### Integration aktivieren und konfigurieren
 
@@ -96,14 +96,6 @@ Wählen Sie **Integrationen durchsuchen**, um den verfügbaren Integrationskatal
 
 Sie können mehr als eine Instanz derselben Integration hinzufügen, z. B. Instanzen, die auf verschiedene Wissensquellen verweisen. Kenntnisse können so konfiguriert werden, dass sie eine bestimmte Integrationsinstanz verwenden.
 
-### Integrationsinformationen, die bestätigt werden müssen
-
-Die folgenden Informationen wurden nicht im Ausgangsmaterial festgelegt und sollten vor der Veröffentlichung als Produktdokumentation bestätigt werden:
-
-- Die vollständige Produktions-URL für die Anmeldung bei `experienceplatform.adobe.com`.
-- Gibt an, ob ein Concierge eine Begrenzung für die Anzahl der Integrationsinstanzen hat.
-- Die Roadmap und der Prozess für benutzerdefinierte oder Brand-your-own-Integrationen, die als geplant, aber nicht detailliert erwähnt wurden.
-
 ## Configure Skills
 
 Fähigkeiten bestimmen, was ein Concierge für Besucher tun kann. Wählen Sie **Kenntnisse durchsuchen**, um den verfügbaren Kompetenzkatalog anzuzeigen.
@@ -111,6 +103,7 @@ Fähigkeiten bestimmen, was ein Concierge für Besucher tun kann. Wählen Sie **
 | Skill | Zweck | Erforderliche Integration oder Konfiguration |
 |---|---|---|
 | Site-Beratung | Antworten auf allgemeine Markenfragen, einschließlich häufig gestellter Fragen (FAQs), Richtlinien, Preise, Anleitungen und Support-Themen | Website-Inhalt; standardmäßig aktiv |
+| Produktberatung | Hilft Besuchern, Produkte anhand von namensbasierten Produktkarten zu entdecken und zu recherchieren und Produktfragen zu prosieren | Knowledge Base-Suche, Entitätsverknüpfung |
 | Adobe Commerce-Katalogerkennung | Sucht, durchsucht, filtert und ruft Details zu Produkten aus einem Live-Katalog ab | Commerce MCP-Integration |
 | Adobe Commerce - Produktvergleich | Bietet einen direkten Vergleich benannter Produkte | Commerce MCP-Integration |
 | Besprechung mit dem Vertrieb buchen | Schlägt die Buchung eines Meetings vor und erleichtert diese | Integration der Besprechungsbuchung |
@@ -131,10 +124,6 @@ Fähigkeiten bestimmen, was ein Concierge für Besucher tun kann. Wählen Sie **
 >[!TIP]
 >
 >Wenn zwei Fähigkeiten auf dieselbe Frage antworten könnten, kann das Routing inkonsistent werden. Behalten Sie die Trigger für Kenntnisse im Einzelnen und spezifisch bei, anstatt sich überschneidende Absichten zu verwenden.
-
-### Informationen zu benutzerdefinierten Kenntnissen, die bestätigt werden müssen
-
-Im Quellmaterial wird eine geplante Möglichkeit zur Erstellung vollständig benutzerdefinierter Fähigkeiten erwähnt, es wird jedoch keine Roadmap oder kein Prozess bereitgestellt. Bestätigen Sie die Verfügbarkeit und die Authoring-Schritte, bevor Sie diese Funktion wie unterstützt dokumentieren.
 
 ## Concierge-Instruktionen hinzufügen
 
@@ -191,7 +180,7 @@ Chatkomponenten steuern die einzelnen Elemente, die Besucherinnen und Besucher i
 | Feedback | Die Bewertung „Daumen hoch“ oder „Daumen runter“, die nach jeder Antwort angezeigt wird |
 | Produktkarte | Layout und Stil von Produktkarten, einschließlich Farben und Schaltflächen |
 
-## Konfigurieren von B2B-Funktionen
+## Konfigurieren der Besprechungsbuchung und des Live-Chats
 
 Mit der Meeting-Buchung und dem Live-Chat können Besucher Meetings mit Vertriebsmitarbeitern buchen oder einen Live-Chat mit einem Vertreter starten. Diese Funktionen basieren auf einem Begleitprodukt namens Sales Qualifier.
 
@@ -233,14 +222,6 @@ Wenn die Funktionen verfügbar sind:
 - In Analytics ist ein Besprechungsleistungsbericht verfügbar.
 - Meeting- und Chat-Interaktionen werden zusammen mit vorhandenen Aktivitätsdaten als Aktivitäten an Marketo gesendet.
 
-### B2B-Informationen, die bestätigt werden müssen
-
-Das Quellmaterial kennzeichnet die folgenden Elemente als nicht aufgelöst:
-
-- Live Chat verfügt über kein eigenes Analytics-Dashboard. Dies wurde als „Produktlücke in Bearbeitung“ und nicht als „Dokumentationslücke“ beschrieben.
-- Der genaue `experienceplatform.adobe.com` Anmeldepfad für Sales Qualifier.
-- Ob für die Besprechungsbuchung und den Live-Chat separate Lizenzen oder Berechtigungen erforderlich sind.
-
 ## Vorschau-Link freigeben
 
 Über einen freigebbaren Vorschau-Link können die Verantwortlichen einen Concierge überprüfen und mit ihm interagieren, ohne auf Composer zugreifen und den Concierge nicht auf einer Live-Website bereitstellen zu müssen.
@@ -250,14 +231,6 @@ Das Quellmaterial kennzeichnet die folgenden Elemente als nicht aufgelöst:
 1. Freigeben des Links für Prüfer.
 
 1. Reviewer können mit dem Concierge über den Link interagieren, ohne sich bei Composer anzumelden.
-
-### Vorschau-Link-Informationen, die bestätigt werden müssen
-
-Bestätigen Sie die folgenden Details, bevor Sie dieses Verfahren als vollständigen Produkt-Workflow veröffentlichen:
-
-- Der genaue Speicherort und die Bezeichnung der Freigabeaktion in der Benutzeroberfläche.
-- Ob Vorschau-Links ablaufen oder widerrufen werden können.
-- Ob die Nutzung des Vorschau-Links getrennt von der Live-Analyse verfolgt wird.
 
 ## Vor der Bereitstellung testen
 

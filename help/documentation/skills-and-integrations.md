@@ -3,9 +3,9 @@ title: Skills and Integrations Framework
 description: Erfahren Sie, wie Fähigkeiten und Integrationen im Concierge-Framework zusammenarbeiten. Fähigkeiten definieren das Verhalten, während Integrationen eine Verbindung zu Daten herstellen und Funktionen bereitstellen.
 role: User, Admin
 level: Beginner
-source-git-commit: 16136f0d5470a39cbf260f4b1eadc6918d0212b4
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '1619'
+source-wordcount: '1698'
 ht-degree: 0%
 
 ---
@@ -64,27 +64,31 @@ Eine Integration bietet Fähigkeiten, übt aber kein Urteilsvermögen aus. Es wa
 
 ## Vorkonfigurierte Integrationen
 
-Im Folgenden finden Sie die vier Integrationen, die im Bedienfeld **Durchsuchen-Integrationen“** Composer angezeigt werden.
+Im Folgenden finden Sie die Integrationen, die im Bedienfeld **Durchsuchen-Integrationen“** Composer angezeigt werden.
 
 | Integration | Funktion | Anmerkungen |
 | --- | --- | --- |
 | Wissensdatenbanksuche | Source für Produktinformationen, Preise, Funktionen und Dokumentation einer Marke, die über Site crawlen ausgefüllt werden | Diese wird automatisch bei der Erstellung durch den Concierge erstellt und von der crawlen Site ausgefüllt |
 | Content-KI-Suchen | Durchsucht den Markeninhalt über die Content-KI | Eine alternative Inhaltsquelle. Normalerweise ist jeweils nur eine der KI-Suchen „Wissensdatenbanksuche“ oder „Inhaltssuche“ erforderlich |
-| Entitätsverknüpfung/Produktkatalogzuordnung | Löst ein Produkt oder Markenerwähnung in einer Benutzernachricht zu bestimmten Katalogentitäten auf | Unterstützende Integration, die zusammen mit einer Suchintegration statt allein verwendet wird |
+| Entitätsverknüpfung | Löst ein Produkt oder Markenerwähnung in einer Benutzernachricht zu bestimmten Katalogentitäten auf | Unterstützende Integration, die zusammen mit einer Suchintegration statt allein verwendet wird |
 | COMMERCE MCP | Adobe-verwalteter Commerce MCP-Server: Produktsuche, Details, Varianten und Facetten-/Attributerkennung, unterstützt durch Adobe Live Search | Nicht in der Baseline; für Commerce-Anwendungsfälle manuell hinzugefügt |
+| Meeting-Buchung | Ermöglicht Besuchern die Buchung eines Meetings mit einem Vertriebsmitarbeiter | Erfordert die Einrichtung mit dem Kalender eines Vertriebsmitarbeiters über das zugehörige Sales Qualifier-Produkt |
+| Live-Chat | Verbindet Besucher mit einem Live-Vertriebsmitarbeiter | Erfordert die Einrichtung durch einen Vertriebsmitarbeiter über das zugehörige Sales Qualifier-Produkt |
 
 ![Bedienfeld für das Durchsuchen von Integrationen mit vier Integrationskarten: Inhaltsdaten, Entitätsverknüpfung, Wissensdatenbanksuche und Commerce MCP](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}
 
 ## Vorkonfigurierte Kenntnisse
 
-Im Katalog sind vier Qualifikationen enthalten. Es werden jeweils die empfohlenen Integrationen aufgelistet.
+Im Folgenden finden Sie die Fähigkeiten, die im Bedienfeld **Fähigkeiten durchsuchen** des Komponisten angezeigt werden. Es werden jeweils die empfohlenen Integrationen aufgelistet.
 
-| SKILL | Wofür es gut ist | Recommended integrations |
+| Skill | Wofür es gut ist | Recommended integrations |
 | --- | --- | --- |
 | Site-Beratung | Allgemeine Fragen zur Marke: Richtlinien, FAQs, Programme, Anleitungen und Support | Knowledge Base-Suche, Inhaltsdaten und Entitäts-KI-Suche |
-| Produktberatung | Produkte entdecken und recherchieren: Namensbasierte Produktkarten und Prosaproduktfragen | Wissensdatenbanksuche, Entitätsverknüpfung/Katalogzuordnung |
+| Produktberatung | Produkte entdecken und recherchieren: Namensbasierte Produktkarten und Prosaproduktfragen | Knowledge Base-Suche, Entitätsverknüpfung |
 | Adobe Commerce-Katalogerkennung | Durchsuchen, Filtern und Abrufen vollständiger Details zu Produkten in einem Live-Katalog | Commerce MCP-Tools: Suchen nach Commerce-Produkten, Produktdetails, Produktvarianten, Produktfacetten und durchsuchbaren Attributen |
 | Adobe Commerce - Produktvergleich | Vergleich von zwei oder mehr benannten Produkten in einer Tabelle für Commerce | Commerce MCP-Tools: Commerce-Produkte durchsuchen, Produktdetails |
+| Besprechung mit dem Vertrieb buchen | Empfiehlt und erleichtert die Buchung eines Meetings mit einem Vertriebsmitarbeiter | Integration der Besprechungsbuchung |
+| Live-Chat mit dem Vertrieb | Schlägt eine Live-Chat-Übergabe an einen Vertriebsmitarbeiter vor und erleichtert diese | Live Chat-Integration |
 
 Die beiden Commerce-Kenntnisse sind Funktionen, die nur für den Katalog verfügbar sind, und hängen von der Commerce MCP-Integration ab, die nicht Teil der Grundlinie ist. In einem nicht-kommerziellen Concierge führen Site Advisory und Product Advisory stattdessen die automatisch erstellte Knowledge Base Search durch.
 

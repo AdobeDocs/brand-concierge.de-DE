@@ -18,9 +18,9 @@ topic_v2:
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 320bf9530164830eae88075663bdbd6216556b5a
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: 1999
+source-wordcount: 2047
 ht-degree: 1%
 
 ---
@@ -43,12 +43,12 @@ Brand Concierge verfügt über eine Reihe wichtiger Funktionen, darunter:
 
 ## Erste Schritte {#getting-started}
 
-Sie können über das Adobe Experience Cloud-Dashboard auf Brand Concierge zugreifen. Auf allgemeiner Ebene führen Sie die folgenden Aufgaben in der Anleitung zur Homepage aus:
+Sie können über das Adobe Experience Cloud-Dashboard auf Brand Concierge zugreifen. Führen Sie auf allgemeiner Ebene die folgenden Aufgaben aus:
 
-1. [Einen Concierge einrichten](#homepage)
-1. [Hinzufügen von Wissensquellen](#knowledge-sources)
-1. [Configure Skills](#skills-configuration)
-1. [Geben Sie Ihren Markenausdruck &#x200B;](#brand-expression).
+1. [Einen Concierge erstellen](#homepage) von einer Website-URL. Eine Wissensquelle, ein Markenausdruck und allgemeine Kenntnisse werden automatisch generiert.
+1. [Überprüfen und verfeinern Sie die &#x200B;](#knowledge-sources) nach Bedarf.
+1. [Konfigurieren zusätzlicher Kenntnisse](#skills-configuration) über die Grundkenntnisse hinaus.
+1. [Passen Sie Ihren Markenausdruck an](#brand-expression) wenn die generierten Standardwerte geändert werden müssen.
 
 Ein Video-Tutorial finden Sie unter [Erstellen des ersten Concierge](../getting-started/create-first-concierge.md)
 
@@ -56,26 +56,27 @@ In den folgenden Abschnitten werden die einzelnen Aufgaben und die Optionen der 
 
 ## Einen Concierge einrichten {#homepage}
 
-Die Brand Concierge-Homepage wurde für Benutzerfreundlichkeit und Effizienz entwickelt und führt Sie durch die wichtigsten Einrichtungsschritte mit einer dedizierten Anleitung für Erstbenutzer. In einem prominenten Top-Banner werden wichtige Aktionen beschrieben, wie z. B. die Angabe des Namens und des Zwecks, das Hinzufügen von Wissensquellen, das Konfigurieren relevanter Fähigkeiten und das Definieren des Markenausdrucks.
+Die Erstellung eines Concierge über eine einzelne Website-URL ist der empfohlene Ausgangspunkt für einen Erstnutzer. Die Brand Concierge-Homepage liest die Site und erstellt automatisch eine Arbeitsbasislinie: Es ist keine manuelle Konfiguration erforderlich, um zu beginnen.
 
-Während Sie fortfahren, zeigt ein visueller Tracker deutlich an, welche Setup-Komponenten abgeschlossen wurden, und markiert alle verbleibenden Aufgaben. Um Ihre Bemühungen weiter zu unterstützen, bietet die Homepage einen inspirierenden Abschnitt mit Videos und Demonstrationen von Concierge-Funktionen wie Produktempfehlungen. Darüber hinaus erhalten Sie schnellen Zugriff auf die Experience League-Dokumentation, die Ihnen detailliertere technische Erkenntnisse bietet.
-
-Nach Abschluss des Setups bietet eine Konfigurationsübersicht eine umfassende Ansicht Ihrer Details, die mit Registerkarten organisiert ist, um laufende Anpassungen und Verfeinerungen zu erleichtern.
+Nach Abschluss des Setups bietet eine Konfigurationsübersicht eine umfassende Ansicht Ihrer Details, die mit Registerkarten organisiert ist, um laufende Anpassungen und Verfeinerungen zu erleichtern. Auf der Homepage finden Sie auch einen inspirierenden Abschnitt mit Videos und Demonstrationen von Concierge-Funktionen wie Produktempfehlungen und schnellen Zugriff auf die Experience League-Dokumentation, die detailliertere technische Einblicke bietet.
 
 **Schlüsselelemente**
 
-* **Erstmalige Anleitung für Benutzer**: Ein Top-Banner mit Schritten zum Einrichten Ihres Concierge (Name/Zweck, Wissensquellen, Fähigkeiten, Markenausdruck).
-* **Fortschrittsverfolgung**: Visuelle Indikatoren für abgeschlossene und ausstehende Einrichtungskomponenten.
+* **Erstellung mit einem Klick**: Geben Sie eine Website-URL ein, um automatisch einen ersten Markenausdruck, ein Markenprofil, Anweisungen, Leitplanken, eine Wissensquelle und allgemeine Kenntnisse zu generieren.
+* **Geführte Überprüfung**: Jedes generierte Element wird vor dem Speichern zur Überprüfung angezeigt, sodass nichts live geschaltet wird, ohne dass es zuvor angepasst werden kann.
 * **Inspirational Section**: Videos und Demos, in denen die Funktionen von Concierge vorgestellt werden (z. B. Produktempfehlungen).
 * **Dokumentations-Links**: Schnellzugriff auf Experience League-Ressourcen für tiefere technische Einblicke.
 * **Konfigurationszusammenfassung**: Post-Setup-Ansicht aller Details mit Registerkarten zur Verfeinerung.
 
 **Einen Concierge zu schaffen**
 
-1. Navigieren Sie zum Banner für die exemplarische Vorgehensweise und klicken Sie dann auf **[!UICONTROL Erste Schritte]**.
-1. Geben Sie einen Namen für Ihren Concierge ein und definieren Sie dessen Zweck (z. B. _Personalisierte Produkte empfehlen_).
-1. Befolgen Sie die geführten Schritte, um fortzufahren.
-1. Kehren Sie nach Abschluss der Einrichtung zur Homepage zurück, um Ihren Concierge zu überwachen oder zu bearbeiten.
+1. Geben Sie die Website-URL der Marke ein und wählen Sie **[!UICONTROL Erstellen]**.
+1. Überprüfen Sie den generierten Markenausdruck (z. B. Formalität, Wärme, Verspieltheit und Energie) und passen Sie ihn nach Bedarf an.
+1. Überprüfen Sie das generierte Markenprofil, einschließlich Zielen, Produkten und Services, Zielgruppe und Unterscheidungsmerkmalen, und passen Sie es nach Bedarf an.
+1. Überprüfen Sie die generierten Anweisungen, Leitplanken und Vorschläge und passen Sie sie nach Bedarf an.
+1. Wählen Sie **[!UICONTROL Speichern]** aus. Der Concierge ist bereit, in der Vorschau zu testen.
+
+Ausführliche Informationen zu diesem Fluss, einschließlich der automatisch konfigurierten, finden Sie unter [Einen Concierge verwalten](./concierge-management/concierge-management.md).
 
 >[!TIP]
 >
@@ -83,7 +84,7 @@ Nach Abschluss des Setups bietet eine Konfigurationsübersicht eine umfassende A
 
 ### Wissensquellen {#knowledge-sources}
 
-[!UICONTROL Wissensquellen] helfen Ihnen, die Datenquellen zu verwalten, die die Antworten Ihres Concierge unterstützen. Sie können auf [!UICONTROL Wissensquellen] zugreifen, nachdem Sie Ihre ersten Dateien hochgeladen haben. [!UICONTROL Wissensquellen] muss eine Reihe von Schlüsselelementen berücksichtigen, wie beispielsweise:
+[!UICONTROL Wissensquellen] helfen Ihnen, die Datenquellen zu verwalten, die die Antworten Ihres Concierge unterstützen. Wenn Sie einen Concierge über eine Website-URL erstellen, wird automatisch eine Wissensquelle erstellt. Verwenden Sie diesen Bereich, um sie zu überprüfen oder weitere hinzuzufügen. [!UICONTROL Wissensquellen] muss eine Reihe von Schlüsselelementen berücksichtigen, wie beispielsweise:
 
 * **Source-Liste:** Zeigt alle hochgeladenen Elemente an, z. B. CSV-Dateien mit Website-Links, und gibt deren Status als „Verarbeitet“ oder „Ausstehend“ an.
 * **Upload-Oberfläche:** Ermöglicht Ihnen, CSV-Dateien mit URLs per Drag-and-Drop abzulegen oder zu suchen, die vom System crawlen werden, um Wissen zu extrahieren.
@@ -109,37 +110,37 @@ Nach Abschluss des Setups bietet eine Konfigurationsübersicht eine umfassende A
 
    Verwenden Sie die Homepage, um Ihre Wissensquellen nach Bedarf zu bearbeiten oder zu löschen. Sie können auch eine Wissensquelle erneut verbinden, wenn Änderungen auftreten.
 
+Eine vollständige Liste der Typen von Wissensquellen und der Schritte zur Fehlerbehebung finden Sie unter [Erstellen und Verwalten von Wissensquellen für Brand Concierge](./knowledge-sources/knowledge-sources.md).
+
 ### Configure Skills {#skills-configuration}
 
-Verwenden Sie die [!UICONTROL Skills Configuration], um das Know-how Ihres Concierges zu gestalten, indem Sie Fähigkeiten wie **Produktberatung** konfigurieren. Beantworten Sie den Fragebogen, um Informationen bereitzustellen, die Adobe-Berater später für ein promptes Engineering verwenden werden. Die Konfiguration von Kenntnissen umfasst eine Reihe von Schlüsselelementen, die zu berücksichtigen sind, darunter:
+Kenntnisse legen fest, was ein Concierge für Besucher tun kann, z. B **„Produktberatung** für Produktempfehlungen oder **Site-Beratung** für allgemeine Markenfragen. Wählen Sie **[!UICONTROL Kenntnisse durchsuchen]**, um den verfügbaren Kompetenzkatalog anzuzeigen und die Fähigkeiten zu aktivieren, die Ihr Concierge benötigt.
 
-* **Kompetenzauswahl:** Sie können aus verfügbaren Fähigkeiten wählen, wie z. B. Produktberatung für Produktempfehlungen.
-* **Fragebogen:** Sie werden eine Reihe von Eingabeaufforderungen ausführen, um Produktkenntnisse, Geschäftsregeln, zu vermeidende Schlüsselwörter und Quellverbindungen bereitzustellen.
-* **Vorschau** Sie haben die Möglichkeit, Live-Änderungen vorzunehmen und zu sehen, wie sich Ihre Anpassungen auf die Antworten auswirken, einschließlich Links zur Vorschauseite.
-* **Meeting-Buchung aktivieren** Sie können Besuchern die Möglichkeit geben, Meetings direkt mit Geschäftsvertretern zu planen.
+* **Kompetenzkatalog:** Sie aus verfügbaren Fähigkeiten aus, z. B. Site-Beratung, Produktberatung und Fähigkeiten, die die Besprechungsbuchung oder den Live-Chat mit einem Vertriebsmitarbeiter unterstützen.
+* **Konfiguration:** Legen Sie für jede Kenntnis ihren Namen, ihre Beschreibung und die Absichten (Trigger-Sätze oder Themen) fest, die sie aufrufen sollen.
+* **Integrationen:** Sie die Integration an, die eine Qualifikation für ihre Arbeit benötigt, oder wählen Sie **[!UICONTROL Empfohlen verwenden]** aus, damit Composer automatisch eine auswählt.
+* **Vorschau** Testen Sie Änderungen sofort in der Live-Vorschau.
 
 **So konfigurieren Sie Fähigkeiten**
 
-1. Navigieren Sie zur Fortschrittsverfolgung auf der Startseite und klicken Sie auf **[!UICONTROL Kenntnisse konfigurieren]**.
-1. Wählen Sie eine Qualifikation aus (z. B. Produktberatung).
-1. Beantworten Sie die folgenden Konfigurationsfragen.
+1. Wählen Sie im Concierge **[!UICONTROL Kenntnisse durchsuchen]**.
+1. Wählen Sie eine Qualifikation zum Aktivieren aus (z. B. Produktberatung).
+1. Legen Sie den Namen, die Beschreibung und die Absichten der Kenntnis fest.
+1. Hängen Sie die erforderliche Integration an oder wählen Sie **[!UICONTROL Verwenden Sie sie empfohlen]** aus.
+1. Wählen **[!UICONTROL Speichern]** und testen Sie die Änderung in der Live-Vorschau.
 
-   Zu den Fragestellungen gehören: _Was sollte der Concierge über Produkte wissen?_, _Welche Geschäftsregeln sollten befolgt werden?_, _Welche Keywords sollten vermieden werden?_
-
-1. Vernetzung relevanter [Wissensquellen](#knowledge-sources).
-1. Aktivieren Sie zusätzliche Funktionen (Meeting-Buchung).
-1. Zur Verarbeitung einreichen.
+Den vollständigen Katalog für Kenntnisse und Integration finden Sie unter [Skills and Integrations Framework](./skills-and-integrations.md).
 
 ### Markenausdruck {#brand-expression}
 
-Sie können die Benutzeroberfläche _[!UICONTROL Markenausdruck]_ verwenden, um die Persönlichkeit und den Stil der Antworten Ihres Concierges anzupassen. Sie können auf Markenausdruck in den Einrichtungsphasen oder über die Vorschau-Seitenleiste für laufende Änderungen zugreifen.
+Der Markenausdruck steuert die Persönlichkeit und den Stil der Antworten Ihres Concierges. Es wird automatisch entworfen, wenn Sie einen Concierge erstellen, und Sie können darauf später über die Ton- und Spracheinstellungen des Concierge für laufende Änderungen zugreifen.
 
-Mit Markenausdruck können Sie die Stimmen- und Toneinstellungen Ihres Concierges mit Schiebereglern anpassen. Sie können aus Optionen wie „Freundlich“, „Professionell“ und „Energetisch“ auswählen. Darüber hinaus können Sie die Antwortlängen Ihren Vorstellungen entsprechend konfigurieren. Sie können Ihren Concierge so einstellen, dass er je nach Vision Ihrer Marke kurze, mittlere oder lange Ausgaben zurückgibt.
+Der Markenausdruck wird anhand von Attributen wie Formalität, Wärme, Verspieltheit und Energie festgelegt und nicht anhand eines einzigen benannten Stils. Sie können auch die Länge der Antwort (kurz, mittel oder lang) so konfigurieren, dass sie der Präferenz Ihrer Marke entspricht.
 
 **So passen Sie Ihren Markenausdruck an**
 
-1. Klicken Sie auf der Startseite auf **[!UICONTROL Markenausdruck anpassen]**.
-2. Konfigurieren Sie als Nächstes die Stimme, den Ton und die bevorzugte Antwortlänge Ihrer Marke.
+1. Öffnen Sie im Concierge **[!UICONTROL Tone &amp; Voice]**.
+2. Passen Sie Formalität, Wärme, Verspieltheit, Energie und bevorzugte Reaktionslänge an.
 3. Wählen Sie **[!UICONTROL Speichern]**, um sicherzustellen, dass die Änderungen in zukünftigen Antworten widergespiegelt werden.
 
 ### Vorschau und Tests {#preview-and-test}
@@ -242,7 +243,7 @@ Um ein transparentes und vertrauenswürdiges Erlebnis zu bieten, müssen Benutze
 
 Ihre im Gespräch befindliche Offenlegung sollte den Endbenutzern drei Dinge klar kommunizieren.
 
-1. _Die Konversation verwendet generative KI_
+1. _Die Unterhaltung verwendet generative KI_
 
    Teilen Sie Benutzern mit, dass die Antworten von KI generiert werden, damit sie verstehen, dass sie mit einem automatisierten System interagieren.
 
