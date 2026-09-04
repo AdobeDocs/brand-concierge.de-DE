@@ -29,13 +29,13 @@ Sammeln Sie die folgenden Informationen, bevor Sie Ihren ersten Concierge einric
 
 ## Schritt 2: Anpassen des Markenerlebnisses
 
-1. Verfeinern Sie den bei der Erstellung entworfenen Markenausdruck und das Markenprofil. Weitere Informationen finden Sie unter [Einen Concierge ](../concierge-management/concierge-management.md).
+1. Verfeinern Sie den bei der Erstellung entworfenen Markenausdruck und das Markenprofil. Weitere Informationen finden Sie unter [Einen Concierge &#x200B;](../concierge-management/concierge-management.md).
 2. Überprüfen und passen Sie die Anweisungen und Leitplanken des Concierge an.
 3. Passen Sie die Ton- und Spracheinstellungen, den visuellen Stil und die Chat-Komponenten an die Markenanforderungen an.
 
 ## Schritt 3: Auswertungen durchführen
 
-1. Gehen Sie zu [Einen Concierge ](../evaluation/evaluation.md) und erstellen Sie ein Evaluierungsset für jeden Evaluierungstyp: funktional, außerhalb des Geltungsbereichs und Schutz.
+1. Gehen Sie zu [Einen Concierge &#x200B;](../evaluation/evaluation.md) und erstellen Sie ein Evaluierungsset für jeden Evaluierungstyp: funktional, außerhalb des Geltungsbereichs und Schutz.
 2. Führen Sie die Auswertungen aus und überprüfen Sie die gekennzeichneten Ergebnisse, bevor Sie fortfahren.
 
 ## Schritt 4: Erstellen eines freigabefähigen Vorschau-Links
