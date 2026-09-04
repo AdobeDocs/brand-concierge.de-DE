@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Erkunden von Adobe Brand Concierge
-source-git-commit: 13db0491c987a08492820ac216e20feb87f30e44
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 20%
+source-wordcount: '154'
+ht-degree: 17%
 
 ---
 
@@ -39,17 +39,17 @@ ht-degree: 20%
     + {hide-from-toc}[Fügen Sie der Rolle einen Benutzer hinzu](../documentation/user-and-access-management/add-a-user-to-the-role.md)
     + {hide-from-toc}[Erstellen einer Rolle](../documentation/user-and-access-management/create-a-role.md)
   + Wissensquellen {#knowledge-sources}
-    + {hide-from-toc}[ks](../documentation/knowledge-sources/knowledge-sources.md)
+    + {hide-from-toc}[Wissensquellen für Brand Concierge erstellen und verwalten](../documentation/knowledge-sources/knowledge-sources.md)
   + Concierge-Management {#concierge-management}
-    + {hide-from-toc}[cm](../documentation/concierge-management/concierge-management.md)
+    + {hide-from-toc}[Einen Concierge leiten](../documentation/concierge-management/concierge-management.md)
   + Auswertung {#evaluation}
-    + {hide-from-toc}[E](../documentation/evaluation/evaluation.md)
+    + {hide-from-toc}[Wertet einen Concierge aus](../documentation/evaluation/evaluation.md)
   + Bereitstellung {#deployment}
-    + {hide-from-toc}[d](../documentation/deployment/deployment.md)
+    + {hide-from-toc}[Einen Concierge entsenden](../documentation/deployment/deployment.md)
   + Go-Live-Checkliste {#go-live-checklist}
-    + {hide-from-toc}[GLC](../documentation/go-live-checklist/go-live-checklist.md)
+    + {hide-from-toc}[Go-Live-Checkliste für einen Concierge](../documentation/go-live-checklist/go-live-checklist.md)
   + Analytics {#analytics}
-    + {hide-from-toc}[a](../documentation/analytics/analytics.md)
+    + {hide-from-toc}[Analysieren der Concierge-Leistung](../documentation/analytics/analytics.md)
 + Versionshinweise {#release-notes}
   + [Aktuelle Versionsinformationen](../release-notes/current.md)
 + {hide-from-toc}[Demo für Brand Concierge - Value Video](../demo-videos/demo-for-brand-concierge-value-video.md)

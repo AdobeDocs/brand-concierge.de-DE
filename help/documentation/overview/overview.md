@@ -1,10 +1,10 @@
 ---
 title: Übersicht über Brand Concierge
 description: Erfahren Sie, was Brand Concierge ist, wie die Hauptkomponenten zusammenpassen und welches Glossar Sie in der Composer-Benutzeroberfläche finden.
-source-git-commit: 3da67605a43e949046260651253bbe0f2f0215fc
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '535'
-ht-degree: 1%
+source-wordcount: '509'
+ht-degree: 2%
 
 ---
 
@@ -21,17 +21,17 @@ Eine Brand Concierge-Bereitstellung umfasst zwei Hauptkomponenten:
 | **Besuchererlebnis** | Die markenorientierte Oberfläche, z. B. eine Website oder eine mobile App, auf der Besucher mit dem Concierge interagieren und in Echtzeit Antworten erhalten. |
 | **Composer** | Die Benutzeroberfläche des Praktikers, die zum Entwerfen von Concierge-Erlebnissen und zum Verwalten von Concierge-Erlebnissen, Integrationen, Konfigurationen, Auswertungen, Bereitstellung und Analysen verwendet wird. |
 
-## Composer-Module, die in diesem Handbuch behandelt werden
+## Composer-Module
 
-Innerhalb von Composer sind die wichtigsten Module (und wo sie in diesem Handbuch behandelt werden):
+Innerhalb von Composer sind die wichtigsten Module:
 
-- Benutzerverwaltung (Abschnitt 3)
-- Erstellung und Verwaltung von Wissensquellen, die von allen Concierges gemeinsam genutzt werden (Abschnitt 4)
-- Concierge-Management: Integrationen, Fähigkeiten, Concierge-Anweisungen, Ton und Stimme, visueller Stil und Chat-Komponenten (Abschnitt 5)
-- Bewertung (Abschnitt 6)
-- Bereitstellung (Abschnitt 7)
-- Go-Live-Checkliste (Abschnitt 8)
-- Analytics (Abschnitt 9)
+- [Benutzer- und Zugriffsverwaltung](../user-and-access-management/add-a-user-to-the-org.md)
+- [Erstellung und Verwaltung von Wissensquellen](../knowledge-sources/knowledge-sources.md), die von allen Concierges gemeinsam genutzt werden
+- [Concierge-](../concierge-management/concierge-management.md): Integrationen, Fähigkeiten, Concierge-Anweisungen, Ton und Stimme, visueller Stil und Chat-Komponenten
+- [Auswertung](../evaluation/evaluation.md)
+- [Bereitstellung](../deployment/deployment.md)
+- [Go-Live-Checkliste](../go-live-checklist/go-live-checklist.md)
+- [Analytics](../analytics/analytics.md)
 
 ## Verbindung der Teile
 
@@ -58,4 +58,4 @@ Diese Begriffe erscheinen auf der gesamten Benutzeroberfläche des Komponisten.
 
 >[!NOTE]
 >
->Marketingexperten können in der Regel Abschnitt 3 (*- und Zugriffsverwaltung* vollständig überspringen (jemand in der IT schließt sie einmal ab) und mit Abschnitt 4 (*)*. Kehren Sie nur bei der Einrichtung neuer Teammitglieder zu Abschnitt 3 zurück.
+>Marketing-Experten können in der Regel [Benutzer- und Zugriffsverwaltung](../user-and-access-management/add-a-user-to-the-org.md) vollständig überspringen (jemand in der IT schließt sie einmal ab) und mit [Wissensquellen](../knowledge-sources/knowledge-sources.md) beginnen. Kehren Sie nur bei der Einrichtung neuer Teammitglieder zur Benutzer- und Zugriffsverwaltung zurück.

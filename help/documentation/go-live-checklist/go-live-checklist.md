@@ -2,9 +2,9 @@
 title: Go-Live-Checkliste für einen Concierge
 description: Verwenden Sie diese Checkliste, um die Bereitschaft des Concierge zu überprüfen, bevor sie echten Besuchern zur Verfügung gestellt wird, und um die anfängliche Kadenz für den Betrieb nach dem Start festzulegen.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # Go-Live-Checkliste für einen Concierge
 
 Verwenden Sie diese Checkliste, um die Bereitschaft vor der Markteinführung zu überprüfen, bevor Sie einen Concierge für echte Besucher verfügbar machen. Die Checkliste fasst die in den Workflows „Wissensquellen“, „Concierge-Management“, „Bewertung“ und „Bereitstellung“ beschriebenen Bereitschaftskriterien zusammen.
-
->[!NOTE]
->
->Sie sollten diese Checkliste als eigenständige Seite veröffentlichen. Eine eigenständige Seite kann direkt von der Launch-Kommunikation aus verknüpft und unabhängig vom vollständigen Dokumentationssatz referenziert werden.
 
 ## Verwendung dieser Checkliste
 
@@ -50,9 +46,3 @@ Schließen Sie vor dem Start jedes Element ab und zeichnen Sie den Eigentümer o
 
 - [ ] **Analytics-Zugriff ist bestätigt.** Überprüfen, ob die relevanten Stakeholder auf die erforderlichen Analysen zugreifen können.
 - [ ] **Es wird eine Überprüfungskadenz festgelegt.** Etablieren Sie einen wiederkehrenden Prozess zur Überprüfung von Gesprächsprotokollen und zum Hinzufügen neuer Auswertungsfragen, sobald diese auftreten.
-
-## Bevor Sie diese Checkliste als Freigabeanforderung veröffentlichen
-
->[!IMPORTANT]
->
->Diese Checkliste wird aus den im Handbuch beschriebenen Workflows abgeleitet. Dies ist kein offizielles, produktdefiniertes Release-Gate. Validieren Sie sie anhand der Produkt- und QA-definierten Freigabekriterien, bevor Sie sie als formale Anforderung für die Live-Schaltung veröffentlichen.
