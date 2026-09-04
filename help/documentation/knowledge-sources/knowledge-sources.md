@@ -2,9 +2,9 @@
 title: Erstellen und Verwalten von Wissensquellen für Brand Concierge
 description: Erfahren Sie, wie Sie AEM Sites-, Website-Links- und Produktkatalog-Wissensquellen für Brand Concierge erstellen, den Verarbeitungsstatus überwachen und crawlen Probleme beheben.
 hide: true
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '856'
 ht-degree: 1%
 
 ---
@@ -32,7 +32,7 @@ Brand Concierge unterstützt die folgenden Wissens-Quelltypen:
 
 >[!IMPORTANT]
 >
->Kunden, die über Adobe Commerce mit einem großen Katalog verkaufen, sollten stattdessen die Commerce MCP-Integration verwenden. Details zu dieser Integration würden den Rahmen dieses Artikels sprengen.
+>Kunden, die über Adobe Commerce mit einem großen Katalog verkaufen, sollten stattdessen die Commerce MCP-Integration verwenden.
 
 ## Erstellen einer AEM Sites-Wissensquelle
 
