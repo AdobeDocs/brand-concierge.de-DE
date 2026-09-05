@@ -32,6 +32,6 @@ Durch die Bereitstellung von Adobe Brand Concierge ist es für echte Website-Bes
 * Komponenteninstallation im Vergleich zu den vollständigen Seiteninstallationsoptionen für das Skript
 * Konfigurieren von Oberflächenregeln durch Abgleichen von Domains und Pfaden (beliebig, beginnt mit, endet mit, ist gleich)
 
->[!VIDEO](https://video.tv.adobe.com/v/3502969?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3502988?captions=ger&learn=on)
 
 Weitere Informationen finden Sie unter [Einen Concierge bereitstellen](../documentation/deployment/deployment.md).

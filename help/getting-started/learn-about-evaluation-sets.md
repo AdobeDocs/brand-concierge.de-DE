@@ -32,6 +32,6 @@ Auswertungen zeigen Ihnen, ob Ihr Adobe Brand Concierge richtig antwortet, im Um
 * Ausführen einer Bewertung und Überprüfen der Gesamtpunktzahl und markierte Fragen
 * Wie man die tatsächliche Antwort des Concierges mit der erwarteten Antwort für jede markierte Frage vergleicht
 
->[!VIDEO](https://video.tv.adobe.com/v/3502662)
+>[!VIDEO](https://video.tv.adobe.com/v/3502669?captions=ger)
 
 Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
