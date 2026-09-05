@@ -2,9 +2,9 @@
 title: Einen Concierge verwalten
 description: Erfahren Sie, wie Sie eine Brand Concierge von einer Website aus erstellen, ihre Integrationen, Fertigkeiten, Anweisungen, den Ton und den visuellen Stil konfigurieren und sie vor der Bereitstellung testen können.
 toc: true
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
 workflow-type: tm+mt
-source-wordcount: '1804'
+source-wordcount: '1761'
 ht-degree: 1%
 
 ---
@@ -161,10 +161,6 @@ Visuelle Stileinstellungen steuern das Erscheinungsbild des Concierges, unter an
 - Kartenfarben
 
 Bearbeiten Sie die Einstellungen in der Benutzeroberfläche und verwenden Sie die Live-Vorschau, um Änderungen anzuzeigen. Wählen Sie **Speichern**, um die Änderungen dauerhaft zu machen.
-
->[!NOTE]
->
->Das Quellmaterial gibt an, dass ein vollständig benutzerdefiniertes Erscheinungsbild über die in der Benutzeroberfläche verfügbaren Optionen hinaus über ein separates Bereitstellungsskript möglich ist. Das Bereitstellungsskriptverfahren wurde nicht einbezogen und sollte nach der Bestätigung separat dokumentiert werden.
 
 ## Konfigurieren von Chat-Komponenten
 

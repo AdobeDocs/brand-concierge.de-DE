@@ -1,6 +1,6 @@
 ---
-title: Einrichten und Konfigurieren von Meetings
-description: Erfahren Sie, wie Sie Meetings in Adobe Brand Concierge einrichten und konfigurieren.
+title: Einrichten und Konfigurieren der Besprechungsbuchung
+description: Erfahren Sie, wie Sie die Besprechungsbuchung in Adobe Brand Concierge konfigurieren, einschließlich Kalenderverbindungen, Verfügbarkeit, Mitgliederzugriff und Leistungsanalysen.
 level: Beginner
 role: User,Admin
 TQID: https://experienceleague.adobe.com/vfX6M2-ts7d2-AxKGjaP1Ygkk3FGSGRl4CHslcKYSXU
@@ -11,14 +11,14 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 1b1598dc2c6308ae38a2aeaf14576c9c55be5ba5
+source-git-commit: fc5e30918271360ea2256b49d1c200fb3eda298b
 workflow-type: tm+mt
-source-wordcount: 329
+source-wordcount: 338
 ht-degree: 4%
 
 ---
 
-# Besprechungen {#meetings}
+# Meeting-Buchung {#meetings}
 
 Hier erfahren Sie mehr über Ihre _Meeting_ Einstellungen in Adobe Brand Concierge. Verbinden Sie Ihren Kalender, legen Sie die Verfügbarkeit fest, zeigen Sie Analysen an und vieles mehr.
 
@@ -34,7 +34,7 @@ Stellen Sie eine Verbindung zu Ihrem Outlook- oder Google-Konto her und bestimme
 
 1. Anmelden bei [Adobe Experience Platform](https://experience.adobe.com/){target="_blank"}.
 
-1. Wählen Sie **[!UICONTROL Verkaufskennzeichner]** aus.
+1. **[!UICONTROL Sales Qualifier]**.
 
    ![Adobe Experience Platform-Homepage](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
