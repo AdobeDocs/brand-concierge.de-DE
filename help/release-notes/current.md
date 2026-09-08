@@ -2,9 +2,9 @@
 description: Aktuelle Versionshinweise für Adobe Brand Concierge.
 title: Aktuelle Versionshinweise
 feature: Release Information
-source-git-commit: 39d49289351c4e9a8b733e91daf8692df472031a
+source-git-commit: 35ce8a7b460e97336246293ad5e53ee83ead5108
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '1046'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,26 @@ ht-degree: 0%
 Adobe Brand Concierge folgt einem kontinuierlichen Bereitstellungsmodell, sodass Adobe kontinuierlich neue Funktionen, Verbesserungen und Fehlerbehebungen bereitstellen kann.
 
 Alle Funktionen sind allgemein verfügbar, sofern nicht anders angegeben.
+
+## August 2026 {#august-2026}
+
+* **Composer 2.0**: Die Concierge-Kreation wurde um eine einzelne Website-URL herum neu gestaltet. Composer entwirft automatisch einen markenorientierten Ausgangspunkt, einschließlich Markenausdruck, Markenprofil, Anweisungen, Leitplanken, einer Wissensquelle und einer Grundqualifikation, die in Minuten überprüft werden kann und live geschaltet wird, ohne dass eine manuelle Konfiguration erforderlich ist, um zu beginnen.
+
+* **Skills and Integrations Framework**: Concierges werden aus einem Selbstbedienungskatalog von Fähigkeiten und Integrationen erstellt, die durch Browse Skills und Browse Integrationen entdeckt und konfigurierbar sind. Dazu gehören sowohl neue als auch zuvor veröffentlichte Funktionen wie Site Advisory, Product Advisory und Commerce Catalog Discovery and Comparison.
+
+* **Anpassung von visuellen Stilen und Chatkomponenten**: Passen Sie die Farben, Schriftarten, Begrüßungsnachrichten und einzelnen Chatkomponenten eines Concierges an, einschließlich Chatblasen, Eingabeaufforderungen, Zitate, Feedback-Steuerelemente und Produktkarten, mit Änderungen, die live in der Vorschau angezeigt werden.
+
+* **Mehrere Concierges pro Sandbox**: Erstellen und verwalten Sie mehrere Concierges innerhalb einer Sandbox mit jeweils einer unabhängigen Konfiguration.
+
+* **Client-seitige Ereignisse und Callback-Funktionen**: Registrieren Sie einen einzelnen Callback, um Web-Client-Lebenszyklusereignisse, Benutzerinteraktionen, Antworten, Feedback und Fehler in Echtzeit zu beobachten und zum Senden von Interaktionsdaten an Adobe Analytics, Google Analytics oder andere Drittanbietersysteme zu verwenden.
+
+* **Mehrsprachiger Concierge-Support (begrenzte Verfügbarkeit)**: Stellen Sie einen Concierge in zusätzlichen Sprachen neben Englisch bereit, mit validiertem Support für Spanisch und Französisch. Jede Zielsprache wird als eigener Concierge innerhalb derselben Sandbox ausgeführt und automatisch durch die Anfragesprache weitergeleitet.
+
+* **Bereitstellung: Datenstrom- und Oberflächenkonfiguration**: Konfigurieren Sie einen Datenstrom, um Besucherinteraktionen zu verfolgen, und definieren Sie dann Oberflächenregeln, um zu steuern, auf welchen Seiten und Domains der Concierge angezeigt wird. Verwenden Sie dazu Domain- und Pfadabgleich (Beliebig, beginnt mit, endet mit oder exakte Übereinstimmung).
+
+## Juni 2026 {#june-2026}
+
+* **Marketo-Integration**: Besuchergespräche, einschließlich In-Chat-Lead-Erfassung, fließen automatisch als native Aktivitätsdaten in Marketo Engage ein, die sowohl für Trigger- als auch für Batch-Smart-Kampagnen verfügbar sind.
 
 ## April 2026 {#april-2026}
 
