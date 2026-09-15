@@ -31,6 +31,6 @@ Adobe Brand Concierge unterstützt einen Freisprechmodus mit Sprachausgabe, mit 
 * Wie der Concierge bleibt ein vollständiges multimodales Erlebnis, immer noch Bilder, Text und Links während eines Sprachgesprächs
 * Wie man die Stimme ausschaltet, wenn man sie nicht mehr möchte
 
->[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503493?captions=ger&learn=on)
 
 Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
