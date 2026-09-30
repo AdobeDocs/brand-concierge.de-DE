@@ -1,5 +1,5 @@
 ---
-title: Messen der Qualität und Festlegen von Leitplanken - Video
+title: Qualität messen und Leitplanken festlegen
 description: Erfahren Sie, wie Sie einen goldenen Satz von Fragen und idealen Antworten erstellen, um die Adobe Brand Concierge-Qualität zu messen, und definieren Sie Leitplanken für sensible Besucherfragen.
 topic: Personalization,Integrations
 role: Developer
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 174
 last-substantial-update: 2026-09-29
 jira: KT-22188
-source-git-commit: 4cc80eef685fbfc26adaf0b9c47f61e935d45882
+source-git-commit: cd3fb3664f1eb60cba7cae83b8539871b3dcfb72
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '166'
 ht-degree: 0%
 ---
 
@@ -31,7 +31,6 @@ Vor dem Launch von Adobe Brand Concierge müssen Sie eine Möglichkeit haben, zu
 * Wie viele Frage-Antwort-Paare einzubeziehen sind und welche Kategorien abgedeckt werden sollen
 * Warum Beispiele, die außerhalb des Projektumfangs liegen, wichtig sind und wie der Concierge sie ablehnt
 * Verwenden eines KI-generierten ersten Entwurfs Ihres goldenen Sets und Verfeinern dieses Sets
-* Definieren von Regeln für die Besprechungsbuchung, die Übergabe von Live-Repräsentanten, Preise, Rechtsansprüche und Erwähnungen von Mitbewerbern
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
 
