@@ -1,13 +1,14 @@
 ---
 title: Grundlagen zu Adobe Brand Concierge
-description: Grundlagen zu Adobe Brand Concierge.
-source-git-commit: b3307a9879e8b1f0166d7a15e3436cc76729b806
+description: Adobe Brand Concierge-Grundlagen.
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 1%
-
 ---
-
 
 # Grundlagen zu Brand Concierge
 
@@ -19,4 +20,4 @@ Willkommen in der Dokumentation zu Adobe Brand Concierge. Wir haben zwei Bereich
 
 ## Einstellungen
 
-Stellen Sie sicher, dass [&#x200B; Abschnitt &#x200B;](./settings.md)Einstellungen“ aufgerufen wurde, um sicherzustellen, dass Ihre Brand Concierge ordnungsgemäß eingerichtet wurde.
+Stellen Sie sicher, dass [ Abschnitt ](./settings.md)Einstellungen“ aufgerufen wurde, um sicherzustellen, dass Ihre Brand Concierge ordnungsgemäß eingerichtet wurde.

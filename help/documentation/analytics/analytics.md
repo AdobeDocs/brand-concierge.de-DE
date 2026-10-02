@@ -2,13 +2,14 @@
 title: Analysieren der Concierge-Leistung
 description: Erfahren Sie, wie Sie Concierge-Analysen durchgehen, Gesprächsprotokolle einsehen, Fragen von Besuchern zu Auswertungssets hinzufügen und Customer Journey Analytics-Berichte öffnen können.
 hide: true
-source-git-commit: da4b30fa292b911987aebec378af420b293ea594
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 0%
-
 ---
-
 
 # Analysieren der Concierge-Leistung
 
@@ -59,7 +60,7 @@ Wenn ein Besucher eine Frage stellt, die für zukünftige Tests nützlich ist, f
 
 1. Wählen Sie **Zu Auswertung hinzufügen** aus.
 
-Das Hinzufügen echter Besucherfragen hilft, Auswertungssets auf den Fragen zu gründen, die Besucher tatsächlich stellen. Weitere Informationen zu Auswertungssets finden Sie unter [Einen Concierge &#x200B;](../evaluation/evaluation.md).
+Das Hinzufügen echter Besucherfragen hilft, Auswertungssets auf den Fragen zu gründen, die Besucher tatsächlich stellen. Weitere Informationen zu Auswertungssets finden Sie unter [Einen Concierge ](../evaluation/evaluation.md).
 
 >[!TIP]
 >
