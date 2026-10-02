@@ -38,6 +38,6 @@ Adobe Brand Concierge kann in der Sprache antworten, die Sie beim Erstellen eine
 * Wie sich die ausgewählte Antwortsprache auf Antworten und Starter-Prompt-Karten auswirkt
 * Unterstützung lokalisierter Antworten durch importierte Wissensquellen wie Kataloge und Website-URLs
 
->[!VIDEO](https://video.tv.adobe.com/v/3503888?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503895?captions=ger&learn=on)
 
 Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).

@@ -41,6 +41,6 @@ Vor dem Launch von Adobe Brand Concierge müssen Sie eine Möglichkeit haben, zu
 * Warum Beispiele, die außerhalb des Projektumfangs liegen, wichtig sind und wie der Concierge sie ablehnt
 * Verwenden eines KI-generierten ersten Entwurfs Ihres goldenen Sets und Verfeinern dieses Sets
 
->[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503949/?captions=ger&learn=on)
 
 Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
