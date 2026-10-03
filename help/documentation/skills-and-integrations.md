@@ -3,13 +3,22 @@ title: Skills and Integrations Framework
 description: Erfahren Sie, wie Fähigkeiten und Integrationen im Concierge-Framework zusammenarbeiten. Fähigkeiten definieren das Verhalten, während Integrationen eine Verbindung zu Daten herstellen und Funktionen bereitstellen.
 role: User, Admin
 level: Beginner
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '1698'
 ht-degree: 0%
-
 ---
-
 # Skills and Integrations Framework {#skills-and-integrations}
 
 Eine Integration (früher als Tool bezeichnet) ist eine Verbindung zu einer Datenquelle oder einem Backend. Eine Fähigkeit ist ein Verhalten.

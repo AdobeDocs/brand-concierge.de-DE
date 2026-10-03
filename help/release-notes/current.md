@@ -2,16 +2,17 @@
 description: Aktuelle Versionshinweise für Adobe Brand Concierge.
 title: Aktuelle Versionshinweise
 feature: Release Information
-source-git-commit: 35ce8a7b460e97336246293ad5e53ee83ead5108
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '1046'
 ht-degree: 0%
-
 ---
-
 # Aktuelle Versionsinformationen {#current-release-notes}
 
-Adobe Brand Concierge folgt einem kontinuierlichen Bereitstellungsmodell, sodass Adobe kontinuierlich neue Funktionen, Verbesserungen und Fehlerbehebungen bereitstellen kann.
+Adobe Brand Concierge folgt einem kontinuierlichen Bereitstellungsmodell, sodass Adobe laufend neue Funktionen, Verbesserungen und Fehlerbehebungen bereitstellen kann.
 
 Alle Funktionen sind allgemein verfügbar, sofern nicht anders angegeben.
 

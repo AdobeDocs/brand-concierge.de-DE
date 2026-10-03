@@ -2,13 +2,14 @@
 title: Go-Live-Checkliste für einen Concierge
 description: Verwenden Sie diese Checkliste, um die Bereitschaft des Concierge zu überprüfen, bevor sie echten Besuchern zur Verfügung gestellt wird, und um die anfängliche Kadenz für den Betrieb nach dem Start festzulegen.
 hide: true
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
-
 ---
-
 
 # Go-Live-Checkliste für einen Concierge
 

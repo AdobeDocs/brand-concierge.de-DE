@@ -1,13 +1,14 @@
 ---
 title: Erstellen einer Rolle mit Brand Concierge-Berechtigung
 description: Erfahren Sie, wie Sie eine Rolle erstellen und ihr die für den Zugriff auf Brand Concierge erforderlichen Berechtigungen erteilen.
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 1%
-
 ---
-
 
 # Erstellen einer Rolle mit Brand Concierge-Berechtigung
 

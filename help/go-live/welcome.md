@@ -1,20 +1,27 @@
 ---
 title: Go-Live-Journey - Video
-description: Zeigen Sie eine Vorschau der Go-Live-Journey von Adobe Brand Concierge an, die die Vorbereitungs-, Konfigurations-, Validierungs- und Rollout-Phasen sowie einen typischen Zeitrahmen von sechs bis neun Wochen umfasst.
+description: Zeigen Sie eine Vorschau der Live-Journey von Adobe Brand Concierge an, die die Vorbereitungs-, Konfigurations-, Validierungs- und Rollout-Phasen sowie einen typischen Zeitrahmen von sechs bis neun Wochen umfasst.
 topic: Personalization,Integrations
 role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 150
-last-substantial-update: 2026-07-10T00:00:00Z
+last-substantial-update: 2026-07-10T00:00:00.000Z
 jira: KT-21745
-source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
-
 ---
-
 
 # Willkommen auf Ihrer Live-Journey
 
