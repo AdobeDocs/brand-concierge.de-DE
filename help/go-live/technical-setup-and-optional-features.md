@@ -41,6 +41,6 @@ Bereiten Sie Ihre Website für Adobe Brand Concierge vor und wählen Sie die opt
 * Aktivieren von Live-Chat mit repräsentativer Verfügbarkeit, Besucher-Triggern und einem Fallback zur Besprechungsbuchung
 * Verbinden von Marketo Engage zum Empfang von Leads und Aktivitäten mit Administratorzugriff und einem Feature Flag
 
->[!VIDEO](https://video.tv.adobe.com/v/3504075/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504082/?captions=ger&learn=on)
 
 Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
