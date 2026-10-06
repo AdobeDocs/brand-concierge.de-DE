@@ -35,7 +35,7 @@ Validieren Sie vor dem Start von Adobe Brand Concierge Ihre Inhalte, Ihre Marken
 * Beziehen Sie die Genehmigung der Stakeholder ein und bestätigen Sie die technische Bereitschaft mit Adobe-Ressourcen, wenn diese beteiligt sind.
 * Planen Sie einen schrittweisen Rollout, der nur dann fortgesetzt wird, wenn die Ergebnisse die nächste Phase unterstützen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504106/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504113/?captions=ger&learn=on)
 
 Beginnen Sie mit internen Teamkollegen und testen Sie vollständige End-to-End-Flüsse. Ziehen Sie dann einen kleinen anfänglichen Rollout in Betracht, z. B. 5 % der Zielseiten, bevor Sie ihn auf 25 %, 50 % und schließlich 100 % erweitern. Dies sind Beispielphasen, kein fester Zeitplan. Setzen Sie die Überwachung über Ihr Analytics-Dashboard mindestens einmal wöchentlich nach dem vollständigen Rollout fort.
 
