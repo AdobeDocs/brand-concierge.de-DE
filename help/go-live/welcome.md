@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '197'
 ht-degree: 0%
 ---
 
@@ -39,6 +39,15 @@ Machen Sie sich bereit, mit Adobe Brand Concierge live zu gehen, einem KI-gestü
 * Was Sie bereitstellen oder was Ihr Adobe-Team konfiguriert
 * Der typische Zeitrahmen von sechs bis neun Wochen und was sich darauf auswirkt
 
->[!VIDEO](https://video.tv.adobe.com/v/3495876/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
+
+## Verwandte Tutorials
+
+* [Stimme und Widget gestalten](voice-and-visuals.md)
+* [Vorbereiten von Inhalten und Besucher-Journey](content-and-journey.md)
+* [Messen der Qualität und Festlegen von Schutzmaßnahmen](measuring-quality-and-setting-guardrails.md)
+* [Technische Einrichtung und optionale Funktionen](technical-setup-and-optional-features.md)
+* [Checkliste vor der Live-Schaltung und Rollout-Plan](your-pre-go-live-checklist-and-rollout-plan.md)
+* [Brand Concierge-Wiedergabeliste für Go-Live-Checklisten](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
