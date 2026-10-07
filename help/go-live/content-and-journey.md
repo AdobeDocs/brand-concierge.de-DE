@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '183'
 ht-degree: 0%
 ---
 
@@ -41,9 +41,14 @@ Adobe Brand Concierge kann nur Fragen sowie die von Ihnen bereitgestellten Inhal
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496014/?captions=ger&learn=on)
 
-## Verwandte Videos in dieser Reihe
+## Verwandte Tutorials
 
 * [Willkommen auf Ihrer Live-Journey](welcome.md)
+* [Stimme und Widget gestalten](voice-and-visuals.md)
+* [Messen der Qualität und Festlegen von Schutzmaßnahmen](measuring-quality-and-setting-guardrails.md)
+* [Technische Einrichtung und optionale Funktionen](technical-setup-and-optional-features.md)
+* [Checkliste vor der Live-Schaltung und Rollout-Plan](your-pre-go-live-checklist-and-rollout-plan.md)
+* [Brand Concierge-Wiedergabeliste für Go-Live-Checklisten](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 ## Dokumentation
 
