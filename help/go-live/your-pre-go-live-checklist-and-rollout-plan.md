@@ -46,6 +46,6 @@ Beginnen Sie mit internen Teamkollegen und testen Sie vollständige End-to-End-F
 * [Vorbereiten von Inhalten und Besucher-Journey](content-and-journey.md)
 * [Messen der Qualität und Festlegen von Schutzmaßnahmen](measuring-quality-and-setting-guardrails.md)
 * [Technische Einrichtung und optionale Funktionen](technical-setup-and-optional-features.md)
-* [Brand Concierge-Wiedergabeliste für Go-Live-Checklisten](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
+* [Brand Concierge-Wiedergabeliste für Go-Live-Checklisten](https://experienceleague.adobe.com/de/playlists/brand-concierge-go-live-checklist)
 
 Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
