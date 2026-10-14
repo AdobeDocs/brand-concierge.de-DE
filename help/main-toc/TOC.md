@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Erkunden von Adobe Brand Concierge
-source-git-commit: 024fc10eacb22a8292e51891458fc57253455afc
+source-git-commit: e0e9e4ba50fdc3af00f603a44188cc845d656306
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 15%
+source-wordcount: '183'
+ht-degree: 14%
 ---
 
 # Adobe Brand Concierge {#content}
@@ -21,6 +21,7 @@ ht-degree: 15%
   + [Passen Sie den visuellen Stil Ihres Concierge an](../getting-started/customize-visual-style.md)
   + [Informationen zu Auswertungssets](../getting-started/learn-about-evaluation-sets.md)
   + [Stellen Sie den Concierge ein](../getting-started/deploy-the-concierge.md)
+  + [Exportieren von Unterhaltungen mit Adobe CX Enterprise Coworker](../getting-started/exporting-conversations-using-adobe-cx-enterprise-coworker.md)
 + Go-Live-Handbuch {#go-live-guide}
   + [Willkommen auf Ihrer Live-Journey](../go-live/welcome.md)
   + [Vorbereiten von Inhalten und Besuchererlebnis](../go-live/content-and-journey.md)
@@ -34,7 +35,7 @@ ht-degree: 15%
   + [Skills and Integrations Framework](../documentation/skills-and-integrations.md)
   + [Entwicklungs- und Anpassungshandbuch](../documentation/developer-customization-guide.md)
   + [Häufig gestellte Fragen](../documentation/brand-concierge-faq.md)
-  + Überblick {#overview}
+  + Übersicht {#overview}
     + [Übersicht über Brand Concierge](../documentation/overview/overview.md)
     + [Ihre erste Brand Concierge](../documentation/overview/first-brand-concierge.md)
   + Benutzer- und Zugriffsverwaltung {#user-and-access-management}
