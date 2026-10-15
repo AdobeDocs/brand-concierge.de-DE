@@ -28,7 +28,7 @@ Erfahren Sie, wie Sie Adobe Brand Concierge-Unterhaltungen mithilfe von Adobe Ex
 * Erfahren Sie, warum Data Distiller für den im Video gezeigten CSV-Download erforderlich ist.
 * Befolgen Sie beim Speichern von Exporten, die personenbezogene Daten (PII) enthalten können, die Richtlinien Ihres Unternehmens zur Datenverarbeitung
 
->[!VIDEO](https://video.tv.adobe.com/v/3504546)
+>[!VIDEO](https://video.tv.adobe.com/v/3504553?captions=ger)
 
 >[!NOTE]
 >
