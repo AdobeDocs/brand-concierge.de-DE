@@ -29,7 +29,7 @@ Erfahren Sie, wie Sie Adobe Brand Concierge-Konversationen mithilfe von Adobe Ex
 * Datensatz und Datumsbereich auswählen und Abfrageergebnisse in eine lokale CSV-Datei exportieren
 * Überprüfen Sie die exportierten Ergebnisse und aktualisieren Sie bei Bedarf abgelaufene Anmeldedaten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504643)
+>[!VIDEO](https://video.tv.adobe.com/v/3504650?captions=ger)
 
 ```bash
 psql "sslmode=require host=... password=..." --csv -o ~/brand-concierge-conversation-export/oct-1-2026-till-today-responses.csv -c "SELECT * FROM cja_brand_concierge_responses_dataset_b4c15126_bd9b_4d52_8151_26 WHERE timestamp >= TIMESTAMP '2026-10-01 00:00:00' AND timestamp <= NOW() ORDER BY timestamp ASC LIMIT 1000"
