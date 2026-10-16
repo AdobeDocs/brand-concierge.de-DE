@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 26648a7597148a5a463c2ae695598a5558ad8f48
+source-git-commit: 4a54cf90e8233e86cabf9329a78cb10f35a630f6
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 ---
 # Sprachgespräche aktivieren
@@ -25,13 +25,13 @@ Sprachunterhaltungen in Adobe Brand Concierge ermöglichen es Ihren Besuchern, m
 
 ## Aktivieren von Voice
 
-1. Wählen Sie auf **Bildschirm** Startseite“ unter **Ihr Concierge** den Concierge aus, den Sie bearbeiten möchten.
+1. Wählen Sie auf dem **Home**-Bildschirm unter **Ihr Concierge** den Concierge aus, bei dem Sie Ihre Stimme aktivieren möchten.
 
-   ![Brand Concierge-Startbildschirm mit hervorgehobener Adobe-Concierge-Karte unter „Ihr Concierge“](assets/voice-conversations-1.png){width="800" zoomable="yes"}
+   ![Brand Concierge-Startbildschirm mit hervorgehobener Adobe-Concierge-Karte unter „Ihr Concierge“](assets/voice-conversations-1.png){width="600" zoomable="yes"}
 
 1. Wählen Sie auf der **Design**-Registerkarte **Voice** aus.
 
-   ![Registerkarte „Design“ eines Concierge-Teams mit hervorgehobener Option „Stimme“ im linken Bereich unter „Markenausdruck“](assets/voice-conversations-2.png){width="800" zoomable="yes"}
+   ![Registerkarte „Design“ eines Concierge-Teams mit hervorgehobener Option „Stimme“ im linken Bereich unter „Markenausdruck“](assets/voice-conversations-2.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ Die Stimme beschränkt den Concierge nicht auf Audio. Während eines Sprachgespr
 
 ## So deaktivieren Sie die Sprache
 
-1. Wählen Sie auf **Bildschirm** Startseite“ unter **Ihr Concierge** den Concierge aus, den Sie bearbeiten möchten.
+1. Wählen Sie auf dem **Home**-Bildschirm unter **Ihr Concierge** den Concierge aus, bei dem Sie die Stimme deaktivieren möchten.
 
 1. Wählen Sie auf der **Design**-Registerkarte **Voice** aus.
 
