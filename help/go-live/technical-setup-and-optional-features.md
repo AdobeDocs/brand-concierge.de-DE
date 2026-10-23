@@ -41,7 +41,7 @@ Bereiten Sie Ihre Website für Adobe Brand Concierge vor und wählen Sie die opt
 * Aktivieren von Live-Chat mit repräsentativer Verfügbarkeit, Besucher-Triggern und einem Fallback zur Besprechungsbuchung
 * Verbinden von Marketo Engage zum Empfang von Leads und Aktivitäten mit Administratorzugriff und einem Feature Flag
 
->[!VIDEO](https://video.tv.adobe.com/v/3504082/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504075/?learn=on)
 
 ## Verwandte Tutorials
 
@@ -50,6 +50,6 @@ Bereiten Sie Ihre Website für Adobe Brand Concierge vor und wählen Sie die opt
 * [Vorbereiten von Inhalten und Besucher-Journey](content-and-journey.md)
 * [Messen der Qualität und Festlegen von Schutzmaßnahmen](measuring-quality-and-setting-guardrails.md)
 * [Checkliste vor der Live-Schaltung und Rollout-Plan](your-pre-go-live-checklist-and-rollout-plan.md)
-* [Brand Concierge-Wiedergabeliste für Go-Live-Checklisten](https://experienceleague.adobe.com/de/playlists/brand-concierge-go-live-checklist)
+* [Brand Concierge-Wiedergabeliste für Go-Live-Checklisten](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
