@@ -54,7 +54,7 @@ Brand Concierge verfügt über eine Reihe wichtiger Funktionen, darunter:
 Sie können über das Adobe Experience Cloud-Dashboard auf Brand Concierge zugreifen. Führen Sie auf allgemeiner Ebene die folgenden Aufgaben aus:
 
 1. [Einen Concierge erstellen](#homepage) von einer Website-URL. Eine Wissensquelle, ein Markenausdruck und allgemeine Kenntnisse werden automatisch generiert.
-1. [Überprüfen und verfeinern Sie die ](#knowledge-sources) nach Bedarf.
+1. [Überprüfen und verfeinern Sie die &#x200B;](#knowledge-sources) nach Bedarf.
 1. [Konfigurieren zusätzlicher Kenntnisse](#skills-configuration) über die Grundkenntnisse hinaus.
 1. [Passen Sie Ihren Markenausdruck an](#brand-expression) wenn die generierten Standardwerte geändert werden müssen.
 

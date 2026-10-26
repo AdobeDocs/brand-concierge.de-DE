@@ -25,7 +25,7 @@ Zwei Dinge müssen im Komponisten vorhanden sein. Die **[!UICONTROL Meeting-]**-
 
 >[!NOTE]
 >
->Schließen Sie [Zuerst Repräsentanten in Adobe Marketo Qualifier ](representative-setup.md). Die Integrationen überprüfen die Verfügbarkeit von verbundenen Kalendern und Live-Chats und werden ohne diese nicht aktiviert.
+>Schließen Sie [Zuerst Repräsentanten in Adobe Marketo Qualifier &#x200B;](representative-setup.md). Die Integrationen überprüfen die Verfügbarkeit von verbundenen Kalendern und Live-Chats und werden ohne diese nicht aktiviert.
 
 ## Verbinden der Integration der Besprechungsbuchung {#connect-meeting-booking}
 
@@ -50,7 +50,7 @@ Zwei Dinge müssen im Komponisten vorhanden sein. Die **[!UICONTROL Meeting-]**-
 
 1. Wählen Sie einen Routing-Typ aus **[!UICONTROL (Round]**), **[!UICONTROL Direct Agent]** oder **[!UICONTROL Custom Routing]**.
 
-   Wenn Sie **[!UICONTROL Direct Agent]** auswählen, wählen Sie den Vertreter aus, der jedes über diesen Concierge gebuchte Meeting erhält. Wenn Sie **[!UICONTROL Benutzerdefiniertes Routing]** auswählen, werden die [!DNL Adobe Marketo Qualifier] erstellten Routing-Regeln angewendet. Weitere Informationen zum Verhalten der einzelnen [ finden Sie unter „Routen von Konversationen an Vertreter](routing-rules.md).
+   Wenn Sie **[!UICONTROL Direct Agent]** auswählen, wählen Sie den Vertreter aus, der jedes über diesen Concierge gebuchte Meeting erhält. Wenn Sie **[!UICONTROL Benutzerdefiniertes Routing]** auswählen, werden die [!DNL Adobe Marketo Qualifier] erstellten Routing-Regeln angewendet. Weitere Informationen zum Verhalten der einzelnen [&#x200B; finden Sie unter „Routen von Konversationen an Vertreter](routing-rules.md).
 
 1. Wählen Sie **[!UICONTROL Verbinden]** aus.
 
