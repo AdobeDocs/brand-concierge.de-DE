@@ -14,10 +14,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
 workflow-type: tm+mt
-source-wordcount: '1698'
-ht-degree: 0%
+source-wordcount: '1705'
+ht-degree: 1%
 ---
 # Skills and Integrations Framework {#skills-and-integrations}
 
@@ -81,8 +81,8 @@ Im Folgenden finden Sie die Integrationen, die im Bedienfeld **Durchsuchen-Integ
 | Content-KI-Suchen | Durchsucht den Markeninhalt über die Content-KI | Eine alternative Inhaltsquelle. Normalerweise ist jeweils nur eine der KI-Suchen „Wissensdatenbanksuche“ oder „Inhaltssuche“ erforderlich |
 | Entitätsverknüpfung | Löst ein Produkt oder Markenerwähnung in einer Benutzernachricht zu bestimmten Katalogentitäten auf | Unterstützende Integration, die zusammen mit einer Suchintegration statt allein verwendet wird |
 | COMMERCE MCP | Adobe-verwalteter Commerce MCP-Server: Produktsuche, Details, Varianten und Facetten-/Attributerkennung, unterstützt durch Adobe Live Search | Nicht in der Baseline; für Commerce-Anwendungsfälle manuell hinzugefügt |
-| Meeting-Buchung | Ermöglicht Besuchern die Buchung eines Meetings mit einem Vertriebsmitarbeiter | Erfordert die Einrichtung mit dem Kalender eines Vertriebsmitarbeiters über das zugehörige Sales Qualifier-Produkt |
-| Live-Chat | Verbindet Besucher mit einem Live-Vertriebsmitarbeiter | Erfordert die Einrichtung durch einen Vertriebsmitarbeiter über das zugehörige Sales Qualifier-Produkt |
+| Meeting-Buchung | Ermöglicht Besuchern die Buchung eines Meetings mit einem Vertriebsmitarbeiter | Erfordert die Einrichtung mit dem Kalender eines Vertriebsmitarbeiters über das [!DNL Adobe Marketo Qualifier]. Siehe [Live-Chat und Meeting-Buchung](sales-handoff/overview.md) |
+| Live-Chat | Verbindet Besucher mit einem Live-Vertriebsmitarbeiter | Erfordert die Einrichtung mit der Verfügbarkeit eines Vertriebsmitarbeiters über das [!DNL Adobe Marketo Qualifier]. Siehe [Live-Chat und Meeting-Buchung](sales-handoff/overview.md) |
 
 ![Bedienfeld für das Durchsuchen von Integrationen mit vier Integrationskarten: Inhaltsdaten, Entitätsverknüpfung, Wissensdatenbanksuche und Commerce MCP](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}
 
@@ -96,8 +96,7 @@ Im Folgenden finden Sie die Fähigkeiten, die im Bedienfeld **Fähigkeiten durch
 | Produktberatung | Produkte entdecken und recherchieren: Namensbasierte Produktkarten und Prosaproduktfragen | Knowledge Base-Suche, Entitätsverknüpfung |
 | Adobe Commerce-Katalogerkennung | Durchsuchen, Filtern und Abrufen vollständiger Details zu Produkten in einem Live-Katalog | Commerce MCP-Tools: Suchen nach Commerce-Produkten, Produktdetails, Produktvarianten, Produktfacetten und durchsuchbaren Attributen |
 | Adobe Commerce - Produktvergleich | Vergleich von zwei oder mehr benannten Produkten in einer Tabelle für Commerce | Commerce MCP-Tools: Commerce-Produkte durchsuchen, Produktdetails |
-| Besprechung mit dem Vertrieb buchen | Empfiehlt und erleichtert die Buchung eines Meetings mit einem Vertriebsmitarbeiter | Integration der Besprechungsbuchung |
-| Live-Chat mit dem Vertrieb | Schlägt eine Live-Chat-Übergabe an einen Vertriebsmitarbeiter vor und erleichtert diese | Live Chat-Integration |
+| Übergabe an den Verkauf | Verbindet Besucher mit einem Unternehmensberater über die verfügbaren Tools: schlägt vor und erleichtert einen Live-Chat oder eine Besprechungsbuchung. Siehe [Aktivieren von Live-Chat und Besprechungsbuchung](sales-handoff/configure-in-composer.md) | Live-Chat, Meeting-Buchung |
 
 Die beiden Commerce-Kenntnisse sind Funktionen, die nur für den Katalog verfügbar sind, und hängen von der Commerce MCP-Integration ab, die nicht Teil der Grundlinie ist. In einem nicht-kommerziellen Concierge führen Site Advisory und Product Advisory stattdessen die automatisch erstellte Knowledge Base Search durch.
 

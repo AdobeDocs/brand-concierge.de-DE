@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Erkunden von Adobe Brand Concierge
-source-git-commit: c80a55306cf078d21071332532717760960dbc47
+source-git-commit: bc1ad01947d4c756c13392c1db85ced46e9cca82
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 14%
+source-wordcount: '223'
+ht-degree: 13%
 ---
 
 # Adobe Brand Concierge {#content}
@@ -32,12 +32,11 @@ ht-degree: 14%
   + [Checkliste vor der Live-Schaltung und Rollout-Plan](../go-live/your-pre-go-live-checklist-and-rollout-plan.md)
 + Dokumentation {#documentation}
   + [Hilfe zu Brand Concierge](../documentation/overview.md)
-  + [Besprechungen](../documentation/meetings.md)
   + [Skills and Integrations Framework](../documentation/skills-and-integrations.md)
   + [Entwicklungs- und Anpassungshandbuch](../documentation/developer-customization-guide.md)
   + [Sprachgespräch](../documentation/voice-conversation.md)
   + [Häufig gestellte Fragen](../documentation/brand-concierge-faq.md)
-  + Übersicht {#overview}
+  + Überblick {#overview}
     + [Übersicht über Brand Concierge](../documentation/overview/overview.md)
     + [Ihre erste Brand Concierge](../documentation/overview/first-brand-concierge.md)
   + Benutzer- und Zugriffsverwaltung {#user-and-access-management}
@@ -48,6 +47,14 @@ ht-degree: 14%
     + [Erstellen und Verwalten von Wissensquellen für Brand Concierge](../documentation/knowledge-sources/knowledge-sources.md)
   + Concierge-Management {#concierge-management}
     + [Einen Concierge verwalten](../documentation/concierge-management/concierge-management.md)
+  + Live-Chat und Meeting-Buchung {#sales-handoff}
+    + [Übersicht](../documentation/sales-handoff/overview.md)
+    + [Einrichten von Repräsentanten](../documentation/sales-handoff/representative-setup.md)
+    + [Routing von Konversationen an Vertreter](../documentation/sales-handoff/routing-rules.md)
+    + [Live-Chat und Meeting-Buchung aktivieren](../documentation/sales-handoff/configure-in-composer.md)
+    + [Chat-Posteingang](../documentation/sales-handoff/chat-inbox.md)
+    + [Brand Concierge-Daten in Marketo Engage](../documentation/sales-handoff/marketo-activities.md)
+    + [Überwachen von Meetings und Live-Chats](../documentation/sales-handoff/monitor.md)
   + Auswertung {#evaluation}
     + [Bewerten eines Concierge](../documentation/evaluation/evaluation.md)
   + Bereitstellung {#deployment}
