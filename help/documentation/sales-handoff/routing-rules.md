@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '771'
 ht-degree: 0%
 ---
 # Routing von Konversationen an Vertreter {#routing}
@@ -39,7 +39,7 @@ Round Robin ist standardmäßig verfügbar und muss nicht konfiguriert werden. S
 
 Round Robin verhält sich bei Meetings anders als bei Chats, da die beiden unterschiedliche Ziele haben.
 
-**Für die Besprechungsbuchung** verteilt Round Robin die Besprechungen gleichmäßig. Der erste geeignete Vertreter, der einen Kalender angeschlossen hat, wird zuerst angeboten. Sobald ein Meeting bei ihnen gebucht ist, werden sie aus dem Pool genommen und der nächste Vertreter wird angeboten. Mit fünf Vertretern gehen die ersten fünf Sitzungen an fünf verschiedene Personen. Nachdem alle Benutzer eine erhalten haben, wird der Pool zurückgesetzt und der Zyklus beginnt von vorne.
+Für die Besprechungsbuchung verteilt Round Robin die Besprechungen gleichmäßig. Der erste geeignete Vertreter, der einen Kalender angeschlossen hat, wird zuerst angeboten. Sobald ein Meeting bei ihnen gebucht ist, werden sie aus dem Pool genommen und der nächste Vertreter wird angeboten. Mit fünf Vertretern gehen die ersten fünf Sitzungen an fünf verschiedene Personen. Nachdem alle Benutzer eine erhalten haben, wird der Pool zurückgesetzt und der Zyklus beginnt von vorne.
 
 Der Pool wird auch alle 24 Stunden zurückgesetzt, sodass die täglichen Meetings gleichmäßig verteilt sind.
 
@@ -47,7 +47,7 @@ Der Pool wird auch alle 24 Stunden zurückgesetzt, sodass die täglichen Meeting
 >
 >Das 24-Stunden-Round-Robin-Reset wird auf UTC ausgeführt, nicht in der lokalen Zeitzone des Vertreters.
 
-**Für Live-** gibt es keine sequenzielle Rotation. Jeder berechtigte Vertreter wird gleichzeitig über den eingehenden Chat informiert, und der erste, der den Chat akzeptiert, nimmt das Gespräch.
+Für Live-Chat gibt es keine sequenzielle Rotation. Jeder berechtigte Vertreter wird gleichzeitig über den eingehenden Chat informiert, und der erste, der den Chat akzeptiert, nimmt das Gespräch.
 
 ### Direktagent {#direct-agent}
 
@@ -57,9 +57,9 @@ Jedes Meeting oder Chat von diesem Concierge geht zu dem einzigen Vertreter, den
 
 Benutzerdefiniertes Routing bewertet die in [!DNL Adobe Marketo Qualifier] erstellten Regeln anhand der [!DNL Marketo] Lead- und Unternehmensattribute des Besuchers. Verwenden Sie sie, wenn der richtige Vertreter von etwas abhängt, das Sie über den Besucher wissen, z. B.:
 
-* **Geografie** - Besucher aus einer Reihe von Ländern gehen zum regionalen Team.
-* **Produktinteresse** - Besucher, die sich für ein bestimmtes Produkt interessieren, wenden sich an die Spezialisten dieses Produkts.
-* **Geschäftseinheit, Unternehmensgröße oder Branche** - eine beliebige Kombination aus Lead- und Firmenattributen.
+* Geografie: Besucher aus einer Reihe von Ländern gehen zum regionalen Team.
+* Produktinteresse: Besucher, die sich für ein bestimmtes Produkt interessieren, wenden sich an die Spezialisten dieses Produkts.
+* Geschäftseinheit, Unternehmensgröße oder Branche: eine beliebige Kombination aus Lead- und Firmenattributen.
 
 >[!IMPORTANT]
 >
@@ -103,7 +103,7 @@ In diesem Fall wird nur die Regel mit der höchsten Priorität angewendet und di
 >
 >Eine niedrigere Zahl bedeutet eine höhere Priorität. Eine Regel mit Priorität 1 gewinnt gegen eine Regel mit Priorität 2. Die Person, die eine Regel erstellt, legt ihre Priorität fest.
 
-Innerhalb der Gewinnerregel sind die ihr zugewiesenen Repräsentanten der geeignete Pool und das oben beschriebene Round-Robin- und All-Agent-Verhalten gilt für diesen Pool.
+Innerhalb der Gewinnerregel sind die ihr zugewiesenen Vertreter der geeignete Pool, und das Round-Robin-Verhalten für Meetings und das Notify-everyone-Verhalten für Chats, die beide oben beschrieben wurden, gelten für diesen Pool.
 
 ## Nächster Schritt {#next}
 

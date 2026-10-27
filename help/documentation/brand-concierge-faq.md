@@ -26,9 +26,9 @@ topic_v2:
     internal-label: Privacy
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
     internal-label: Customer profiles
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '1980'
+source-wordcount: '1981'
 ht-degree: 1%
 ---
 # Häufig gestellte Fragen
@@ -148,7 +148,7 @@ Alle Tests finden vor der Bereitstellung für Kunden statt.
 
 ### Können Kunden Besprechungen mit unserem Team planen?
 
-Ja. Kunden können Meetings mit Ihrem Team planen oder einen Live-Chat mit einem Vertreter starten, indem sie die **Übergabe an den Vertrieb** mit den **Meeting-Buchung** und **Live-Chat**-Integrationen nutzen. Die Mitarbeiter verbinden ihren Kalender und legen ihre Verfügbarkeit in Adobe Marketo Qualifier fest. Sie wählen aus, wie die Besucher zu ihnen weitergeleitet werden. Anschließend aktivieren Sie die Kenntnisse in „Composer“ und definieren die Absichten, mit denen sie Trigger werden. Nach der Konfiguration können Kunden während eines Gesprächs ein Meeting oder einen Live-Chat anfordern, ohne den Chat verlassen zu müssen. Siehe [Live-Chat und Meeting-Buchung](sales-handoff/overview.md).
+Ja. Kunden können Meetings mit Ihrem Team planen oder einen Live-Chat mit einem Vertreter starten, indem sie die Fähigkeiten **Übergabe an den Verkauf** mit den Integrationen **Meeting-** und **Live-Chat** nutzen. Die Mitarbeiter verknüpfen ihren Kalender und legen ihre Verfügbarkeit in Adobe Marketo Qualifier fest. Sie wählen aus, wie Besucher zu ihnen weitergeleitet werden, und aktivieren dann die Kenntnisse in „Composer“ und definieren die Absichten, die sie zum Trigger bringen. Nach der Konfiguration können Kunden während eines Gesprächs ein Meeting oder einen Live-Chat anfordern, ohne den Chat verlassen zu müssen. Siehe [Live-Chat und Meeting-Buchung](sales-handoff/overview.md).
 
 ### Wie werden die anfänglichen Fragen und Antworten in meiner Wissensdatenbank generiert?
 

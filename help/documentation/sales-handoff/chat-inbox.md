@@ -12,16 +12,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '638'
 ht-degree: 1%
 ---
 # Chat-Posteingang {#chat-inbox}
 
 Wenn ein Besucher Sie bittet, mit jemandem zu sprechen, kommt der Chat in [!DNL Adobe Marketo Qualifier] im **[!UICONTROL Chat-]** an. Diese Seite ist die Ansicht eines Vertreters von einem Live-Chat: was man sieht, wenn es ankommt, welchen Kontext man erhält und was man tun muss, bevor man es schließen kann.
 
-Um ihn zu öffnen, wählen Sie im linken Bereich unter **[!UICONTROL Aktivitäten]** die Option **[!UICONTROL Chat-Posteingang]** aus.
+Um den Chat-Posteingang zu öffnen, wählen Sie im linken Bereich unter **[!UICONTROL Aktivitäten]** die Option **[!UICONTROL Chat-Posteingang]** aus.
 
 ## Chat empfangen {#receive}
 

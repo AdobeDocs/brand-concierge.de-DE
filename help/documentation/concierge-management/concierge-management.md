@@ -5,7 +5,7 @@ toc: true
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '1702'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Ein Concierge wird auf einer Markenwebsite erstellt und kann mit Integrationen, Fähigkeiten, Anweisungen, Ton- und Spracheinstellungen, visuellen Stilen und Chat-Komponenten verfeinert werden. Verwenden Sie die Vorschau, um Änderungen zu testen, bevor Sie den Concierge absichtlich für Besucher bereitstellen.
 
-## Überblick
+## Übersicht
 
 | Element | Details |
 |---|---|
@@ -77,8 +77,8 @@ Wählen Sie **Integrationen durchsuchen**, um den verfügbaren Integrationskatal
 | Content-KI-Suchen | Durchsucht AEM Sites-Inhalte | Relevant für Kunden von AEM Sites as a Cloud Service |
 | Entitätsverknüpfung | Löst ein Produkt oder Markenerwähnung in einer Besuchernachricht in bestimmte Katalogentitäten auf. | Unterstützende Integration, die normalerweise zusammen mit einer Suchintegration und nicht allein verwendet wird |
 | COMMERCE MCP | Stellt eine Verbindung zu einem Live-Adobe Commerce-Katalog her, um Produktsuche, Produktdetails und Vergleiche zu ermöglichen | Standardmäßig nicht aktiviert; erfordert Codes oder Schlüssel vom Commerce- oder IT-Team |
-| Meeting-Buchung | Ermöglicht Besuchern die Buchung eines Meetings mit einem Vertriebsmitarbeiter | Erfordert die Einrichtung mit dem Kalender eines Vertriebsmitarbeiters. Siehe [Live-Chat und Meeting-Buchung](../sales-handoff/overview.md) |
-| Live-Chat | Verbindet Besucher mit einem Live-Vertriebsmitarbeiter | Erfordert die Einrichtung durch einen Vertriebsmitarbeiter. Siehe [Live-Chat und Meeting-Buchung](../sales-handoff/overview.md) |
+| Meeting-Buchung | Ermöglicht Besuchern die Buchung eines Meetings mit einem Vertriebsmitarbeiter | Erfordert die Einrichtung mit dem Kalender eines Vertriebsmitarbeiters. Siehe [Live-Chat und Meeting-Buchung](../sales-handoff/overview.md). |
+| Live-Chat | Verbindet Besucher mit einem Live-Vertriebsmitarbeiter | Erfordert die Einrichtung durch einen Vertriebsmitarbeiter. Siehe [Live-Chat und Meeting-Buchung](../sales-handoff/overview.md). |
 
 ### Integration aktivieren und konfigurieren
 
