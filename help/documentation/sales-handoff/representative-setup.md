@@ -80,7 +80,7 @@ Das Verbinden eines Kalenders gibt [!DNL Adobe Marketo Qualifier] an, wenn Sie *
 
    >[!NOTE]
    >
-   >Um einem Tag einen weiteren Zeitblock hinzuzufügen, wählen Sie das Pluszeichen (Pluszeichen![ aus](../assets/icon-plus-sign.png).
+   >Um einem Tag einen weiteren Zeitblock hinzuzufügen, wählen Sie das Pluszeichen (Pluszeichen![&#x200B; aus](../assets/icon-plus-sign.png).
 
    ![Registerkarte Kalenderverfügbarkeit mit konfigurierten Wochentagsstunden und einem aufgeteilten Zeitbereich](../assets/meetings-availability-2.png){width="600" zoomable="yes"}
 
