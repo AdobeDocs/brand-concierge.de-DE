@@ -5,9 +5,9 @@ toc: true
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
 workflow-type: tm+mt
-source-wordcount: '1761'
+source-wordcount: '1702'
 ht-degree: 1%
 ---
 
@@ -77,8 +77,8 @@ Wählen Sie **Integrationen durchsuchen**, um den verfügbaren Integrationskatal
 | Content-KI-Suchen | Durchsucht AEM Sites-Inhalte | Relevant für Kunden von AEM Sites as a Cloud Service |
 | Entitätsverknüpfung | Löst ein Produkt oder Markenerwähnung in einer Besuchernachricht in bestimmte Katalogentitäten auf. | Unterstützende Integration, die normalerweise zusammen mit einer Suchintegration und nicht allein verwendet wird |
 | COMMERCE MCP | Stellt eine Verbindung zu einem Live-Adobe Commerce-Katalog her, um Produktsuche, Produktdetails und Vergleiche zu ermöglichen | Standardmäßig nicht aktiviert; erfordert Codes oder Schlüssel vom Commerce- oder IT-Team |
-| Meeting-Buchung | Ermöglicht Besuchern die Buchung eines Meetings mit einem Vertriebsmitarbeiter | Erfordert die Einrichtung mit dem Kalender eines Vertriebsmitarbeiters |
-| Live-Chat | Verbindet Besucher mit einem Live-Vertriebsmitarbeiter | Erfordert die Einrichtung mit der Verfügbarkeit eines Vertriebsmitarbeiters |
+| Meeting-Buchung | Ermöglicht Besuchern die Buchung eines Meetings mit einem Vertriebsmitarbeiter | Erfordert die Einrichtung mit dem Kalender eines Vertriebsmitarbeiters. Siehe [Live-Chat und Meeting-Buchung](../sales-handoff/overview.md) |
+| Live-Chat | Verbindet Besucher mit einem Live-Vertriebsmitarbeiter | Erfordert die Einrichtung durch einen Vertriebsmitarbeiter. Siehe [Live-Chat und Meeting-Buchung](../sales-handoff/overview.md) |
 
 ### Integration aktivieren und konfigurieren
 
@@ -107,8 +107,7 @@ Fähigkeiten bestimmen, was ein Concierge für Besucher tun kann. Wählen Sie **
 | Produktberatung | Hilft Besuchern, Produkte anhand von namensbasierten Produktkarten zu entdecken und zu recherchieren und Produktfragen zu prosieren | Knowledge Base-Suche, Entitätsverknüpfung |
 | Adobe Commerce-Katalogerkennung | Sucht, durchsucht, filtert und ruft Details zu Produkten aus einem Live-Katalog ab | Commerce MCP-Integration |
 | Adobe Commerce - Produktvergleich | Bietet einen direkten Vergleich benannter Produkte | Commerce MCP-Integration |
-| Besprechung mit dem Vertrieb buchen | Schlägt die Buchung eines Meetings vor und erleichtert diese | Integration der Besprechungsbuchung |
-| Live-Chat mit dem Vertrieb | Schlägt eine Live-Chat-Übergabe vor und erleichtert diese | Live Chat-Integration |
+| Übergabe an den Verkauf | Schlägt einen Live-Chat mit einem Vertriebsmitarbeiter oder eine Besprechungsbuchung vor und erleichtert diesen. | Live-Chat-Integration, Integration der Besprechungsbuchung |
 
 ### Kenntnisse aktivieren und konfigurieren
 
@@ -179,34 +178,22 @@ Chatkomponenten steuern die einzelnen Elemente, die Besucherinnen und Besucher i
 
 ## Konfigurieren der Besprechungsbuchung und des Live-Chats
 
-Mit der Meeting-Buchung und dem Live-Chat können Besucher Meetings mit Vertriebsmitarbeitern buchen oder einen Live-Chat mit einem Vertreter starten. Diese Funktionen basieren auf einem Begleitprodukt namens Sales Qualifier.
+Mit der Meeting-Buchung und dem Live-Chat können Besucher Meetings mit Vertriebsmitarbeitern buchen oder einen Live-Chat mit einem Vertreter starten. Diese Funktionen basieren auf einem Begleitprodukt namens [!DNL Adobe Marketo Qualifier] und werden Besuchern durch die Kenntnisse **[!UICONTROL Übergabe an den Verkauf]** angeboten.
 
 ### Rollen und Verantwortlichkeiten
 
-- **Marketer:** Konfiguriert die Kenntnisse und die Integration in Brand Concierge.
-- **Vertriebsmitarbeiter:** verbindet den eigenen Kalender und konfiguriert die Verfügbarkeit.
+- **Marketer:** Konfiguriert die Kenntnisse und Integrationen in Brand Concierge.
+- **Vertriebsmitarbeiter:** verbindet den eigenen Kalender und konfiguriert die Verfügbarkeit in [!DNL Adobe Marketo Qualifier].
 
 ### Einrichten der Besprechungsbuchung oder des Live-Chats
 
-1. Öffnen Sie **Integrationen durchsuchen** die Option **Besprechungsbuchung** oder **Live-Chat**. Standardmäßig sind alle Personen in der Organisation als potenzielles Teammitglied verfügbar; es ist derzeit kein separater Schritt erforderlich, um Teammitglieder hinzuzufügen.
+Das vollständige Verfahren finden Sie unter [Live-Chat und Besprechungsbuchung](../sales-handoff/overview.md). Das Setup besteht aus vier Teilen:
 
-1. Bitten Sie alle Vertriebsmitarbeiter, sich bei `experienceplatform.adobe.com` anzumelden, **Sales Qualifier** zu öffnen und zu **Profileinstellungen** zu gehen.
+1. [Richten Sie in Adobe Marketo Qualifier Repräsentanten ein](../sales-handoff/representative-setup.md) - Verbinden Sie einen Kalender, definieren Sie die Bestätigungs-E-Mail und legen Sie einen Kalender und die Verfügbarkeit von Live-Chats fest.
 
-1. Lassen Sie jeden Vertreter einen Kalender verbinden, z. B. Outlook. Microsoft Teams kann optional einbezogen werden. Der Kundenbetreuer kann auch den Betreff der Besprechungseinladung und den E-Mail-Text festlegen.
+1. [Konversationen an Vertreter weiterleiten](../sales-handoff/routing-rules.md) - Wählen Sie Round Robin, einen direkten Agenten oder benutzerdefinierte Routing-Regeln.
 
-1. Konfigurieren Sie die Verfügbarkeit. Die Verfügbarkeit wird standardmäßig aus dem Kalender abgerufen und kann durch folgende Faktoren weiter eingeschränkt werden:
-   - Meeting-Länge
-   - Pufferzeit zwischen Meetings
-   - Mindest-Kündigungsfrist
-   - Spezifische verfügbare Zeitfenster
-
-1. Konfigurieren Sie die Verfügbarkeit des Live-Chats separat mithilfe eines ähnlichen Prozesses.
-
-1. Öffnen Sie in Brand Concierge **Managed Members** und vergewissern Sie sich, dass die Mitarbeiter als verfügbar angezeigt werden.
-
-1. Aktivieren Sie die Integration **Besprechungsbuchung** und/oder **Live Chat**.
-
-1. Gehen Sie zu **Kenntnisse durchsuchen** und wählen Sie **Meeting mit Vertrieb buchen** und/oder **Live Chat mit Vertrieb** aus. Legen Sie die Trigger fest, fügen Sie die entsprechende Integration an und speichern Sie die Kenntnisse.
+1. [Live-Chat und Besprechungsbuchung aktivieren](../sales-handoff/configure-in-composer.md) - Verbinden Sie die Integrationen **[!UICONTROL Besprechungsbuchung]** und **[!UICONTROL Live-Chat]** und aktivieren Sie dann die **[!UICONTROL Übergabe an den Verkauf]**.
 
 1. Wählen Sie **Simulieren** aus, um das End-to-End-Erlebnis zu testen. Geben Sie eine Beispielfrage ein und bestätigen Sie, dass sie an den richtigen Qualifikations- und Interaktionsfluss weitergeleitet wird.
 
@@ -214,10 +201,9 @@ Mit der Meeting-Buchung und dem Live-Chat können Besucher Meetings mit Vertrieb
 
 Wenn die Funktionen verfügbar sind:
 
-- Eingehende Live-Chats werden verfügbaren Repräsentanten in Echtzeit angezeigt.
-- Gebuchte Meetings werden in einer Meetings-Ansicht angezeigt.
-- In Analytics ist ein Besprechungsleistungsbericht verfügbar.
-- Meeting- und Chat-Interaktionen werden zusammen mit vorhandenen Aktivitätsdaten als Aktivitäten an Marketo gesendet.
+- Eingehende Live-Chats werden verfügbaren Repräsentanten in Echtzeit im [Chat-Posteingang](../sales-handoff/chat-inbox.md) angezeigt.
+- Gebuchte Meetings werden in einer Meetings -Ansicht angezeigt und in Analytics ist ein Meeting-Leistungsbericht verfügbar. Siehe [Überwachen von Meetings und Live-Chats](../sales-handoff/monitor.md).
+- Meeting- und Chat-Interaktionen werden zusammen mit vorhandenen Aktivitätsdaten als Aktivitäten an Marketo gesendet. Siehe [Brand Concierge-Daten in Marketo Engage](../sales-handoff/marketo-activities.md).
 
 ## Vorschau-Link freigeben
 

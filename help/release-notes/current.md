@@ -5,9 +5,9 @@ feature: Release Information
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1327'
 ht-degree: 0%
 ---
 # Aktuelle Versionsinformationen {#current-release-notes}
@@ -15,6 +15,22 @@ ht-degree: 0%
 Adobe Brand Concierge folgt einem kontinuierlichen Bereitstellungsmodell, sodass Adobe laufend neue Funktionen, Verbesserungen und Fehlerbehebungen bereitstellen kann.
 
 Alle Funktionen sind allgemein verfügbar, sofern nicht anders angegeben.
+
+## Oktober 2026 {#october-2026}
+
+* **Konversationsbewertung für Live-Chat**: Vertriebsmitarbeiter bewerten jeden Live-Chat vor dem Schließen auf einer Skala von 0 bis 3, von den am wenigsten qualifizierten bis zu den meisten qualifizierten. Die Punktzahl wird im Lead-Datensatz gespeichert und ist als Einschränkung für Marketo Engage-Filter und -Trigger verfügbar, sodass die Lead-Bewertung, Retargeting, Personalisierung und CRM-Übergabe gefördert werden können. Siehe [Bewerten der Konversation](../documentation/sales-handoff/chat-inbox.md#conversation-score).
+
+* **Brand Concierge-Aktivitäten im Marketo Engage-Profil**: Die Interaktion mit dem Concierge wird in den Personendatensatz von Marketo als drei native Aktivitätstypen geschrieben: Interagieren mit dem Concierge, Planen von Meetings im Concierge und Interagieren mit Live-Chat im Concierge. Alle drei sind als Trigger und Filter in Smart Lists mit Einschränkungen wie Konversationswert, Besprechungsstatus, Routing-Typ und Vertriebsmitarbeiter verfügbar. Siehe [Brand Concierge-Daten in Marketo Engage](../documentation/sales-handoff/marketo-activities.md).
+
+* **Vollständiges Marketo-Profil im Besucherbedienfeld**: Der Chat-Posteingang zeigt das Besucherprofil zusammen mit dem Gespräch an, einschließlich der Details, die sie im Formular vor dem Chat freigegeben haben, sodass die Vertreter über den vollständigen Kontext verfügen, bevor sie antworten.
+
+* **Multi-Channel-Routing** Benachrichtigungen: Repräsentanten werden über eingehende Live-Chats kanalübergreifend benachrichtigt, sodass Chats schneller abgerufen werden.
+
+## September 2026 {#september-2026}
+
+* **Live-Chat und Meeting-Buchung in Composer 2.0**: Live-Chat und Meeting-Buchung sind als integrierte Integrationen im Bedienfeld „Integrationen durchsuchen“ des Composers verfügbar, und die neue Übergabe an den Vertrieb entscheidet, wann sie basierend auf der Absicht der Besucher angeboten wird. Siehe [Aktivieren von Live-Chat und Besprechungsbuchung](../documentation/sales-handoff/configure-in-composer.md).
+
+* **Benutzerdefinierte Routing-Regeln**: Erstellen Sie Routing-Regeln für Marketo-Lead- und -Unternehmensattribute, um Besucher mithilfe mehrerer Bedingungsgruppen in Kombination mit UND und ODER, priorisierten Regeln und mehreren zugewiesenen Vertretern zum richtigen Vertreter zu senden. Benutzerdefiniertes Routing gilt sowohl für die Besprechungsbuchung als auch für den Live-Chat. Siehe [Routen von Konversationen an Vertreter](../documentation/sales-handoff/routing-rules.md).
 
 ## August 2026 {#august-2026}
 

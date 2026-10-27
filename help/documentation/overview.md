@@ -6,25 +6,33 @@ level: Beginner
 TQID: https://experienceleague.adobe.com/Ob3NAKyD929Ije-Y7UPO1hMfDYDi-UJ0gINpGlxiYGM
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+    internal-label: Customer engagement
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+    internal-label: Privacy
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: 2047
+source-wordcount: '2051'
 ht-degree: 1%
-
 ---
-
 # Hilfe zu Brand Concierge
 
 Erfahren Sie, wie Sie die wichtigsten Funktionen von Brand Concierge konfigurieren und verwenden. Hier finden Sie Antworten auf häufig gestellte Fragen zu Einrichtung, Datenintegration, Datenschutz, Anpassung, Leistungsmessung und technischen Anforderungen.
@@ -116,7 +124,7 @@ Eine vollständige Liste der Typen von Wissensquellen und der Schritte zur Fehle
 
 Kenntnisse legen fest, was ein Concierge für Besucher tun kann, z. B **„Produktberatung** für Produktempfehlungen oder **Site-Beratung** für allgemeine Markenfragen. Wählen Sie **[!UICONTROL Kenntnisse durchsuchen]**, um den verfügbaren Kompetenzkatalog anzuzeigen und die Fähigkeiten zu aktivieren, die Ihr Concierge benötigt.
 
-* **Kompetenzkatalog:** Sie aus verfügbaren Fähigkeiten aus, z. B. Site-Beratung, Produktberatung und Fähigkeiten, die die Besprechungsbuchung oder den Live-Chat mit einem Vertriebsmitarbeiter unterstützen.
+* **Kompetenzkatalog:** Wählen Sie aus den verfügbaren Fähigkeiten, z. B. Site-Beratung, Produktberatung und [Übergabe an den Vertrieb](sales-handoff/overview.md), die Besuchern einen Live-Chat oder ein Meeting mit einem Vertriebsmitarbeiter bietet.
 * **Konfiguration:** Legen Sie für jede Kenntnis ihren Namen, ihre Beschreibung und die Absichten (Trigger-Sätze oder Themen) fest, die sie aufrufen sollen.
 * **Integrationen:** Sie die Integration an, die eine Qualifikation für ihre Arbeit benötigt, oder wählen Sie **[!UICONTROL Empfohlen verwenden]** aus, damit Composer automatisch eine auswählt.
 * **Vorschau** Testen Sie Änderungen sofort in der Live-Vorschau.
@@ -232,12 +240,12 @@ Brand Concierge unterstützt sowohl B2C- als auch B2B-Anwendungsfälle in versch
 | Einzelhandel und E-Commerce | Kunden können Produkte entdecken und personalisierte Empfehlungen erhalten. Brand Concierge bietet Anleitungen zu Größe und Anpassung, hilft Benutzenden, geeignete Geschenke zu finden, und stimmt Stile oder Voreinstellungen basierend auf der Kundeneingabe ab. |
 | B2B-Verkäufe | Brand Concierge begleitet Kunden durch Produktbewertungen, bietet detaillierte Funktions- und Preisvergleiche, unterstützt bei der Planung von Verkaufsmeetings und bietet branchenspezifische Empfehlungen, die auf Geschäftskunden zugeschnitten sind. |
 | Kunden-Support | Benutzer können direkte Antworten aus der Wissensdatenbank erhalten. Brand Concierge stellt Informationen zu Richtlinien und Verfahren bereit, hilft bei der Fehlerbehebung und bietet Updates zum Bestellstatus und zur Verfolgung. |
-| Reisen und Touristik | Kunden erhalten personalisierte Reisezielempfehlungen, Unterstützung bei der Planung von Reiserouten, Unterstützung während des Buchungsprozesses und Antworten auf Fragen zur Reisepolitik. |
+| Reisen und Gastgewerbe | Kunden erhalten personalisierte Reisezielempfehlungen, Unterstützung bei der Planung von Reiserouten, Unterstützung während des Buchungsprozesses und Antworten auf Fragen zur Reisepolitik. |
 | Finanz-Services | Brand Concierge bietet Produktvergleiche, um Kunden bei der Auswahl der richtigen Finanzlösungen zu unterstützen, bietet Kontoinformationen, bietet Compliance-orientierte Anleitungen und ermöglicht die Planung von Meetings mit Finanzberatern. |
 
 ## KI-Offenlegung {#disclosure}
 
-Um ein transparentes und vertrauenswürdiges Erlebnis zu bieten, müssen Benutzende von Adobe Brand Concierge für das Hinzufügen einer kurzen Offenlegung im Gesprächserlebnis verantwortlich sein. Diese Offenlegung hilft den Endbenutzern zu verstehen, wie die Konversation funktioniert und wie ihre Informationen verwendet werden können.
+Um ein transparentes und vertrauenswürdiges Erlebnis zu bieten, müssen Adobe Brand Concierge-Benutzende für das Hinzufügen einer kurzen Offenlegung im Gesprächserlebnis verantwortlich sein. Diese Offenlegung hilft den Endbenutzern zu verstehen, wie die Konversation funktioniert und wie ihre Informationen verwendet werden können.
 
 **Was sollte die Offenlegung abdecken**
 
