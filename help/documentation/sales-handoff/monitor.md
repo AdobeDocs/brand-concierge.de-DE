@@ -14,14 +14,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '225'
 ht-degree: 0%
 ---
 # Überwachen von Meetings und Live-Chats {#monitor}
 
-[!DNL Adobe Marketo Qualifier] speichert die operativen Aufzeichnungen jeder Übergabe: die gebuchten Meetings, die gehaltenen Chats und wie das Team gegen sie vorgeht.
+[!DNL Adobe Marketo Qualifier] speichert die operativen Aufzeichnungen jeder Übergabe: die gebuchten Meetings, die gehaltenen Chats und die Leistung der Meeting-Buchungen.
 
 ## Gebuchte Meetings überprüfen {#bookings}
 
@@ -39,9 +39,9 @@ Wählen Sie **[!UICONTROL Aktivitäten]** die Option **[!UICONTROL Chat-Posteing
 
 ## Analysieren der Meeting-Performance {#performance}
 
-Wählen Sie **[!UICONTROL Analytics]** die Option **[!UICONTROL Meeting-Leistung]** aus, um mehrere Analytics-Kategorien zu überprüfen, einschließlich der Anzahl der Besucherinnen und Besucher, die die Meetings angefordert haben und der Anzahl der Fehlschläge. Sie können auch den Trend der Meetings im Laufe der Zeit sehen und welche Vertreter sie genommen haben.
+Wählen Sie **[!UICONTROL Analytics]** die Option **[!UICONTROL Besprechungsleistung]** aus, um anzuzeigen, wie viele Besprechungen Besucher angefordert, wie viele gebucht und wie viele verpasst wurden. Sie können auch tägliche, wöchentliche und monatliche Trends anzeigen, den Prozentsatz der angeforderten Meetings, die gebucht wurden, und die Repräsentanten, die die meisten Meetings durchgeführt haben.
 
-![Meeting-Performance-Dashboard](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
+![Dashboard zur Meeting-Performance mit der Gesamtzahl der angeforderten, gebuchten und verpassten Meetings, gefolgt von täglichen Diagrammen der verpassten Meetings und dem Prozentsatz der gebuchten Anfragen](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
 
 ## Analysieren der Interaktion mit Concierge in Marketo Engage {#marketo}
 

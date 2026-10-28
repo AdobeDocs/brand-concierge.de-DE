@@ -27,14 +27,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 49%
+source-wordcount: '124'
+ht-degree: 16%
 ---
 # Besprechung buchen
 
-Erfahren Sie mehr über die Funktion zur Buchung einer Besprechung in Adobe Brand Concierge. In diesem Video-Tutorial werden folgende Themen behandelt: wie ein kundenorientiertes Erlebnis aussehen kann, Admin-Konfiguration zum Verbinden eines Kalenders und einige Dashboards und Berichte.
+Erfahren Sie mehr über die Funktion zur Besprechungsbuchung in Adobe Brand Concierge. In diesem Video-Tutorial werden die Themen behandelt, wie das kundenorientierte Erlebnis aussehen kann, die Admin-Konfiguration zum Verbinden eines Kalenders und einige Dashboards und Berichte.
 
 ## Für wen ist dieses Video bestimmt?
 

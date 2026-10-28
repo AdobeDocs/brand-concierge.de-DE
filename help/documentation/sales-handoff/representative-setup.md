@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '786'
 ht-degree: 1%
 ---
 # Einrichten von Repräsentanten in Adobe Marketo Qualifier {#representative-setup}
@@ -49,7 +49,7 @@ Die Kalenderverbindung macht die echte Verfügbarkeit für einen Concierge sicht
 
    ![Microsoft-Kontoauswahl wird während der Kalenderverbindung angezeigt](../assets/meetings-connect-3.png){width="600" zoomable="yes"}
 
-1. Überprüfen Sie die Bestätigungs-E-Mail, die an einen Besucher gesendet wird, wenn er ein Meeting mit Ihnen bucht.
+1. Überprüfen Sie die Bestätigungs-E-Mail, die ein Besucher erhält, wenn er ein Meeting mit Ihnen bucht.
 
    Es werden eine standardmäßige Betreffzeile und ein standardmäßiger Hauptteil für Sie festgelegt. Bearbeiten Sie eine der beiden Optionen und wählen Sie aus, ob ein [!DNL Microsoft Teams] Meeting-Link in die Einladung aufgenommen werden soll.
 
@@ -112,7 +112,7 @@ Die Live-Chat-Verfügbarkeit ist getrennt von der Kalenderverfügbarkeit. Ein Mi
 
 ## Überprüfen, wer eingerichtet ist {#manage-members}
 
-**Nur Administratoren.** Wählen Sie **[!UICONTROL Administration]** die Option **[!UICONTROL Mitglieder verwalten]**, um den Status jedes Vertreters an einem Ort anzuzeigen: wer hat einen Kalender verbunden, wer hat die Verfügbarkeit von Live-Chat festgelegt und wer hat einen Kalender getrennt.
+Dieser Abschnitt ist nur für Administratoren. Wählen Sie **[!UICONTROL Administration]** die Option **[!UICONTROL Mitglieder verwalten]**, um den Status jedes Vertreters an einem Ort anzuzeigen: wer hat einen Kalender verbunden, wer hat die Verfügbarkeit von Live-Chat festgelegt und wer hat einen Kalender getrennt.
 
 Verwenden Sie diese Option, bevor Sie die Integrationen in Composer aktivieren. Ein Vertreter, der hier ohne verbundenen Kalender angezeigt wird, ist nicht für die Besprechungsbuchung geeignet, und ein Vertreter ohne Verfügbarkeit von Live-Chat ist nicht für den Live-Chat geeignet.
 

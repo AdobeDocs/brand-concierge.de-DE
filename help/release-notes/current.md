@@ -5,7 +5,7 @@ feature: Release Information
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '1327'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Alle Funktionen sind allgemein verfügbar, sofern nicht anders angegeben.
 
 ## September 2026 {#september-2026}
 
-* **Live-Chat und Meeting-Buchung in Composer 2.0**: Live-Chat und Meeting-Buchung sind als integrierte Integrationen im Bedienfeld „Integrationen durchsuchen“ des Composers verfügbar, und die neue Übergabe an den Vertrieb entscheidet, wann sie basierend auf der Absicht der Besucher angeboten wird. Siehe [Aktivieren von Live-Chat und Besprechungsbuchung](../documentation/sales-handoff/configure-in-composer.md).
+* **Live-Chat und Meeting-Buchung in Composer 2.0**: Live-Chat und Meeting-Buchung sind als integrierte Integrationen im Bedienfeld „Integrationen durchsuchen“ von Composer verfügbar und die neue Übergabe an den Vertrieb bestimmt, wann diese Angebote auf der Grundlage der Besucherabsichten unterbreitet werden. Siehe [Aktivieren von Live-Chat und Besprechungsbuchung](../documentation/sales-handoff/configure-in-composer.md).
 
 * **Benutzerdefinierte Routing-Regeln**: Erstellen Sie Routing-Regeln für Marketo-Lead- und -Unternehmensattribute, um Besucher mithilfe mehrerer Bedingungsgruppen in Kombination mit UND und ODER, priorisierten Regeln und mehreren zugewiesenen Vertretern zum richtigen Vertreter zu senden. Benutzerdefiniertes Routing gilt sowohl für die Besprechungsbuchung als auch für den Live-Chat. Siehe [Routen von Konversationen an Vertreter](../documentation/sales-handoff/routing-rules.md).
 

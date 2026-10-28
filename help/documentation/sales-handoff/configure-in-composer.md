@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '828'
 ht-degree: 1%
 ---
 # Live-Chat und Meeting-Buchung aktivieren {#configure-in-composer}
@@ -27,7 +27,7 @@ Zwei Dinge müssen im Komponisten vorhanden sein. Die **[!UICONTROL Meeting-]**-
 >
 >Schließen Sie [Zuerst Repräsentanten in Adobe Marketo Qualifier &#x200B;](representative-setup.md). Die Integrationen überprüfen die Verfügbarkeit von verbundenen Kalendern und Live-Chats und werden ohne diese nicht aktiviert.
 
-## Verbinden der Integration der Besprechungsbuchung {#connect-meeting-booking}
+## Integration der Besprechungsbuchung verbinden {#connect-meeting-booking}
 
 1. Öffnen Sie in Composer Ihren Concierge und wählen Sie **[!UICONTROL Integrationen]** > **[!UICONTROL Integrationen durchsuchen]**.
 
@@ -100,7 +100,7 @@ Die Integrationen sind nun miteinander verbunden, aber der Concierge muss immer 
    | Wettbewerbsvergleich | Vergleich Ihrer Lösungen mit Alternativen, Unterscheidungen oder Migrationen von Mitbewerbern |
    | Test- und POC-Zugriff | Testsetup, Zugang zum Spielplatz, Machbarkeitsstudien oder Pilotprogramme |
    | Vertrags- und Lizenzänderungen | Vertragsverlängerungen, Laufzeitverlängerungen oder geplante Upgrades |
-   | Procurement RFP oder RFI | Einreichungen, Antworten, Lieferantenfragebögen, Beschaffungsformulare oder Compliance-Dokumentation |
+   | Procurement RFP oder RFI | RFP- oder RFI-Einreichungen und -Antworten, Lieferantenfragebögen, Beschaffungsformulare oder Compliance-Dokumentation |
    | Demos | Produktdemonstrationen oder exemplarische Vorgehensweisen |
 
    Wählen Sie **[!UICONTROL Bedingung hinzufügen]** aus, um einen eigenen Intent hinzuzufügen oder eine Bedingung zu löschen, die nicht für Ihr Unternehmen gilt.
@@ -123,6 +123,6 @@ Die Integrationen sind nun miteinander verbunden, aber der Concierge muss immer 
 
 Wenn das Verhalten richtig ist, veröffentlichen Sie Ihren Concierge, um die Übergabe auf Ihrer Website live zu machen.
 
-## Nächster Schritt {#next}
+## Nächste Schritte {#next-steps}
 
-Ihre Vertreter können jetzt Chats empfangen. Siehe [Chat-](chat-inbox.md).
+Ihre Vertreter können jetzt Chats und Besprechungsbuchungen erhalten. Informationen zum Umgang mit Chats finden Sie unter [Chat-Posteingang](chat-inbox.md).

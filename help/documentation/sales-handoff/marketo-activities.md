@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '785'
 ht-degree: 4%
 ---
 # Brand Concierge-Daten in Marketo Engage {#marketo-activities}
@@ -61,13 +61,13 @@ Protokolliert, wenn ein Besucher den Concierge kontaktiert.
 
 >[!NOTE]
 >
->Einige Attribute dieses Aktivitätstyps, darunter besprochene Themen, Zusammenfassung und Sprache, werden noch nicht ausgefüllt. Sie sind für eine künftige Version geplant.
+>Einige Attribute dieses Aktivitätstyps, einschließlich erörterter Themen, Zusammenfassung und Sprache, sind für eine künftige Version geplant.
 
 ### Besprechung in Concierge planen {#schedule-meeting}
 
-Protokolliert **zweimal** für eine einzelne Buchung, wodurch Sie Absicht vom Ergebnis trennen können.
+Sie werden zweimal für eine einzelne Buchung protokolliert, wodurch Sie die Absicht vom Ergebnis trennen können.
 
-**Zuerst bei Initiierung.** Der Besucher wählte die Option, ein Meeting zu planen, und das Buchungsformular erschien. Meeting-Status ist `Started`.
+Zunächst bei Initiierung: Der Besucher wählte die Option, ein Meeting zu planen, und das Buchungsformular erschien. Meeting-Status ist `Started`.
 
 | Attribut | Beschreibung |
 | --- | --- |
@@ -76,7 +76,7 @@ Protokolliert **zweimal** für eine einzelne Buchung, wodurch Sie Absicht vom Er
 | Concierge-Ausweis | Der Concierge, mit dem sich der Besucher beschäftigte |
 | Personen-ID | Der Datensatz für [!DNL Marketo] Personen |
 
-**Dann bei der Buchung.** Der Besucher bestätigte einen Slot. Meeting-Status ist `Scheduled`.
+Dann bei der Buchung: Der Besucher bestätigte einen Slot. Meeting-Status ist `Scheduled`.
 
 | Attribut | Beschreibung |
 | --- | --- |
@@ -85,14 +85,14 @@ Protokolliert **zweimal** für eine einzelne Buchung, wodurch Sie Absicht vom Er
 | E-Mail an Vertriebsmitarbeiter | Die E-Mail-Adresse des Vertreters |
 | Geplant für | Datum und Uhrzeit des Meetings |
 | Besprechungsdauer | Die Dauer der gebuchten Besprechung |
-| Routing-Typ | Das Routing, das den Kalender dieses Vertreters aufgelöst hat |
+| Routing-Typ | Der Routing-Typ, der diesen Vertreter ausgewählt hat |
 | „Seiten-URL“ | Die Seite, auf der der Besucher gebucht hat |
 | Concierge-Ausweis | Der Concierge, mit dem sich der Besucher beschäftigte |
 | Personen-ID | Der Datensatz für [!DNL Marketo] Personen |
 
 >[!TIP]
 >
->Eine Smart List auf `Meeting Status` erstellen ist `Started`, aber nicht `Scheduled`, alle zu finden, die mit der Buchung einer Besprechung begonnen und diese abgebrochen haben. Dies ist eine vorgefertigte Zielgruppe für das Nurture-Team oder das Retargeting.
+>Erstellen Sie eine Smart List von Personen, deren `Meeting Status` `Started`, aber nicht `Scheduled` ist, um alle Personen zu finden, die mit der Buchung eines Meetings begonnen und dieses aufgegeben haben. Dies ist eine vorgefertigte Zielgruppe für das Nurture-Team oder das Retargeting.
 
 ### Interagieren mit Live-Chat im Concierge {#engage-with-live-chat}
 
@@ -101,7 +101,7 @@ Protokolliert, nachdem ein Live-Chat beendet wurde.
 | Attribut | Beschreibung |
 | --- | --- |
 | Unterhaltungsstatus | `Ended` ob der Chat absichtlich geschlossen wurde, `Dropped` ob der Besucher die Website verlassen hat und der Chat eine Zeitüberschreitung aufweist |
-| Benachrichtigte Agenten | Die E-Mail-Adressen aller Agenten, die über diesen Chat benachrichtigt wurden |
+| Benachrichtigte Agenten | Die E-Mail-Adressen jedes Vertreters, der über diesen Chat benachrichtigt wurde |
 | Konversationswert | Die Bewertung 0 zu 3, die der Vertreter für die Konversation angegeben hat. Siehe [Bewerten der Konversation](chat-inbox.md#conversation-score) |
 | „Seiten-URL“ | Die Seite, auf der der Live-Chat gestartet wurde |
 | Concierge-Ausweis | Der Concierge, mit dem sich der Besucher beschäftigte |
@@ -121,8 +121,8 @@ Suchen Sie in der **[!UICONTROL Smart List]** einer Smart-Kampagne nach `concier
 | Kategorie | Verfügbare Elemente |
 | --- | --- |
 | **[!UICONTROL Triggers]** | Interagiert mit Concierge, Interagiert mit Live-Chat im Concierge, Termine Besprechung im Concierge |
-| **[!UICONTROL Filter]** > Aktivitätsverlauf | Interagiert mit Concierge, Interagiert mit Live-Chat im Concierge, Geplantes Meeting im Concierge |
-| **[!UICONTROL Filter]** > Inaktivitätsfilter | Nicht mit Concierge interagiert, Nicht mit Live-Chat im Concierge interagiert, Nicht geplante Besprechung im Concierge |
+| **[!UICONTROL Filter]** > **[!UICONTROL Aktivitätsverlauf]** | Interagiert mit Concierge, Interagiert mit Live-Chat im Concierge, Geplantes Meeting im Concierge |
+| **[!UICONTROL Filter]** > **[!UICONTROL Inaktivitätsfilter]** | Nicht mit Concierge interagiert, Nicht mit Live-Chat im Concierge interagiert, Nicht geplante Besprechung im Concierge |
 
 Ziehen Sie einen Trigger oder Filter auf die Arbeitsfläche und wählen Sie dann **[!UICONTROL Einschränkung hinzufügen]** aus, um sie einzugrenzen.
 

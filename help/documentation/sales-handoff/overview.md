@@ -15,17 +15,17 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: '768'
 ht-degree: 1%
 ---
 # Live-Chat und Besprechungsbuchung - Übersicht {#overview}
 
 Der Concierge beantwortet die meisten Fragen. Einige Unterhaltungen benötigen eine Person: eine Preisaushandlung, einen Fragebogen zur Beschaffung, eine Demoanfrage. Live-Chat und Meeting-Buchung sind die beiden Möglichkeiten, mit denen Brand Concierge eine Unterhaltung an einen Menschen übergibt, ohne den Kontext zu verlieren, den der Besucher bereits geboten hat.
 
-* **Live-Chat** verbindet den Besucher sofort im selben Chat-Fenster mit einem verfügbaren Mitarbeiter.
-* **Meeting-Buchung** bietet dem Besucher echte offene Slots aus dem Kalender eines Vertreters und bucht das Meeting.
+* Live-Chat verbindet den Besucher sofort mit einem verfügbaren Vertreter im selben Chat-Fenster.
+* Die Meeting-Buchung bietet dem Besucher echte offene Slots aus dem Kalender eines Vertreters und bucht das Meeting.
 
 Beide werden von derselben Qualifikation (Übergabe **[!UICONTROL Verkauf) angeboten]** und beide Routen über [!DNL Adobe Marketo Qualifier] (früher [!DNL Sales Qualifier]), wo Ihre Vertreter ihre Kalender verbinden, ihre Verfügbarkeit festlegen und Chats führen.
 
@@ -40,7 +40,7 @@ Vier Teile müssen sich aneinanderreihen, bevor ein Besucher eine Person erreich
 | Integrationen | **[!UICONTROL Meeting-]** und **[!UICONTROL Live-Chat]** geben dem Concierge die Möglichkeit, die Verfügbarkeit zu überprüfen, einen Chat zu starten und einen Slot zu buchen | Composer > **[!UICONTROL Integrationen durchsuchen]** |
 | Skill | **[!UICONTROL Übergabe an den Verkauf]** entscheidet *wann* je nach Absicht des Besuchers eine Übergabe anzubieten | Komponist > **[!UICONTROL Fähigkeiten durchsuchen]** |
 
-Zur Laufzeit: Der Besucher sagt etwas, das einer der Qualifikationsbedingungen entspricht **[!UICONTROL Verwenden, wenn]** die Qualifikation ausgelöst wird, ruft an, welche Integrationen damit verbunden sind, Routing löst einen Vertreter auf und dem Besucher wird ein Chat, ein Meeting oder beides angeboten.
+Zur Laufzeit gibt der Besucher etwas aus, das einer der „Verwenden **[!UICONTROL -Bedingungen der Kenntnis]**. Die Qualifikation löst aus und ruft alle Integrationen auf, die damit verbunden sind. Das Routing löst dann einen Vertreter auf, und dem Besucher wird ein Chat, ein Meeting oder beides angeboten.
 
 >[!NOTE]
 >
@@ -70,7 +70,7 @@ Wenn der Besucher ein Meeting bucht, zeigt der Concierge einen Kalender mit den 
 
 ![Buchen Sie eine Besprechungskarte im Gespräch, die einen Monatskalender und eine Liste der verfügbaren Zeitfenster anzeigt](../assets/sales-handoff-visitor-3.png){width="800" zoomable="yes"}
 
-Nachdem der Besucher einen Slot bestätigt hat, wird die Bestätigungs-E-Mail des Vertreters gesendet, optional mit einem [!DNL Microsoft Teams] Link. Der Gesprächskontext geht mit der Einladung an den Vertreter.
+Nachdem der Besucher einen Slot bestätigt hat, erhält der Besucher die Bestätigungs-E-Mail des Vertreters, die optional einen [!DNL Microsoft Teams] Link enthält. Der Gesprächskontext geht mit der Einladung an den Vertreter.
 
 ## Was Sie vor dem Start benötigen {#prerequisites}
 
