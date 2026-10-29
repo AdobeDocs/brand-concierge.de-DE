@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Erkunden von Adobe Brand Concierge
-source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
+source-git-commit: 5b597ed9a2f82bd2938ab3c9a9d1736364b43042
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 13%
+source-wordcount: '238'
+ht-degree: 12%
 ---
 
 # Adobe Brand Concierge {#content}
@@ -30,6 +30,8 @@ ht-degree: 13%
   + [Messen der Qualität und Festlegen von Schutzmaßnahmen](../go-live/measuring-quality-and-setting-guardrails.md)
   + [Technische Einrichtung und optionale Funktionen](../go-live/technical-setup-and-optional-features.md)
   + [Checkliste vor der Live-Schaltung und Rollout-Plan](../go-live/your-pre-go-live-checklist-and-rollout-plan.md)
++ Live-Chat und Meeting-Buchung {#live-chat-and-meeting-booking}
+  + [Live-Chat und Meeting-Buchung: Das End-to-End-Erlebnis](../live-chat-meeting-booking/live-chat-and-meeting-booking-end-to-end-experience.md)
 + Dokumentation {#documentation}
   + [Hilfe zu Brand Concierge](../documentation/overview.md)
   + [Skills and Integrations Framework](../documentation/skills-and-integrations.md)
@@ -48,7 +50,7 @@ ht-degree: 13%
   + Concierge-Management {#concierge-management}
     + [Einen Concierge verwalten](../documentation/concierge-management/concierge-management.md)
   + Live-Chat und Meeting-Buchung {#sales-handoff}
-    + [Übersicht](../documentation/sales-handoff/overview.md)
+    + [Überblick](../documentation/sales-handoff/overview.md)
     + [Einrichten von Repräsentanten](../documentation/sales-handoff/representative-setup.md)
     + [Routing von Konversationen an Vertreter](../documentation/sales-handoff/routing-rules.md)
     + [Live-Chat und Meeting-Buchung aktivieren](../documentation/sales-handoff/configure-in-composer.md)
