@@ -29,6 +29,6 @@ Erfahren Sie, wie Adobe Brand Concierge repräsentative Verfügbarkeits- und Rou
 * Legen Sie separate Live-Chat-Stunden fest und prüfen Sie die Bereitschaft des Vertreters in „Mitglieder verwalten“
 * Erstellen von Routing-Regeln mit Besucherattributen, Bedingungen, repräsentativen Zuweisungen und Prioritäten
 
->[!VIDEO](https://video.tv.adobe.com/v/3506785?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506792?captions=ger&learn=on)
 
 Weitere Informationen finden Sie unter [Einrichten von &#x200B;](../documentation/sales-handoff/representative-setup.md) und [Weiterleiten von Konversationen an Vertreter](../documentation/sales-handoff/routing-rules.md).
