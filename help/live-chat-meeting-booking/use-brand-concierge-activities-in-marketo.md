@@ -32,4 +32,4 @@ Erfahren Sie, wie Adobe Brand Concierge Personendetails und Interaktionsaktivit�
 * Hinzuf체gen von Concierge-Aktivit채tsfiltern und -Triggern zum `Smart List` einer Smart-Kampagne
 * Enge Zielgruppen mit verf체gbaren Aktivit채tsbeschr채nkungen wie Status, Datum, Routing-Typ, Seiten-URL, Vertriebsmitarbeiter und Konversationswert
 
->[!VIDEO](https://video.tv.adobe.com/v/3508041?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508048?captions=ger&learn=on)
