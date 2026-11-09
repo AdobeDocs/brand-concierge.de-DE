@@ -1,16 +1,16 @@
 ---
 title: Verwenden von Brand Concierge-Aktivitäten in Marketo
-description: Erfahren Sie, wie Brand Concierge Interaktionsdaten an Marketo sendet und Aktivitätsfilter und Trigger in Smart-Kampagnen verwendet.
+description: Erfahren Sie, wie Adobe Brand Concierge Interaktionsdaten an Marketo Engage sendet und Aktivitätsfilter, Trigger und Konversationswerte in Smart-Kampagnen verwendet.
 topic: Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 276
+duration: 282
 last-substantial-update: 2026-11-06
 jira: KT-23062
-source-git-commit: 5d5b641a252c21e1c490cc77f169ac651d9654d1
+source-git-commit: 07679bbe94abeeebcd160cff4cb41f0f561ac63e
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '179'
 ht-degree: 0%
 ---
 # Verwenden von Brand Concierge-Aktivitäten in Marketo
@@ -30,6 +30,12 @@ Erfahren Sie, wie Adobe Brand Concierge Personendetails und Interaktionsaktivit�
 * Unterscheiden zwischen Besprechungsbuchungen mit Beginn und geplanten Besprechungen
 * Überprüfen des Live-Chat-Status und der vom Beauftragten zugewiesenen Gesprächswerte
 * Hinzufügen von Concierge-Aktivitätsfiltern und -Triggern zum `Smart List` einer Smart-Kampagne
-* Enge Zielgruppen mit verfügbaren Aktivitätsbeschränkungen wie Status, Datum, Routing-Typ, Seiten-URL, Vertriebsmitarbeiter und Konversationswert
+* Enge Zielgruppen mit Aktivitätsbeschränkungen wie Status, Datum, Routing-Typ, Seiten-URL, Vertriebsmitarbeiter und Konversationswert
 
->[!VIDEO](https://video.tv.adobe.com/v/3508041?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508048?captions=ger&learn=on)
+
+## Verwandte Tutorials
+
+* [Live-Chat und Meeting-Buchung: Das End-to-End-Erlebnis](live-chat-and-meeting-booking-end-to-end-experience.md)
+* [Festlegen der Verfügbarkeit und des Routings für Live-Chat und Meetings](configure-availability-and-routing-for-live-chat-and-meetings.md)
+* [Konfigurieren von Live-Chat und Besprechungsbuchung](configure-live-chat-and-meeting-booking.md)
