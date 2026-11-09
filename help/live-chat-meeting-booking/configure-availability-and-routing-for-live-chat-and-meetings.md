@@ -31,7 +31,7 @@ Erfahren Sie, wie Adobe Brand Concierge repräsentative Verfügbarkeits- und Rou
 
 >[!VIDEO](https://video.tv.adobe.com/v/3506785?learn=on)
 
-Weitere Informationen finden Sie unter [Einrichten von ](../documentation/sales-handoff/representative-setup.md) und [Weiterleiten von Konversationen an Vertreter](../documentation/sales-handoff/routing-rules.md).
+Weitere Informationen finden Sie unter [Einrichten von &#x200B;](../documentation/sales-handoff/representative-setup.md) und [Weiterleiten von Konversationen an Vertreter](../documentation/sales-handoff/routing-rules.md).
 
 ## Verwandte Tutorials
 
