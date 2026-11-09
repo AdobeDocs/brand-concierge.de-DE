@@ -30,7 +30,7 @@ Erfahren Sie, wie Adobe Brand Concierge Website-Besucher über Live-Chat oder Me
 * Auswählen einer verfügbaren Besprechungszeit durch Besucherinnen und Besucher mithilfe von Routing-Regeln, ohne die bereits während der Sitzung bereitgestellten Details erneut zu übermitteln
 * Erfahren Sie, wie Ihr Team aktive und vergangene Chats überprüft und Meetings in Marketo gebucht, Datensätze sucht und filtert und Meetinginformationen in CSV exportiert
 
->[!VIDEO](https://video.tv.adobe.com/v/3505998?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506005?captions=ger&learn=on)
 
 Weitere Informationen finden Sie unter [Live-Chat und Besprechungsbuchung](../documentation/sales-handoff/overview.md).
 

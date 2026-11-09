@@ -28,7 +28,7 @@ Erfahren Sie, wie Sie Live-Chat und Meeting-Buchung in Adobe Brand Concierge kon
 * Fügen Sie die Integrationen zur Kenntnis Übergabe an den Vertrieb hinzu und definieren Sie die Absichten, mit denen sie Trigger wird
 * Überprüfen Sie automatisch generierte Anweisungen, verfeinern Sie die Absichten für jede Integration und testen Sie die Kenntnisse in der Vorschau.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508052?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508059?captions=ger&learn=on)
 
 Weitere Informationen finden Sie unter [Aktivieren von Live-Chat und Besprechungsbuchung](../documentation/sales-handoff/configure-in-composer.md).
 
