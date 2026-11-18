@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 269
 last-substantial-update: 2026-10-05
 jira: KT-22190
-source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
+source-git-commit: b1085e3d143bbfbf221c0a8269746be7a153a4d0
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '303'
 ht-degree: 0%
 ---
 
@@ -35,7 +35,7 @@ Validieren Sie vor dem Start von Adobe Brand Concierge Ihre Inhalte, Ihre Marken
 * Beziehen Sie die Genehmigung der Stakeholder ein und bestätigen Sie die technische Bereitschaft mit Adobe-Ressourcen, wenn diese beteiligt sind.
 * Planen Sie einen schrittweisen Rollout, der nur dann fortgesetzt wird, wenn die Ergebnisse die nächste Phase unterstützen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504113/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504106/?learn=on)
 
 Beginnen Sie mit internen Teamkollegen und testen Sie vollständige End-to-End-Flüsse. Ziehen Sie dann einen kleinen anfänglichen Rollout in Betracht, z. B. 5 % der Zielseiten, bevor Sie ihn auf 25 %, 50 % und schließlich 100 % erweitern. Dies sind Beispielphasen, kein fester Zeitplan. Setzen Sie die Überwachung über Ihr Analytics-Dashboard mindestens einmal wöchentlich nach dem vollständigen Rollout fort.
 
@@ -46,6 +46,6 @@ Beginnen Sie mit internen Teamkollegen und testen Sie vollständige End-to-End-F
 * [Vorbereiten von Inhalten und Besucher-Journey](content-and-journey.md)
 * [Messen der Qualität und Festlegen von Schutzmaßnahmen](measuring-quality-and-setting-guardrails.md)
 * [Technische Einrichtung und optionale Funktionen](technical-setup-and-optional-features.md)
-* [Brand Concierge-Wiedergabeliste für Go-Live-Checklisten](https://experienceleague.adobe.com/de/playlists/brand-concierge-go-live-checklist)
+* [Brand Concierge-Wiedergabeliste für Go-Live-Checklisten](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
-Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
+Die Dokumentation finden Sie unter [Checkliste für die Live-Schaltung](../documentation/go-live-checklist/go-live-checklist.md) und in der [Brand Concierge-Hilfe](../documentation/overview.md).

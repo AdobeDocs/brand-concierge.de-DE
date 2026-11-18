@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
+source-git-commit: b1085e3d143bbfbf221c0a8269746be7a153a4d0
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '190'
 ht-degree: 0%
 ---
 
@@ -39,7 +39,7 @@ Adobe Brand Concierge kann nur Fragen sowie die von Ihnen bereitgestellten Inhal
 * Vorbereiten Ihres Inhalts vor der Freigabe
 * Schreiben einer Journey-Definition für einseitige Besucher
 
->[!VIDEO](https://video.tv.adobe.com/v/3496014/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496007/?learn=on)
 
 ## Verwandte Tutorials
 
@@ -48,8 +48,8 @@ Adobe Brand Concierge kann nur Fragen sowie die von Ihnen bereitgestellten Inhal
 * [Messen der Qualität und Festlegen von Schutzmaßnahmen](measuring-quality-and-setting-guardrails.md)
 * [Technische Einrichtung und optionale Funktionen](technical-setup-and-optional-features.md)
 * [Checkliste vor der Live-Schaltung und Rollout-Plan](your-pre-go-live-checklist-and-rollout-plan.md)
-* [Brand Concierge-Wiedergabeliste für Go-Live-Checklisten](https://experienceleague.adobe.com/de/playlists/brand-concierge-go-live-checklist)
+* [Brand Concierge-Wiedergabeliste für Go-Live-Checklisten](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 ## Dokumentation
 
-Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
+Die Dokumentation finden Sie unter [Checkliste für die Live-Schaltung](../documentation/go-live-checklist/go-live-checklist.md) und in der [Brand Concierge-Hilfe](../documentation/overview.md).
