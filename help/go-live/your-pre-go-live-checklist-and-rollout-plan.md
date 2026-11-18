@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 269
 last-substantial-update: 2026-10-05
 jira: KT-22190
-source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
+source-git-commit: b1085e3d143bbfbf221c0a8269746be7a153a4d0
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '303'
 ht-degree: 0%
 ---
 
@@ -48,4 +48,4 @@ Beginnen Sie mit internen Teamkollegen und testen Sie vollständige End-to-End-F
 * [Technische Einrichtung und optionale Funktionen](technical-setup-and-optional-features.md)
 * [Brand Concierge-Wiedergabeliste für Go-Live-Checklisten](https://experienceleague.adobe.com/de/playlists/brand-concierge-go-live-checklist)
 
-Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
+Die Dokumentation finden Sie unter [Checkliste für die Live-Schaltung](../documentation/go-live-checklist/go-live-checklist.md) und in der [Brand Concierge-Hilfe](../documentation/overview.md).

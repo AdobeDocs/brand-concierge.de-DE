@@ -7,6 +7,7 @@ level: Beginner
 doc-type: Tutorial
 duration: 198
 last-substantial-update: 2026-07-17T00:00:00.000Z
+nudge-edit: 2026-11-18
 jira: KT-21785
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
@@ -17,9 +18,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
+source-git-commit: aa0cca6dac2bac5ddf75f72341b76aa0c02ad5f0
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '190'
 ht-degree: 0%
 ---
 
@@ -52,4 +53,4 @@ Adobe Brand Concierge kann nur Fragen sowie die von Ihnen bereitgestellten Inhal
 
 ## Dokumentation
 
-Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
+Die Dokumentation finden Sie unter [Checkliste für die Live-Schaltung](../documentation/go-live-checklist/go-live-checklist.md) und in der [Brand Concierge-Hilfe](../documentation/overview.md).

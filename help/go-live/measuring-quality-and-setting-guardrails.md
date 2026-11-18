@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
+source-git-commit: b1085e3d143bbfbf221c0a8269746be7a153a4d0
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '218'
 ht-degree: 0%
 ---
 
@@ -52,4 +52,4 @@ Vor dem Launch von Adobe Brand Concierge müssen Sie eine Möglichkeit haben, zu
 * [Checkliste vor der Live-Schaltung und Rollout-Plan](your-pre-go-live-checklist-and-rollout-plan.md)
 * [Brand Concierge-Wiedergabeliste für Go-Live-Checklisten](https://experienceleague.adobe.com/de/playlists/brand-concierge-go-live-checklist)
 
-Die Dokumentation finden Sie in der [Brand Concierge-Hilfe](../documentation/overview.md).
+Die Dokumentation finden Sie unter [Checkliste für die Live-Schaltung](../documentation/go-live-checklist/go-live-checklist.md) und in der [Brand Concierge-Hilfe](../documentation/overview.md).
