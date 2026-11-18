@@ -7,6 +7,7 @@ level: Beginner
 doc-type: Tutorial
 duration: 131
 last-substantial-update: 2026-08-07T00:00:00.000Z
+nudge-edit: 2026-11-18
 jira: KT-22187
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
@@ -17,7 +18,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: b1085e3d143bbfbf221c0a8269746be7a153a4d0
+source-git-commit: aa0cca6dac2bac5ddf75f72341b76aa0c02ad5f0
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -39,7 +40,7 @@ Ihr Concierge sollte nicht wie ein allgemeiner Chatbot klingen - er sollte wie I
 * Visuelle Widget-Optionen: Platzierung, Anzeigemodus, Farbe und Schriftart
 * Benennung des Assistenten, Schreiben der Begrüßung und Auswahl der Eingabeaufforderungen
 
->[!VIDEO](https://video.tv.adobe.com/v/3496949/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496942/?learn=on)
 
 ## Verwandte Tutorials
 
@@ -48,6 +49,6 @@ Ihr Concierge sollte nicht wie ein allgemeiner Chatbot klingen - er sollte wie I
 * [Messen der Qualität und Festlegen von Schutzmaßnahmen](measuring-quality-and-setting-guardrails.md)
 * [Technische Einrichtung und optionale Funktionen](technical-setup-and-optional-features.md)
 * [Checkliste vor der Live-Schaltung und Rollout-Plan](your-pre-go-live-checklist-and-rollout-plan.md)
-* [Brand Concierge-Wiedergabeliste für Go-Live-Checklisten](https://experienceleague.adobe.com/de/playlists/brand-concierge-go-live-checklist)
+* [Brand Concierge-Wiedergabeliste für Go-Live-Checklisten](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 Die Dokumentation finden Sie unter [Checkliste für die Live-Schaltung](../documentation/go-live-checklist/go-live-checklist.md) und in der [Brand Concierge-Hilfe](../documentation/overview.md).
